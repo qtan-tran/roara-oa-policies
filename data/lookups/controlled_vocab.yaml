@@ -1,0 +1,9 @@
+# Controlled vocabulary for OA policies dataset.
+# Define allowed values for columns such as OA Mandate's Strength, Type of Open Access, and others.
+# Example:
+# oa_mandate_strength:
+#   - Weak
+#   - Weak/Medium
+#   - Medium
+#   - Medium-High
+#   - High
