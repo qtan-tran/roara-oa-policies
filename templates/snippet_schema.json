@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Snippet",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["policy_id", "page", "quote", "code", "note"],
+  "properties": {
+    "policy_id": {
+      "type": "string",
+      "description": "Stable identifier for the policy (matches policy metadata)"
+    },
+    "page": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Page number in the policy PDF where the quote appears"
+    },
+    "quote": {
+      "type": "string",
+      "description": "Exact text excerpt from the policy document"
+    },
+    "code": {
+      "type": "string",
+      "description": "Code assigned to the excerpt based on the codebook"
+    },
+    "note": {
+      "type": "string",
+      "description": "Free-text comment from coder with context or interpretation"
+    }
+  }
+}
