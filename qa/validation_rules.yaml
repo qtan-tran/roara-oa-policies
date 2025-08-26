@@ -1,0 +1,33 @@
+# Validation rules for OA policy tables
+columns:
+  OA Mandate's Strength:
+    allowed_values:
+      - Weak
+      - Weak/Medium
+      - Medium
+      - Medium-High
+      - High
+  Type of Open Access:
+    allowed_values:
+      - Green
+      - Gold
+      - Diamond
+      - "Green, Gold"
+      - "Green, Gold, Diamond"
+  Time of Implementation:
+    regex: "^\\d{4}(-\\d{2}(-\\d{2})?)?$"  # ISO 8601 date (YYYY or YYYY-MM-DD)
+  Deposited Version:
+    allowed_values:
+      - VoR
+      - AAM
+      - Preprint
+      - "VoR preferred; AAM ok"
+      - Unspecified
+  Data/OER Coverage:
+    allowed_values:
+      - Data
+      - OER
+      - "Data; OER"
+      - Unspecified
+general:
+  unspecified_value: Unspecified
