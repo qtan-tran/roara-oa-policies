@@ -1,0 +1,16 @@
+# Template for policy metadata
+policy_id: 
+institution: 
+title: 
+year: 
+language: 
+source_url: 
+date_accessed: YYYY-MM-DD
+document_type: policy
+notes: ""
+checks:
+  text_extracted: false
+  pagination_verified: false
+  checksum_pdf: "<sha256>"
+supersedes: 
+superseded_by: 
