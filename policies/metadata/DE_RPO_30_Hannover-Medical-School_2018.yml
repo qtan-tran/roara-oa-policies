@@ -1,0 +1,13 @@
+policy_id: DE_RPO_30_Hannover-Medical-School_2018
+institution: Hannover Medical School
+title: Open-Access-Policy der Medizinischen Hochschule Hannover
+year: 2018
+language: de
+source_url: ""
+date_accessed: 2025-08-27
+document_type: policy
+notes: RPO policy
+checks:
+  text_extracted: true
+  pagination_verified: false
+  checksum_pdf: 25f6cb9f14974e520561ba5f8e257f66d37b1c467f621b1229539d400677af51
