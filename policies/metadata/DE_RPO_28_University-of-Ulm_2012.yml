@@ -1,0 +1,13 @@
+policy_id: DE_RPO_28_University-of-Ulm_2012
+institution: University of Ulm
+title: Open-Access-Resolution der Universität Ulm
+year: 2012
+language: de
+source_url: ""
+date_accessed: 2025-08-27
+document_type: policy
+notes: RPO policy
+checks:
+  text_extracted: true
+  pagination_verified: false
+  checksum_pdf: 47c91dc3d3ed23d1e1e6819723556457285b3dec5d64c94e2851a32384fe8403
