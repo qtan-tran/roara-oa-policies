@@ -1,0 +1,245 @@
+May 2021
+
+Open Access Policy of Freie Universität Berlin
+Table of contents
+1
+
+Preamble...................................................................................................................................................................... 1
+
+2
+
+Definition..................................................................................................................................................................... 2
+
+3
+
+Scope. .......................................................................................................................................................................... 2
+
+4
+
+Guidelines.................................................................................................................................................................... 2
+
+5
+
+Entry into Force........................................................................................................................................................... 3
+
+6
+
+References.................................................................................................................................................................... 4
+
+7
+
+Imprint......................................................................................................................................................................... 4
+
+1
+
+Preamble
+
+Freie Universität Berlin endorses the principles of the open access model and attaches great importance to the
+dissemination of high-quality academic publications while complying with all applicable academic standards.
+It is an active participant in the relevant open access initiatives and is dedicated to achieving the objectives of
+the Open Access Strategy for Berlin 1. Together with its partners within the Berlin University Alliance (BUA), it
+fosters openness and transparency in research and continuously expands its range of services in the areas of
+research data management and open access publications. It supports members of the university (researchers,
+instructors, and students) in implementing the applicable principles and standards in line with the German
+Research Foundation’s Guidelines for Safeguarding Good Research Practice,2 Freie Universität Berlin’s Statute
+for Safeguarding Good Scientific Practice,3 Freie Universität Berlin’s Research Data Policy,4 the FAIR principles
+for research data,5 and other recommendations pertaining to the entire research process, from data collection
+to the publication of research findings. Making research findings freely available by sustainable means allows
+them to gain a broader audience and greater visibility, as well as ensuring transparency in the field of academia.
+It also opens up their potential to be subsequently used and disseminated throughout society, such as within
+the context of open science, open research, and open scholarship.6
+This approach to making academic findings more widely accessible (usually referred to as open access) stands
+in line with rights such as the freedom to publish and academic freedom, whereby the researcher is free to
+choose where they will publish their work.
+1
+
+Senat von Berlin. 2015. ‘Open-Access-Strategie für Berlin’. https://doi.org/10.17169/refubium-26319.
+
+2
+
+Deutsche Forschungsgemeinschaft. 2019. ‘Guidelines for Safeguarding Good Research Practice. Code of Conduct’.
+https://doi.org/10.5281/zenodo.3923602.
+
+3
+
+Freie Universität Berlin. 2020. ‘Satzung zur Sicherung guter wissenschaftlicher Praxis (GWP-Satzung)’. Mitteilungen. Amtsblatt der
+Freien Universität Berlin 2020 (42). www.fu-berlin.de/service/zuvdocs/amtsblatt/2020/ab422020.pdf.
+
+4
+
+Freie Universität Berlin. 2021. ‘Research Data Policy of Freie Universität Berlin’. https://doi.org/10.17169/refubium-30560.
+
+5
+
+Initiated in 2016, the FAIR principles (‘FAIR Principles’. n.d. Accessed 23 July 2021. www.go-fair.org/fair-principles/.) aim to improve
+the findability, accessibility, interoperability, and reusability of digital data; see Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan
+Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. ‘The FAIR Guiding Principles for Scientific
+Data Management and Stewardship’. Scientific Data 3 (1): 160018. https://doi.org/10.1038/sdata.2016.18.
+
+6
+
+See e.g. the definition of the FOSTER portal (‘Open Science Definition | FOSTER’. n.d. Accessed 23 July 2021. www.fosteropenscience.
+eu/taxonomy/term/100.) and the recommendations of the European Commission: ‘Commission Recommendation (EU) 2018/790
+of 25 April 2018 on Access to and Preservation of Scientific Information’. n.d. Accessed 23 July 2021. https://eur-lex.europa.eu/eli/
+reco/2018/790/oj.
+
+2
+
+Definition
+
+The term “open access” refers to the concept of making academic publications freely accessible online, across
+the world, without legal, technical, or financial barriers. According to the Berlin Declaration on Open Access
+to Knowledge in the Sciences and Humanities from 2003, open access publications must fulfill the following
+criteria:
+The author(s) and right holder(s) of such contributions grant(s) to all users a free, irrevocable, worldwide, right
+of access to, and a license to copy, use, distribute, transmit, and display the work publicly, and to make and
+distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of
+authorship […].7
+The “gold” route of open access refers to when an author makes their article immediately accessible at the original site of publication, thus making it freely available to other researchers from day one, whereas the “green”
+route refers to when an author publishes their article via a non-open access publisher or journal and additionally deposits an open access version in a repository.8
+
+3
+
+Scope
+
+The open access policy at hand applies to all members of Freie Universität Berlin. The binding policies of Freie
+Universität Berlin regarding data protection9 and IT security  10 shall also apply.
+
+4
+
+Guidelines
+
+With regard to its commitment to making academic information freely accessible and as a signatory of the
+Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, Freie Universität Berlin calls
+upon all members of the university to publish the results of their research online without access restrictions in
+line with the open access principle.
+The Executive Board and Academic Senate of Freie Universität Berlin actively encourage all members of the
+university to make their research findings and academic work freely available, and thereby adopt the following
+guidelines:
+1. Freie Universität Berlin shall recommend that all members of the university initially publish their work as
+open access under an open license, preferably CC BY 11 (“gold open access”).
+2. Freie Universität Berlin shall strongly encourage all members of the university to assert their secondary
+publication rights and make their publications available via Freie Universität’s Refubium,12 the university’s
+institutional repository, or via a suitable discipline-specific public open access repository for research and
+teaching.
+3. Freie Universität Berlin shall strongly encourage all members of the university to merely grant publishing
+houses the non-exclusive right of use when concluding contracts with said publishing houses. If this is not
+possible, it recommends that authors explicitly reserve the right to simultaneously publish online via the
+Refubium.
+
+7
+
+‘Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities’. 2003. https://openaccess.mpg.de/67605/berlin_
+declaration_engl.pdf.
+
+8
+
+An overview of other terms used in this policy is provided in the glossary available online: ‘What Is Open Access?’ 2012. Accessed 23
+July 2021. www.fu-berlin.de/en/sites/open_access/ueberopenaccess/was.
+
+9
+
+Freie Universität Berlin. 2013. ‘Datenschutzsatzung der Freien Universität Berlin’. Mitteilungen. Amtsblatt der Freien Universität Berlin
+2013 (53). www.fu-berlin.de/sites/it-sicherheit/downloads/Datenschutzsatzung.pdf.
+
+10 Freie Universität Berlin. 2019. ‘IT-Sicherheitsrichtlinie der Freien Universität Berlin (Version 4.0)’. www.fu-berlin.de/sites/it-sicherheit/
+downloads/IT-Sicherheitsrichtlinie.pdf.
+11 ‘About The Licenses - Creative Commons’. n.d. Accessed 23 July 2021. https://creativecommons.org/licenses/.
+12 ‘Refubium – Freie Universität Berlin Repository’. n.d. Accessed 23 July 2021. https://refubium.fu-berlin.de/.
+
+PAGE 2
+
+4. The University Library shall support members of the university in all questions related to academic publishing with regard to open access by providing information materials, consultation services, and finances (e.g.,
+publication funds,13 financial support for open access monographs and anthologies 14 and other financial
+support).
+5. Freie Universität Berlin shall support the publication of open access journals and books in which members
+of the university are involved. To this end, the University Library shall provide the appropriate infrastructure
+(Open Journal Systems/OJS, Open Monograph Press/OMP)15 and applicable consultation services.
+6. Freie Universität Berlin shall encourage members of the university to get involved with recognized open
+access publication bodies by taking on roles related to publishing, editing, and reviewing.
+7. Freie Universität Berlin’s own publications shall be published under an open license, preferably CC BY, provided that doing so does not run contrary to legal restrictions or regulations.
+8. Freie Universität Berlin shall endorse the free accessibility of research data. Guidelines on the management
+of research data and its publication are outlined in the Research Data Policy of Freie Universität Berlin. 16 The
+University Library shall support researchers, instructors, and students in its implementation.
+9. Freie Universität Berlin shall strongly recommend that members of the university use the Open Researcher
+and Contributor ID (ORCID),17 which guarantees that publications and research data are linked to the correct researcher.
+10. Freie Universität Berlin has appointed an Open Access Representative in order to enforce its open access
+policy. The main tasks involved in promoting open access are the responsibility of the University Library.
+
+5
+
+Entry into Force
+
+This policy was approved by the Academic Senate of Freie Universität Berlin on May 5, 2021, and thereby
+entered into force.
+The University Library will be responsible for coordinating a review of this policy every two years with the
+participating central institutes and committees to evaluate its validity in order to adapt it to new challenges,
+developments in infrastructure, and the needs of researchers.
+The University Library is the point of contact for any questions related to this policy
+(open-access@fu-berlin.de).
+
+13 ‘Publication Fund’. 2017. Accessed 23 July 2021. www.fu-berlin.de/en/sites/open_access/finanzierung/publikationsfonds.
+14 ‘Open Access Monographs and Edited Volumes’. 2018. Accessed 23 July 2021. www.fu-berlin.de/en/sites/open_access/finanzierung/
+monogr-sammelbaende.
+15 ‘E-Publishing & Open Access’. 2017. Accessed 23 July 2021. www.cedis.fu-berlin.de/services/e-publishing.
+16 Freie Universität Berlin (2021), op. cit.
+17 ‘ORCID’. n.d. Accessed 23 July 2021. https://orcid.org/ and ‘Information - ORCID DE’. n.d. Accessed 23 July 2021. www.orcid-de.org/
+information.
+
+PAGE 3
+
+6
+
+References
+
+‘About The Licenses - Creative Commons’. n.d. Accessed 23 July 2021. https://creativecommons.org/licenses/.
+‘Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities’. 2003. https://openaccess.
+mpg.de/67605/berlin_declaration_engl.pdf.
+‘Commission Recommendation (EU) 2018/790 of 25 April 2018 on Access to and Preservation of Scientific
+Information’. n.d. Accessed 23 July 2021. https://eur-lex.europa.eu/eli/reco/2018/790/oj.
+Deutsche Forschungsgemeinschaft. 2019. ‘Guidelines for Safeguarding Good Research Practice. Code of
+Conduct’. https://doi.org/10.5281/zenodo.3923602.
+‘E-Publishing & Open Access’. 2017. Accessed 23 July 2021. https://www.cedis.fu-berlin.de/services/epublishing.
+‘FAIR Principles’. n.d. Accessed 23 July 2021. https://www.go-fair.org/fair-principles/.
+Freie Universität Berlin. 2013. ‘Datenschutzsatzung der Freien Universität Berlin’. Mitteilungen. Amtsblatt
+der Freien Universität Berlin 2013 (53). https://www.fu-berlin.de/sites/it-sicherheit/downloads/
+Datenschutzsatzung.pdf.
+———. 2019. ‘IT-Sicherheitsrichtlinie der Freien Universität Berlin (Version 4.0)’. https://www.fu-berlin.de/
+sites/it-sicherheit/downloads/IT-Sicherheitsrichtlinie.pdf.
+———. 2020. ‘Satzung zur Sicherung guter wissenschaftlicher Praxis (GWP-Satzung)’. Mitteilungen. Amtsblatt
+der Freien Universität Berlin 2020 (42). https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2020/
+ab422020.pdf.
+———. 2021. ‘Research Data Policy of Freie Universität Berlin’. https://doi.org/10.17169/refubium-30560.
+‘Information - ORCID DE’. n.d. Accessed 23 July 2021. https://www.orcid-de.org/information/.
+‘Open Access Monographs and Edited Volumes’. 2018. Accessed 23 July 2021. https://www.fu-berlin.de/en/
+sites/open_access/finanzierung/monogr-sammelbaende.
+‘Open Science Definition | FOSTER’. n.d. Accessed 23 July 2021. https://www.fosteropenscience.eu/taxonomy/
+term/100.
+‘ORCID’. n.d. Accessed 23 July 2021. https://orcid.org/.
+‘Publication Fund’. 2017. Accessed 23 July 2021. https://www.fu-berlin.de/en/sites/open_access/finanzierung/
+publikationsfonds.
+‘Refubium – Freie Universität Berlin Repository’. n.d. Accessed 23 July 2021. https://refubium.fu-berlin.
+de/?locale-attribute=en.
+Senat von Berlin. 2015. ‘Open-Access-Strategie für Berlin’. https://doi.org/10.17169/refubium-26319.
+‘What Is Open Access?’ 2012. Accessed 23 July 2021. https://www.fu-berlin.de/en/sites/open_access/
+ueberopenaccess/was.
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie
+Baak, Niklas Blomberg, et al. 2016. ‘The FAIR Guiding Principles for Scientific Data Management and
+Stewardship’. Scientific Data 3 (1): 160018. https://doi.org/10.1038/sdata.2016.18.
+
+7
+
+Imprint
+
+Freie Universität Berlin
+Kaiserswerther Straße 16–18
+14195 Berlin
+May 2021
+Layout: Freie Universität Berlin, Center for Digital Systems (CeDiS)
+www.fu-berlin.de/en
+www.fu-berlin.de/en/sites/open_access
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+PAGE 4
+
+

@@ -1,0 +1,258 @@
+Open Access Policy within the Max Weber
+Foundation
+Adopted by the Board of Trustees on November 22, 2024
+
+Preamble
+
+The Max Weber Foundation – German Humanities Institutes Abroad (Max Weber Stiftung –
+Deutsche Geisteswissenschaftliche Institute im Ausland (MWS)) is a publicly funded organization
+that aims to inform both the scientific community and the general public about its research
+activities and results, and to make these freely available. The MWS advocates for Open Science in
+which all components of the research process are as accessible, transparent, and reusable as
+possible, in order to promote research, innovation, and transfer in science, in the economy, and in
+the public interest. The foundation understands Open Access (OA) as the open provision of and free
+access to peer-reviewed, high-quality publications under standardized open licenses as a central
+component of Open Science and as part of good scientific practice.
+
+Relationship to other documents and existing practices of
+the MWS
+The current Open Access Policy is based on the MWS’s agreements with the Federal Ministry of
+Education and Research (BMBF) as well as the MWS’s sustainability and “Strategy 2030” concept
+papers. 1 It is aligned with the Open Access Strategy of the BMBF 2 and concretizes the Open Science
+Policy of the Max Weber Foundation 3 with respect to publication processes.
+
+1 Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2023). Nachhaltigkeitskonzept der Max
+
+Weber Stiftung. Zenodo. https://doi.org/10.5281/zenodo.10220844; the MWS strategy until 2030:
+https://www.maxweberstiftung.de/fileadmin/user_upload/MWS_Strategie2030.pdf (both documents are only available
+in German).
+2 Bundesministerium für Bildung und Forschung (2018): Open Access in Deutschland. Die Strategie des
+Bundesministeriums für Bildung und Forschung.
+https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicati
+onFile&v=5.
+3 Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2024). Open Science Policy within the
+Max Weber Foundation. Zenodo. https://doi.org/10.5281/zenodo.14283651.
+
+The MWS has signed the Berlin Declaration (2003) on “Open Access to Knowledge in the Sciences
+and Humanities” 4 and the “Action Plan for Diamond Open Access” 5 (2022). The MWS follows the
+recommendations of the German Science Council on transitioning scientific publishing to an Open
+Access framework. 6 Furthermore, the MWS has taken part in building and actively participates in
+national and European research infrastructure consortia with a special focus on Open Access
+publications (OPERAS, GKFI e.V.). In addition, it has operated its own Open Access publication
+platform, perspectivia.net, since 2008. 7 Many volumes and journals of the institutes of the Max
+Weber Foundation are already published in Open Access. The foundation aims to transform all
+publications of its institutes into Open Access.
+
+Commitment to Open Access principles
+
+The Max Weber Foundation and its institutes are committed to the principles of Open Access and
+include their employees in this responsibility. The foundation supports its employees in scientific
+publishing in Open Access. Publications should be made available under a free license (e.g. CC BY
+4.0) as soon as possible, considering specific disciplinary considerations and relevant quality
+criteria, regardless of the publication venue. This includes hybrid publication forms that combine
+freely-accessible online offers with cost-based print offers.
+
+The MWS supports researchers in implementing Open Access through consultancy services,
+financial subventions, and by providing the necessary infrastructure:
+•
+
+•
+•
+
+Consultancy services: The institutes of the MWS appoint contact persons who consult
+researchers in cooperation with the Digital Library of the MWS 8 regarding the selection of
+suitable formats for Open Access publications, taking into account the funding possibilities
+and Open Access infrastructure of the MWS, as well as possibilities for secondary
+publication.
+Further education: The MWS regularly offers further education to its researchers on
+individual publication strategies and increasing the visibility of their own publications.
+Infrastructure: The MWS provides the digital publication platform perspectivia.net as a
+Diamond Open Access model. Taking into consideration binding quality criteria, 9 research
+results in the form of both primary (Diamond OA model 10) and secondary publications
+(Green OA 11) are shared on the platform and made freely accessible in the long term.
+Through the cooperation of perspectivia.net, institute libraries, and the Digital Library of
+the MWS with library networks, subject information services, and publishers, the optimal
+findability of Open Access publications in catalogs and databases is ensured. This
+
+4 See: https://openaccess.mpg.de/Berlin-Declaration.
+
+5 Ancion, Zoé, Borrell-Damián, Lidia, Mounier, Pierre, Rooryck, Johan, & Saenen, Bregt. (2022): Action Plan for Diamond
+
+Open Access. Zenodo. https://doi.org/10.5281/zenodo.6282403.
+6 Wissenschaftsrat (2022): Empfehlungen zur Transformation des wissenschaftlichen Publizierens zu Open Access.
+https://www.wissenschaftsrat.de/download/2022/9477-22.pdf?__blob=publicationFile&v=24.
+7 See: https://perspectivia.net/.
+8 Contact: open-access@maxweberstiftung.de
+9 The quality criteria are defined and overseen by the scientific advisory board of perspectivia.net and follow the
+recommendations of EQSIP: Rico-Castro, P., Rooryck, J., Melinščak Zlodi, I., Stojanovski, J., Ševkušić, M., & Armengou, C.
+(2024). D3.2 Extensible Quality Standard in Institutional Publishing (EQSIP) V2.0 for Diamond Open Access (1.0).
+Zenodo. https://doi.org/10.5281/zenodo.10726732.
+10 See glossary.
+11 See glossary.
+
+2
+
+•
+
+•
+
+•
+
+contributes to the international visibility of research results from the MWS’s institutes and
+to better networking of researchers.
+Secondary publication rights: When publications appear in subscription-based journals
+and immediate Open Access is not possible, researchers of the MWS may exercise their right
+to secondary publication in accordance with §38 Abs. 1 (UrhG) in an Open Access
+repository of their choice. Researchers should also exhaust all possibilities of Open Access
+publication for monographs and collections.
+Open Access Fund: The MWS takes into account the fact that Open Access publications may
+be associated with costs depending on the publisher and funding model. Therefore, the
+MWS financially supports Open Access not only through the operation of its own OA
+publication platform (perspectivia.net), but also aims to establish a publication fund that
+offers MWS members additional options for publishing in Open Access. The fund will
+support publications on OA platforms, in OA journals, or OA repositories that meet the
+internationally recognized and supported criteria of Plan S. 12 The explicit and transparent
+costs for services such as layout, editing, peer review, and quality assurance, which are
+invoiced by the mentioned platforms, journals, or repositories according to their business
+model, are could be part of the funding. 13
+Monitoring: The MWS will explicitly recognize and highlight Open Access publications in
+its annual monitoring report to demonstrate their value and importance. Furthermore, the
+MWS asks its employees to reflect on their voluntary contributions to the processes of
+reviewing, editing, and copy-editing research publications and encourages them to
+prioritize participating in processes which will produce Open Access publication. The
+engagement of non-commercial Open Access offers will be particularly encouraged,
+evaluated, and honored.
+
+Scope of application
+
+The Open Access Policy applies to the entire foundation and all researchers of the MWS. The
+institutes may establish their own regulations for the free access to publications of their
+researchers which were created before the beginning of their contract or are published after their
+contract ends.
+
+Validity
+
+The current guidelines were adopted by the Board of Trustees of the MWS on 22.11.2024 in Berlin.
+They will be reviewed and, if necessary, updated at least every four years with regard to new
+developments in the fields of Open Access and Open Science.
+
+12 Plan S is the implementation of and the transformation process in Diamond Open Access: https://www.coalition-
+
+s.org/plan_s_principles/.
+13 Johan Rooryck. 2023. „Principles of Diamond Open Access Publishing: A Draft Proposal“. Billet. The Diamond Papers
+(blog). 2. Mai 2023. https://thd.hypotheses.org/35.
+
+3
+
+Current version of the guidelines
+Version
+
+1.0
+
+Publication
+
+Kommentar/Änderungen
+
+28.01.2025
+
+First publication, adopted by the Board of Trustees on
+November 22, 2024.
+Translation of the original text was done with the help
+of AI (https://docs.hpc.gwdg.de/services/chatai/models/index.html#llama-31-8b-instruct) plus
+human manual correction and editing.
+
+License
+The current policy is licensed under the Creative Commons Attribution 4.0 International (CC BY
+4.0) license.
+
+Citation
+
+Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2024). Open Access
+Policy within the Max Weber Foundation. Zenodo. https://doi.org/ 10.5281/zenodo.14282081.
+
+Glossary
+
+Diamond Open Access
+Diamond Open Access means that there are no fees to either authors or readers. The financing is
+done through institutional or higher-level funding. This definition refers to the Action Plan for
+Diamond Open Access. 14
+
+Embargo period
+
+An embargo period is a time delay after which publishers allow authors to make the full texts of
+their publications available to the public in a repository. 15
+
+Free license
+
+A free license allows the use, dissemination, and modification of copyrighted works. This is the case,
+for example, with Creative Commons licenses: CC BY 4.0 or CC BY-SA 4.0. The latter allows the
+reuse and re-publication only under the same license conditions as the original (share alike).
+
+Green OA
+
+Green Open Access - also known as self-archiving – refers to making works published with a
+publisher or in a journal available to the public in a repository. It is sometimes understood to refer
+also to making such works available on the author’s personal website. Self-archiving can take place
+at the same time as the publication of the content by the publisher or at a later date, and is possible
+14 Ancion, Z., Borrell-Damián, L., Mounier, P., Rooryck, J., & Saenen, B. (2022). Action Plan for Diamond Open Access.
+
+Zenodo. https://doi.org/10.5281/zenodo.6282403.
+15 See: https://open-access.network/en/information/glossary#c6285.
+
+4
+
+for preprints and post-prints of scholarly articles, as well as for other document types, for example,
+monographs, research reports, and conference proceedings. 16
+
+Open Access
+
+In the Budapest Open Access Initiative, Open Access is defined as follows: Open Access means that
+“[...] literature, [is] free availability on the public internet, permitting any users to read, download,
+copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass
+them as data to software, or use them for any other lawful purpose, without financial, legal, or
+technical barriers other than those inseparable from gaining access to the internet itself. The only
+constraint on reproduction and distribution, and the only role for copyright in this domain, should
+be to give authors control over the integrity of their work and the right to be properly
+acknowledged and cited.” 17
+
+Open-Access-Repository
+
+An Open-Access-repository is operated by universities or research institutions that publish and
+make scientific materials available worldwide and in the long term. Institutional OA repositories
+(operated by institutions such as university libraries, other infrastructure institutions, or research
+organizations, e.g. perspectivia.net) and disciplinary OA repositories (institutions-transcending,
+thematically bundled, e.g. for a subject area, FID repositories) as well as generic OA repositories
+(e.g. Zenodo) are distinguished.
+
+Transformation
+
+In the context of open access, the term transformation refers to the complete conversion of the
+scholarly publication system to open access, inter alia by converting traditional subscription
+journals into open access journals. 18
+
+Secondary publication right
+
+The secondary publication right is a limitation under German copyright law that gives the author of
+a contribution to a periodically published collection the right to make the contribution available to
+the public online for self-archiving in a repository after an embargo period of 12 months, even if the
+publisher has already been granted an exclusive right of use. The prerequisite is that the
+contribution was produced in the context of publicly funded research. The secondary publication
+right refers to the accepted manuscript version of the contribution (i.e. the author's final version of
+the work, as accepted for publication following peer review but without the publisher's layout). 19
+Many publishers allow also secondary publication of articles in collection volumes and possibly also
+allow to reuse the publisher's layout after a period of at least 12 months. In all secondary
+publications, a clear reference to the primary publication should be made both in the document and
+in the metadata. It is also recommended to inquire with the publisher about the license under
+which publication is allowed to be published in the repository. If possible use a Creative Commons
+licence in the secondary publication. Internationally, the applicable law must be observed in
+accordance with the publication location.
+
+16 See: https://open-access.network/en/information/glossary#c6221.
+17 See: https://www.budapestopenaccessinitiative.org/read/.
+
+18 See: https://open-access.network/en/information/glossary#c6325.
+19 See; https://open-access.network/en/information/glossary#c6330.
+
+5
+
+

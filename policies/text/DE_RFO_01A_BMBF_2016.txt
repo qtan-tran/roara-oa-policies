@@ -1,0 +1,793 @@
+Open Access in
+Deutschland
+Die Strategie des Bundesministeriums
+für Bildung und Forschung
+
+1
+
+Inhaltsverzeichnis
+Vorwort
+
+3
+
+I. Einleitung
+
+4
+
+Open Access – digitalen Wandel in der Wissenschaftspraxis erreichen.................................................................... 4
+
+II. Ausgangslage
+
+5
+
+Deutsche Wissenschaft fördert Open Access . ............................................................................................................... 5
+Open Access auf Landesebene verankern........................................................................................................................ 6
+Grünen Weg stärken – das unabdingbare Zweitveröffentlichungsrecht................................................................... 6
+Open Access im Europäischen Forschungsraum vorantreiben.................................................................................... 6
+
+III. Leitprinzipien der Open Access-Strategie
+
+7
+
+Open Access als Standard des wissenschaftlichen Publizierens etablieren. ............................................................ 7
+Verschiedene Wege für Open Access eröffnen. .............................................................................................................. 7
+Teilhabe und Partizipation an wissenschaftlichen Erkenntnissen stärken. .............................................................. 7
+Hohe Qualität wissenschaftlicher Publikationen wahren. ........................................................................................... 7
+Wissenschaftsfreiheit nicht einschränken. ...................................................................................................................... 7
+
+IV. Etablierung von Open Access in der Breite des deutschen
+Wissenschaftssystems
+
+8
+
+V. Aktionsfelder der Open Access-Strategie
+
+8
+
+VI. Klares Bekenntnis zu Open Access – Verankerung als Grundprinzip
+in der Förderung
+
+9
+
+Open Access in die BMBF-Förderung integrieren. ......................................................................................................... 9
+BMBF-Dialogforum zu Open Access starten................................................................................................................... 9
+
+VII. Neue Wege in der Publikationsfinanzierung
+
+10
+
+Publikationsmittel effizient einsetzen............................................................................................................................ 10
+Open Access-Publikationen fördern. .............................................................................................................................. 10
+Post-Grant-Fund einrichten.............................................................................................................................................. 10
+Open Access in Forschungs­finanzierung integrieren................................................................................................... 10
+
+2
+
+OPEN ACCESS IN DEUTSCHLAND
+
+VIII. Open Access zur gleichwertigen Säule des wissenschaftlichen
+Publikationswesens machen
+
+11
+
+Sichtbarkeit und Akzeptanz erhöhen.............................................................................................................................. 11
+
+IX. Open Access – einfach und praktikabel
+
+11
+
+Nationale Kompetenz- und Vernetzungsstelle einrichten. ........................................................................................ 11
+Erfolgsmodelle von Open Access fördern...................................................................................................................... 12
+
+X. Open Access sichtbar und messbar machen – Open Access-Monitor
+
+12
+
+XI. Ausblick
+
+12
+
+Impressum
+
+13
+
+3
+
+Vorwort
+Wissenschaft lebt vom Dialog und dem offenen
+Austausch. Digitale Technologien haben diese
+Möglichkeiten auf zuvor ungeahnte Weise erweitert.
+Forschungsergebnisse können viel schneller geteilt
+und zum Ausgangspunkt neuer Erkenntnisse werden.
+Der Schlüssel zum Erfolg heißt: Open Access. Interessierte können unentgeltlich, zeit- und ortsunabhängig auf wissenschaftliche Literatur und andere
+Materialien zugreifen.
+Das ist ein Gewinn für Wissenschaftlerinnen und
+Wissenschaftler. Es ist auch ein Gewinn für Unternehmen: Sie können wissenschaftliche Erkenntnisse leichter für Innovationen nutzen. Und es ist ein
+Gewinn für alle, die an wissenschaftlichen Erkenntnissen interessiert sind. Open Access schafft neue
+Chancen der Teilhabe.
+Dahinter steht der einfache Gedanke, dass die
+Ergebnisse öffentlich geförderter Forschung unentgeltlich öffentlich gemacht werden sollten. Das muss
+auch kein Nachteil für Verlage sein. Sie können zu
+entscheidenden Akteuren qualitätsgesicherter Open
+Access-Angebote, digitaler Analysemethoden und
+der Langzeitarchivierung werden. Etliche sind auch
+schon erfolgreich in dieser Richtung tätig.
+Open Access ist eine Idee aus der Wissenschaft. Zahlreiche Wissenschaftlerinnen und Wissenschaftler
+und die Wissenschaftsorganisationen sprechen sich
+dafür aus. Mit seiner Open Access-Strategie leistet
+das Bundesministerium für Bildung und Forschung
+einen wichtigen Beitrag für leichten und dauerhaften
+Zugang zu öffentlich geförderten Forschungspublikationen. Wir schaffen Anreize und Fördermöglich-
+
+keiten für einen besseren Informationsfluss in der
+Wissenschaft. Dazu nehmen wir Open Access in die
+Bestimmungen unserer Projektförderung auf.
+Open Access soll schrittweise zu einem Standard
+des wissenschaftlichen Publizierens werden.
+Das ist ein Kulturwandel. Er stärkt das deutsche
+Wissenschaftssystem nach innen und außen und
+stellt wissenschaftliche Erkenntnisse in die Mitte
+der Gesellschaft. Dafür schafft die vorliegende
+Strategie die notwendige Grundlage.
+
+Prof. Dr. Johanna Wanka
+Bundesministerin für Bildung und Forschung
+
+4
+
+OPEN ACCESS IN DEUTSCHLAND
+
+I. Einleitung
+Open Access – digitalen Wandel in
+der Wissenschaftspraxis erreichen
+Deutschland ist ein Land der Ideen und Innovationen.
+Mit der Digitalisierung eröffnen sich große Chancen,
+die Innovationskraft und globale Wettbewerbsfähigkeit weiter auszubauen. Wissenschaft und Forschung
+sind in besonderem Maße von der digitalen Transformation beeinflusst. Gleichzeitig geben sie selbst
+wichtige Impulse für Entwicklungen, die das Leben
+der Menschen in Gegenwart und Zukunft gestalten.
+Moderne Innovationen können den Alltag zunehmend vereinfachen, unsere Ökosysteme entlasten und
+die Gesundheit der Menschen fördern.
+Fortschritt in Wissenschaft und Forschung lebt von
+einem interdisziplinären und internationalen Austausch von Erkenntnissen. Der Austausch von Informationen und Ergebnissen hat eine lange Tradition
+– auch schon vor dem digitalen Zeitalter. Er befördert
+zukunftsweisende Entdeckungen. Mit digitalen
+Technologien ist es heute möglich, Informationen und
+Wissen einem großen Interessentenkreis sehr
+viel effektiver zugänglich zu machen und Austauschprozesse zu initiieren. Wissenschaftlerinnen und
+Wissenschaftler aus aller Welt und über alle Fach­
+bereiche hinweg können davon profitieren. So kann
+die wissenschaftliche Fortentwicklung rasanter
+voranschreiten als je zuvor.
+Aus dieser Verbindung zwischen bewährter wissenschaftlicher Praxis und neuen technischen Möglichkeiten hat sich die Idee des Open Access – des unentgeltlichen, digitalen Zugangs zu wissenschaftlichen
+Publikationen – in der Wissenschaft entwickelt. Ziel
+ist, das Innovationsgeschehen durch Vernetzung weiter zu beleben und der wissenschaftlichen Forschung
+neue Impulse zu geben.
+Open Access nutzt Wissenschaft und Forschung nicht
+nur in ihrer Gesamtheit. Ein offener Zugang ermöglicht es jedem einzelnen Forschenden, in seiner Arbeit
+jederzeit auf Erkenntnisse von anderen digital zuzugreifen und selbst seine Ergebnisse und Publikationen
+schnell und einfach zu verbreiten. Auch Unternehmen
+eröffnet Open Access den effizienten Austausch von
+Erkenntnissen. Somit werden aktuelle Innovationen
+aus allen Bereichen der Wissenschaft verfügbar gemacht – veröffentlicht sowohl von forschungsstarken
+
+Unternehmen und wissenschaftliche Einrichtungen
+als auch durch einzelne Wissenschaftlerinnen und
+Wissenschaftler. Nicht zuletzt stehen mit Open Access
+die Ergebnisse aus Wissenschaft und Forschung jedem
+Interessierten und damit der Gesellschaft insgesamt
+zur Verfügung, so dass neue Chancen der Teilhabe
+und Partizipation entstehen.
+Noch sind die Kommunikationsstrukturen in der
+Wissenschaft nicht allerorts so aufgestellt, dass die
+Potenziale der Digitalisierung voll ausgeschöpft werden können. Daher gilt es, die neuen Kommunikationsformen schnell in die Wissenschaft und Forschung
+zu transferieren.
+Mit der Digitalen Agenda 2014 – 2017 hat es sich die
+Bundesregierung zur Aufgabe gemacht, die Rahmenbedingungen für einen ungehinderten Informationsfluss zu verbessern – innerhalb der Wissenschaft und
+Forschung und in alle Wirtschafts- und Gesellschaftsbereiche hinein. Der offene Zugang zu wissenschaftlichen Publikationen ist dazu ein wichtiges, ja ein
+unerlässliches Instrument. Die hier vorliegende Open
+Access-Strategie des Bundesministeriums für Bildung
+und Forschung ist Teil einer umfassenden Strategie
+für den digitalen Wandel in der Wissenschaft. Sie soll
+den Weg in eine innovative Wissenschaft bereiten
+und damit auch die Innovationskraft in Deutschland
+weiter stärken.
+
+DIE STRATEGIE DES BUNDESMINISTERIUMS FÜR BILDUNG UND FORSCHUNG
+
+5
+
+II. Ausgangslage
+Kern des Open Access-Prinzips ist es, wissenschaftliche Ergebnisse in digitaler Form für den Nutzer
+ohne finanzielle, technische oder rechtliche Barrieren
+zugänglich und nutzbar zu machen.1 Wichtigstes
+Umsetzungselement ist dabei der offene Zugang zu
+wissenschaftlichen Textpublikationen. Dabei haben
+sich in Anlehnung an die Budapester Erklärung zu
+Open Access (2001)2 und die Berliner Erklärung über
+den offenen Zugang zu wissenschaftlichem Wissen
+(2003)3 zwei grundlegende Modelle etabliert:
+•
+
+•
+
+Der sogenannte Goldene Weg des Open Access
+bedeutet die unmittelbare freie Zugänglichkeit zu
+einer Publikation im Internet am originären Publikationsort – z. B. in einer Open Access-Zeitschrift.
+Beim sogenannten Grünen Weg des Open Access
+werden Publikationen neben der Veröffentlichung
+im analogen Print-Format (parallel oder nach
+Ablauf einer Embargofrist) in eine frei zugängliche
+Online-Datenbank (sog. Repositorium) eingestellt.
+Unsere Aufgabe Wissen weiterzugeben ist nur halb
+erfüllt, wenn diese Informationen für die Gesellschaft
+nicht in umfassender Weise und einfach zugänglich
+sind. Neben den konventionellen Methoden müssen
+zunehmend auch die neuen Möglichkeiten der Wissensverbreitung über das Internet nach dem Prinzip des
+offenen Zugangs (Open Access-Paradigma) gefördert
+werden.
+Quelle: Berliner Erklärung über den offenen Zugang zu
+wissenschaftlichem Wissen, 2003.
+
+Daneben gibt es weitere Publikationsmodelle, die
+unter der Bezeichnung Open Access diskutiert werden. Hierunter fallen insbesondere die Publikation in
+„hybriden“ Zeitschriften, bei denen nur ein Teil der
+Beiträge offen zugänglich ist, oder die Archivierung
+auf einer eigenen Internetseite.
+Alle diese Modelle verbessern den Wissensfluss in der
+Wissenschaft – allerdings nur dann, wenn es gelingt,
+eine gewichtige Herausforderung zu meistern: die
+digitalen Publikationen umfassend durch technische
+und organisatorische Maßnahmen zitierbar, auffindbar und dauerhaft verfügbar zu machen.
+1
+2
+3
+
+Definition der Allianz der Wissenschaftsorganisationen
+www.budapestopenaccessinitiative.org
+http://openaccess.mpg.de/Berliner-Erklaerung
+
+Qualitätssicherung wird auch in einem von Open
+Access mitgeprägten Publikationswesen nicht kostenlos bereitzustellen sein. Die ökonomischen Ressourcen
+dafür müssen dem Wissenschaftssystem weiterhin
+zur Verfügung stehen.
+Auch in Disziplinen, in denen nicht die Zeitschriftenpublikation, sondern die Monographie als gedrucktes
+Buch der Standard der wissenschaftlichen Publikation ist, gewinnen digitale Publikationen zunehmend
+an Bedeutung. Dabei ist es schon heute möglich, dass
+Monographien nach dem Open Access-Prinzip –
+neben der Publikation in Druckform – der Allgemeinheit unentgeltlich digital zugänglich gemacht werden.
+Digitale Publikation und gedrucktes Buch schließen
+sich dabei nicht aus, sondern können sich gegenseitig
+ergänzen und befördern.
+
+Deutsche Wissenschaft fördert
+Open Access
+Die deutsche Wissenschaft ist Vorreiter bei der Entwicklung neuer Initiativen und Ideen für Open Access
+und ihrer Umsetzung in die Praxis. Auch international wird die deutsche Wissenschaft als wichtiger
+Akteur der Open Access-Bewegung wahrgenommen.
+
+Bis heute haben mehr als 550 deutsche und internationale Organisationen die Berliner Erklärung über
+offenen Zugang zu wissenschaftlichem Wissen unterzeichnet, und laufend kommen weitere hinzu.
+
+Die Deutsche Forschungsgemeinschaft, die Helmholtz-Gemeinschaft, die Max-Planck-Gesellschaft,
+die Leibniz-Gemeinschaft und die FraunhoferGesellschaft, der Wissenschaftsrat, die Hochschulrektorenkonferenz und der Deutsche Bibliotheksverband
+gehörten 2003 zu den ersten Unterzeichnern der
+Berliner Erklärung über offenen Zugang zu wissenschaftlichem Wissen, die einen wichtigen Meilenstein
+in der Etablierung von Open Access im deutschen
+Wissenschaftssystem darstellt.
+
+6
+
+OPEN ACCESS IN DEUTSCHLAND
+
+Die Helmholtz-Gemeinschaft hat im April 2016 erklärt,
+ihre Bemühungen zu Open Access quantifizierbar machen zu wollen. Bis 2020 sollen mindestens 60 Prozent
+der Publikationen Open Access verfügbar sein, im Jahr
+2025 100 Prozent.
+Die Fraunhofer-Gesellschaft strebt bis 2020
+einen Open Access-Anteil von 50 Prozent ihrer
+Publika­tionen an.
+
+Bei der Fortschreibung des Paktes für Forschung und
+Innovation 2016 – 2020 haben Bund und Länder das
+Thema Open Access förmlich und bindend verankert.
+In der Folge haben sich die großen Forschungsorganisationen sowie die Deutsche Forschungsgemeinschaft
+dazu bekannt, Open Access-Angebote weiter aktiv
+auszubauen und dies zum Teil mit quantitativen Zielen hinterlegt. Die großen deutschen Wissenschaftsorganisationen – die Helmholtz-Gemeinschaft, die
+Max-Planck-Gesellschaft, die Leibniz-Gemeinschaft
+und die Fraunhofer-Gesellschaft – nutzen schon heute
+Open Access und fördern es durch eine ganze Reihe
+von Maßnahmen.
+
+Open Access auf Landesebene
+verankern
+Um Open Access als integralen Teil der Wissenschaftskultur in Deutschland zu verankern, braucht
+es ganz wesentlich die Unterstützung der Länder. So
+haben Baden-Württemberg, Schleswig-Holstein und
+Berlin bereits Open Access-Strategien vorgelegt und
+Maßnahmen vorgestellt, um Open Access zu stärken. Weitere Länder entwickeln derzeit Strategien
+und bereiten Maßnahmen vor. Die Bundesregierung
+begrüßt diesen Prozess und ermuntert die Länder, auf
+diesem Weg weiter voranzugehen. Ziel muss es sein,
+dass in allen sechzehn Bundesländern entsprechende
+Initiativen verankert werden und ein gemeinsames
+Verständnis von Bedeutung und Chancen einer verantwortungsvollen Open Access-Kultur erreicht wird.
+Das Bundesministerium für Bildung und Forschung
+wird auf dieses gemeinsame Verständnis auch in der
+Gemeinsamen Wissenschaftskonferenz von Bund und
+Ländern hinarbeiten.
+
+Grünen Weg stärken – das unabdingbare Zweitveröffentlichungsrecht
+Die Bundesregierung hat mit den Anpassungen des
+Urheberrechtsgesetzes in den letzten Jahren bereits
+erste gesetzgeberische Voraussetzungen für Open
+Access geschaffen. Hervorzuheben ist insbesondere
+die Einführung des unabdingbaren Zweitverwertungsrechts für Autorinnen und Autoren wissenschaftlicher Beiträge zum 01.01.2014. Durch diese
+urheberrechtliche Regelung können Autorinnen und
+Autoren von mindestens zur Hälfte mit öffentlichen
+Mitteln geförderter Forschung ihre Zeitschriftenpublikationen zwölf Monate nach der Erstveröffentlichung der Allgemeinheit zu nicht-gewerblichen
+Zwecken – unabhängig von den Regelungen im
+Verlagsvertrag – zugänglich machen. Damit ist eine
+wichtige Grundlage für die Stärkung des Grünen
+Weges des Open Access vorhanden.
+Das unabdingbare Zweitveröffentlichungsrecht sichert
+die übliche Praxis der Selbstarchivierung eigener Beiträge ab und hilft beim Aufbau institutioneller Repositorien. Deutschland ist hier weltweit Vorreiter und Vorbild.
+
+Open Access im Europäischen
+Forschungsraum vorantreiben
+Im Europäischen Forschungsraum wird Open Access
+insbesondere durch Maßnahmen der Europäischen
+Kommission vorangetrieben. Zudem beschäftigen
+sich eine Reihe von Initiativen und Gruppen auf
+nationaler wie internationaler Ebene mit der Ausgestaltung und Implementierung von Open Access. Die
+Berliner Erklärung ist inzwischen von Hochschulen
+und wissenschaftlichen Institutionen aus ganz Europa und ihren Partnern aus anderen Teilen der Welt
+unterzeichnet worden. Open Access ist damit auch
+integraler Bestandteil eines Wandels hin zu einem
+offenen europäischen Wissenschaftssystem im Sinne
+von Open Science.
+In „Horizont 2020“, dem Rahmenprogramm der
+Europäischen Union für Forschung und Innovation, ist
+Open Access schon heute fester Bestandteil der Regeln
+zur Publikation von Forschungsergebnissen – sowohl
+bei Textpublikationen als auch bei Forschungsdaten.
+
+DIE STRATEGIE DES BUNDESMINISTERIUMS FÜR BILDUNG UND FORSCHUNG
+
+7
+
+III. Leitprinzipien der Open Access-Strategie
+Die Open Access-Strategie des Bundesministeriums
+für Bildung und Forschung ist von folgenden Leitprinzipien getragen:
+
+Open Access als Standard des wissenschaftlichen Publizierens etablieren
+Open Access soll in Deutschland zum Standard des
+wissenschaftlichen Publizierens werden. Die Idee des
+offenen Zugangs zu wissenschaftlichen Publikationen
+wurde von der Wissenschaft entwickelt und findet
+dort Anerkennung. Die Umsetzung von Open Access
+muss aus der Wissenschaft heraus erfolgen. Mit seiner
+Strategie unterstützt das Bundesministerium für
+Bildung und Forschung die Wissenschaft und Forschung auf ihrem Weg zu einer umfassenden Open
+Access-Kultur.
+
+Verschiedene Wege für
+Open Access eröffnen
+Grüner Weg des Open Access und Goldener Weg des
+Open Access sind komplementär und gleichwertig.
+Weitere Ansätze bleiben möglich.
+
+Teilhabe und Partizipation an
+wissenschaftlichen Erkenntnissen
+stärken
+Publikationen aus öffentlich geförderter Forschung
+sollen offen zugänglich sein. Wissenschaft und Forschung werden in Deutschland – sowohl auf Bundesals auch auf Landesebene – wesentlich aus staatlichen
+Mitteln finanziert. Gesellschaft und Wirtschaft sollen
+auf die Ergebnisse der von ihr finanzierten Wissenschaft und Forschung effizient zugreifen und davon
+profitieren können.
+
+Hohe Qualität wissenschaftlicher
+Publikationen wahren
+Open Access-Publikationen müssen vergleichbare
+Anforderungen der Qualitätssicherung erfüllen wie
+traditionelle Publikationen. Mit bewährten Qualitätssicherungsmechanismen, wie z. B. Begutachtungsverfahren im Peer-Review, kann dies sichergestellt werden. Darüber hinaus gilt es, die Möglichkeiten neuer
+und innovativer Modelle der Qualitätssicherung
+(z. B. Open Peer-Review Verfahren) zu nutzen.
+
+Wissenschaftsfreiheit nicht
+einschränken
+Open Access bringt keine Verpflichtung zur Publikation oder zur Preisgabe von Forschungsergebnissen mit
+sich. Die Entscheidung, ob publiziert werden soll, liegt
+in der alleinigen Verantwortung der Wissenschaftlerin und des Wissenschaftlers. Nur dort, wo ohnehin
+eine Publikation beabsichtigt ist, greift Open Access.
+Auch die Entscheidung, Ergebnisse wirtschaftlich zu
+nutzen, z. B. durch Patentierung, bleibt unberührt.
+
+8
+
+OPEN ACCESS IN DEUTSCHLAND
+
+IV. Etablierung von Open Access in der Breite des
+deutschen Wissenschaftssystems
+Die große Mehrheit der deutschen und europäischen
+Wissenschaftlerinnen und Wissenschaftler begrüßt
+Open Access. Die praktische Umsetzung gelingt aber
+noch nicht an allen Stellen. Viele Wissenschaftlerinnen und Wissenschaftler veröffentlichen oft nur
+einen Teil ihrer eigenen Forschungsergebnisse unter
+einem Open Access-Modell.4 Diese Lücke zwischen
+dem Wunsch der Wissenschaft nach mehr offen zugänglichen Publikationen und der aktuellen Veröffentlichungspraxis gilt es zu überwinden.
+
+und Rahmengesetzgeber wie auch als Ermutiger und
+Mediator unterschiedlicher Interessenlagen eine
+unverzichtbare Rolle.
+
+Der Übergang zu einem Wissenschaftssystem, in
+dem Open Access der Standard des Publizierens
+ist, liegt in der Verantwortung aller Beteiligten im
+Wissenschaftssystem. Sie kann nur durch gemein
+same Anstrengungen von Wissenschaftlerinnen
+und Wissenschaftlern, Universitäten und Instituten,
+Politik, Wirtschaft und Gesellschaft erreicht werden.
+Die Politik spielt dabei sowohl als Forschungsförderer
+
+Das Bundesministerium für Bildung und
+Forschung sieht es daher als eine wichtige Aufgabe
+an, die bestehenden guten Ansätze und Initiativen
+im Wissenschaftssystem zu stärken und mit eigenen
+Maßnahmen die Etablierung von Open Access weiter
+voranzutreiben. Dem dienen folgenden Maßnahmen
+in fünf Aktionsfeldern.
+
+89 Prozent der deutschen Wissenschaftler halten Open
+Access für ihr Forschungsfeld für förderlich und wünschen sich mehr frei zugängliche Literatur. Das ist eines
+der Ergebnisse der Study of Open Access Publishing
+(http://soap-fp7.eu).
+
+V. Aktionsfelder der Open Access-Strategie
+Die Aktionsfelder setzen an verschiedenen Stellen
+des wissenschaftlichen Publikationswesens an. Allen
+gemeinsam ist, dass es um Vorbild, Anreize, neue
+Kommunikationsräume und praktische Unterstützung geht:
+•
+•
+•
+•
+•
+
+4
+
+Verankerung von Open Access als Grundprinzip in
+der eigenen Förderung
+Sichtbarkeit und Akzeptanz
+Kompetenzaufbau und Verbreitung von Erfolgsmodellen aus der Praxis
+Finanzielle Unterstützung
+Transparenz und Monitoring
+
+Dies ist eines der Ergebnisse der Study of Open Access Publishing
+(SOAP) (http://soap-fp7.eu/). Für eine Zusammenfassung der
+wesentlichen Ergebnisse siehe Dallmeier-Tissen, Darby, Goerner
+et. al, Highlights from the SOAP project survey. What Scientists
+think about Open Access Publishing, arXiv:1101.5260.
+
+DIE STRATEGIE DES BUNDESMINISTERIUMS FÜR BILDUNG UND FORSCHUNG
+
+9
+
+VI. Klares Bekenntnis zu Open Access –
+Verankerung als Grundprinzip in der Förderung
+Open Access in die BMBF-Förderung
+integrieren
+Damit Open Access seine Wirkung voll entfalten
+kann, müssen die Wissenschaftlerinnen und Wissenschaftler Open Access bei ihren eigenen Publikationen
+praktizieren. Es bedarf eines deutlichen Bekenntnisses der Politik und der Forschungsförderer, dass Open
+Access als Publikationsweg gewünscht und unterstützt wird. Das Bundesministerium für Bildung und
+Forschung nimmt deshalb Open Access als Standard
+in seiner Projektförderung auf. Der politische Wille
+zur Förderung von Open Access wird so gegenüber
+Wissenschaft und Verlagen klar kommuniziert.
+•
+
+•
+
+•
+
+•
+
+Die Klausel fordert die Wissenschaftlerinnen und
+Wissenschaftler dazu auf, Forschungsergebnisse
+aus vom Bundesministerium für Bildung und
+Forschung geförderten Projekten – sofern sie sich
+für eine Veröffentlichung der Ergebnisse entschieden haben – entweder direkt durch Open Access
+zu publizieren (Goldener Weg) oder nach Ablauf
+einer Embargofrist in ein geeignetes Repositorium
+einzustellen (Grüner Weg).
+Die Entscheidung der Wissenschaftlerinnen und
+Wissenschaftler über das „Ob“ der Publikation
+bleibt durch die Klausel unberührt.
+Bei der Veröffentlichung von Monografien, die in
+vom Bundesministerium für Bildung und
+Forschung geförderten Projekten entstehen, wird
+Open Access besonders begrüßt.
+Mit der zunehmenden Verbreitung von Open
+Access gewinnt das Prinzip durch Lerneffekte und
+positives Feedback an Nutzen für alle Beteiligten
+– insbesondere aber für die Wissenschaftlerinnen
+und Wissenschaftler selbst.
+
+Die Länder können Open Access zudem flächendeckend dadurch fördern, dass sie Anreize für die
+Hochschulen setzen, Open Access-Klauseln einzuführen. Dies stärkt die Einrichtungen, die sich bereits
+für Open Access engagieren. Bei denen, die sich noch
+nicht engagieren, wird ein entsprechendes Bewusstsein geweckt.
+
+BMBF-Dialogforum zu Open Access
+starten
+Um Open Access zum Standard des wissenschaftlichen Publizierens zu machen, bedarf es einer gemeinsamen Anstrengung aller Akteure in der Wissenschaftslandschaft. Das Bundesministerium für
+Bildung und Forschung wird daher einen strukturierten Diskurs zur Einführung von Open Access starten.
+Im Open Access-Dialogforum werden die zentralen
+Akteure des deutschen Wissenschaftssystems die
+jeweiligen Strategien und Regelwerke zu Open Access
+aufeinander abstimmen und weiterentwickeln.
+Die bestehenden Open Access-Strategien einzelner
+Fördermittelgeber, Wissenschaftsorganisationen und
+Hochschulen enthalten bereits Open Access-Klauseln.
+Im Rahmen des gemeinsamen Diskurses sollen diese
+Ansätze verbreitert und in die Fläche getragen werden. Mit klaren Regeln zur Open Access-Publikation
+kann erreicht werden, dass für die Wissenschaftlerinnen und Wissenschaftler einheitliche Rahmenbedingungen hinsichtlich Open Access bestehen.
+
+10
+
+OPEN ACCESS IN DEUTSCHLAND
+
+VII. Neue Wege in der Publikationsfinanzierung
+Publikationsmittel effizient einsetzen
+Die Umstellung eines primär subskriptionsbasierten
+Publikationsmodells hin zu einem Open AccessPublikationsmodell bedeutet im Wesentlichen eine
+Umstellung von einer „nachgelagerten“ Finanzierung
+beim Erwerb von Zeitschriften durch die Bibliotheken
+hin zu einer „vorgelagerten“ Finanzierung von Open
+Access-Publikationen. Mit neuen Geschäftsmodellen
+können Verlage ihre wichtige Aufgabe in der wissenschaftlichen Kommunikation wahrnehmen und aktiver Teil des Wandels zu einer digitalen Wissenschaft
+sein. Diesen Transformationsprozess im Publikationssystem gilt es zu begleiten.
+Nach aktuellen Berechnungen ist die flächendeckende
+Umstellung des wissenschaftlichen Publikationswesens in Deutschland mittelfristig kostenneutral
+zu leisten. Langfristig werden Kosteneinsparungen
+prognostiziert.
+Quelle: Schimmer, R., Geschuhn, K. K., & Vogler, A.
+(2015). Disrupting the subscription journals’ business
+model for the necessary large-scale transformation to
+open access. doi:10.17617/1.3.
+
+Bei der Förderung von Open Access steht nicht das
+Ziel von Einsparungen bei den Bibliotheksetats für
+die öffentliche Hand im Vordergrund. Vielmehr soll
+den Nutzerinnen und Nutzern ein einfacher digitaler Zugriff auf wissenschaftliche Textpublikationen
+ermöglicht werden. Open Access führt dazu, dass mit
+den eingesetzten Mitteln mehr Menschen von öffentlich geförderter Forschung profitieren können.
+Die Verbreitung von Open Access setzt voraus, dass
+die Artikelbearbeitungsgebühren gedeckt sind. Eine
+angestrebte Open Access-Publikation soll nicht aus
+finanziellen Erwägungen unterbleiben.
+
+Open Access-Publikationen fördern
+Das Bundesministerium für Bildung und Forschung
+stützt den Übergang zu Open Access bereits heute dadurch, dass im Rahmen der Projektförderung
+anfallende Kosten für die Publikation in einer Open
+Access-Zeitschrift mit den Projektmitteln beantragt
+werden können. Das Bundesministerium für Bildung
+und Forschung trägt durch die Projektpauschalen
+
+Teile der projektassoziierten indirekten Kosten und
+erlaubt die flexible Nutzung dieser Mittel auch über
+die Projektlaufzeit hinaus. Daraus können Publikationskosten finanziert werden.
+
+Post-Grant-Fund einrichten
+Die Publikation der Ergebnisse steht am Ende des
+wissenschaftlichen Erkenntnisprozesses. In der Praxis
+erfolgt die Veröffentlichung daher oftmals erst nach
+dem Ende der Projektlaufzeit. Das Bundesministerium für Bildung und Forschung wird auch für diese
+Fälle Unterstützung bieten. Open Access-Publikationskosten für Veröffentlichungen, die aus BMBF
+geförderten Projekten hervorgegangen sind, aber
+erst nach Projektende veröffentlicht werden, können
+künftig aus einem Post-Grant-Fund gefördert werden.
+
+Open Access in Forschungs­
+finanzierung integrieren
+Auch andere Fördermittelgeber ermöglichen es
+Wissenschaftlerinnen und Wissenschaftlern bereits,
+die Mittel für die Open Access-Publikation ihrer
+Forschungsergebnisse mit den Projektmitteln zu beantragen. Zudem stehen in einigen Hochschulen und
+Forschungseinrichtungen eigens dafür eingerichtete
+Open Access-Publikationsfonds zur Deckung von Publikationskosten bereit. Nicht zuletzt unterstützt die
+Deutsche Forschungsgemeinschaft wissenschaftliche
+Hochschulen bei der Einrichtung von Publikationsfonds mit einem eigenen Förderprogramm.
+Die Deutsche Forschungsgemeinschaft unterstützt
+die Veröffentlichungen von Forschungsergebnissen
+in Open Access-Zeitschriften mit einem eigenen
+Förderprogramm zum Aufbau von Publikationsfonds
+an Hochschulen. So kann die Finanzierung von Open
+Access-Publikationen mit einfachen Mitteln sichergestellt werden. Auch viele Wissenschaftseinrichtungen
+halten entsprechende Fonds vor.
+
+Alle Fördermittelgeber können und sollen diese Möglichkeiten ausbauen. Publikationsfonds sollten dabei
+auch als Steuerungsinstrument genutzt werden, um
+faire Konditionen der Publikation und des Zugriffs
+zu ermöglichen. Die hohen Qualitätsstandards, die
+an eine wissenschaftliche Veröffentlichung zu stellen
+sind, können so sichergestellt werden.
+
+DIE STRATEGIE DES BUNDESMINISTERIUMS FÜR BILDUNG UND FORSCHUNG
+
+11
+
+VIII. Open Access zur gleichwertigen Säule des
+wissenschaftlichen Publikationswesens machen
+Sichtbarkeit und Akzeptanz erhöhen
+Publikationen in anerkannten Zeitschriften spielen
+bei der Wahrnehmung und Bewertung wissenschaftlicher Leistungen eine wichtige Rolle. Open
+Access-Zeitschriften sind vergleichsweise jung und
+in vielen Fällen noch nicht so etabliert wie klassische
+Verlagspublikationen. In Hochschulen und Einrichtungen der Wissenschaftsorganisationen muss
+auf allen Ebenen das Bewusstsein gestärkt werden,
+dass Open Access zusätzliche Möglichkeiten für eine
+qualitätsgesicherte Publikation eröffnet und Open
+Access-Publikationen bei der Vergabe von Mitteln
+oder der Besetzung von Stellen ebenso zu berücksichtigen sind wie klassische Verlagspublikationen. Die
+Leitungen von Lehrstühlen, Forschungseinrichtungen, Hochschulen und Projektgruppen können ihren
+Mitarbeiterinnen und Mitarbeitern den Weg zu Open
+Access-Publikationen ebnen. Auch die Meinung des
+Kollegiums kann entscheidenden Einfluss haben.
+
+die Sichtbarkeit und Akzeptanz von Open Access im
+gesamten deutschen Wissenschaftssystem erhöhen.
+Mit der Informationsoffensive werden gezielt Wissenschaftlerinnen und Wissenschaftler angesprochen
+und über die Vorteile und Möglichkeiten von Open
+Access informiert sowie Alternativen zum traditionellen Publikationsmodell aufgezeigt. Nachwuchswissenschaftlerinnen und -wissenschaftlern soll die
+Zustimmung vermittelt werden, die Open Access
+in Wissenschaftskreisen bereits genießt. So wird
+innerhalb der wissenschaftlichen Gemeinschaft das
+Verständnis gestärkt, dass Open Access-Publikationen
+wissenschaftliche Leistungen ebenso widerspiegeln
+können wie klassische Zeitschriftenpublikationen.
+Die Länder können Open Access nachhaltig unterstützen, wenn Open Access-Publikationen bei der Vergabe von Mitteln insgesamt nach denselben qualitätsgeleiteten Kriterien gewürdigt werden wie klassische
+Verlagspublikationen.
+
+Mit einer breit angelegten Informationsoffensive wird
+das Bundesministerium für Bildung und Forschung
+
+IX. Open Access – einfach und praktikabel
+Nationale Kompetenz- und
+Vernetzungsstelle einrichten
+Das Bundesministerium für Bildung und Forschung
+wird den Aufbau einer Nationalen Kompetenz- und
+Vernetzungsstelle fördern. Diese wird eine zentrale
+Rolle beim Austausch und der Vernetzung der
+Verantwortlichen aus Ländern, Hochschulen und
+Forschungseinrichtungen einnehmen. Sie wird mit
+Schulungen und Fortbildungen die Kompetenzen der
+Multiplikatoren vor Ort verbessern. An Einrichtungen, an denen es keine Ansprechpartner gibt, wird die
+Kompetenz- und Vernetzungsstelle mit Materialien
+und Beratung den Aufbau der entsprechenden Expertise unterstützen.
+Niederschwellige Beratungsangebote und Ansprechpartner vor Ort werden Wissenschaftlerinnen und
+Wissenschaftlern, die Interesse an neuen Publikatons-
+
+wegen und -formen haben, darin unterstützen, ihre
+Forschungsergebnisse mittels Open Access erfolgreich
+zu verbreiten, und Hilfestellung leisten, die komplexen rechtlichen und praktischen Fragen (z. B. in Bezug
+auf Fördermöglichkeiten für Open Access-Publikationen) zu lösen. Dadurch soll es für Wissenschaftlerinnen und Wissenschaftler selbstverständlich werden,
+mit Open Access-Publikationen zu arbeiten und ihre
+eigenen Forschungsergebnisse zügig und rechtssicher
+Open Access zu veröffentlichen.
+Das von der Deutschen Forschungsgemeinschaft
+ge­förderte Projekt open-access.net bietet praktische
+Hilfestellungen und Informationen für einen zielgruppenorientierten Einstieg in das Thema Open Access –
+der große Erfolg dieses Projektes zeigt, dass es breiten
+Beratungs- und Aufklärungsbedarf auf allen Ebenen
+gibt.
+
+12
+
+Erfolgsmodelle von Open Access
+fördern
+Das Bundesministerium für Bildung und Forschung
+wird die Entwicklung von Open Access-Initiativen
+und Projekten fördern und Erfolgsbeispiele mit einem
+Wettbewerb sichtbar machen.
+Überzeugende innovative Ansätze, die eine weitere
+Verbreitung von Open Access an den Hochschulen
+und Forschungseinrichtungen ermöglichen, werden
+ausgezeichnet und ihre Umsetzung in den Wissenschaftsalltag gefördert. Im Fokus stehen hier Projekte,
+die die erfolgreiche Umsetzung von Open Access in
+die Praxis zeigen oder konkret die Publikation unter
+einem Open Access-Modell erleichtern.
+
+OPEN ACCESS IN DEUTSCHLAND
+
+Die leichte Auffindbarkeit von Open Access-Publikationen ist ein wichtiger Erfolgsfaktor für Open Access.
+Projekte wie die Bielefeld Academic Search Engine
+(BASE) zeigen, wie Open Access mit praktischen Projekten gefördert werden kann.
+
+Vielfältige Projekte in der Wissenschaft, wie die Etablierung von Open Access-Zeitschriften, die Transformation von Subskriptionszeitschriften hin zu einem
+Open Access-Modell oder der Aufbau von Suchmaschinen und Datenbanken, welche die Nachnutzbarkeit,
+Auffindbarkeit oder vernetzte Verteilung von Open Access-Publikationen verbessern, zeigen, wie Open Access
+in der Praxis umgesetzt wird. Auch kleinere Projekte
+und Initiativen werden durch das Bundesministerium
+für Bildung und Forschung zukünftig unterstützt.
+
+X. Open Access sichtbar und messbar machen –
+Open Access-Monitor
+Das Bundesministerium für Bildung und Forschung
+wird einen Open Access-Monitor etablieren, der ver­
+lässlich den quantitativen Stand von Open Access in
+Deutschland verfolgen soll. Aufbauend auf einer Bestandsaufnahme der Open Access-Aktivitäten in
+Deutsch­land sollen weitere Handlungsbedarfe identifiziert und künftige Aktivitäten an diesen Erkenntnissen
+ausgerichtet werden. Zugleich können so die Effizienz
+künftiger Maßnahmen gemessen und Veränderungen
+des Publikationsverhaltens sichtbar gemacht werden.
+
+auch die im Bereich Open Access weniger starken Be­
+reiche identifizieren und Open Access zielgerichteter
+fördern.
+Das Monitoring soll auch darstellen, aus welchen
+Quellen und in welcher Höhe Mittel für die wissenschaftliche Informationsversorgung und für die
+Finanzierung von Publikationen (sowohl Open Access
+als auch im subskriptionsbasierten Modell) aufgewandt werden. So lässt sich die Transformation zu
+Open Access zielgerichtet gestalten.
+
+Wenn Einrichtungen den Anteil ihrer Open AccessVeröffentlichungen beziffern können, so können sie
+
+XI. Ausblick
+Open Access ist Teil des umfassenderen Wandels zu
+einer digitalen Wissenschaft. Mit der Veröffentlichung
+der Open Access-Strategie startet das Bundesministerium für Bildung und Forschung einen Prozess, der
+die vielfältigen Bestrebungen von Wissenschaft,
+Wirtschaft und Politik bündeln und neue Handlungsoptionen aufzeigen und anstoßen wird. Zugleich
+stärkt es durch die Ausweitung eigener Fördermaßnahmen die Verbreitung und Nutzung der Open
+
+Access-Publikationen. Alle Akteure aus Wissen­schaft,
+Politik, Wirtschaft und Gesellschaft sind aufgefordert,
+sich in diesen Prozess einzubringen und eigene Maßnahmen aufzusetzen oder auszubauen.
+Die Digitalisierung bringt große Chancen, die in einer
+globalen Wissensgesellschaft gemeinsam genutzt
+werden sollten.
+
+Impressum
+Herausgeber
+Bundesministerium für Bildung und Forschung (BMBF)
+Referat Grundsatzfragen und Rahmenbedingungen des
+Digitalen Wandels
+11055 Berlin
+Stand
+September 2016
+Gestaltung
+Poli Quintana, interlinea.de
+Berlin
+Bildnachweis
+Presse- und Informationsamt der Bundesregierung (BPA),
+Steffen Kugler, S. 3 (Porträt Prof. Dr. Johanna Wanka)
+Text
+BMBF
+
+Diese Druckschrift wird im Rahmen der Öffentlichkeitsarbeit
+vom Bundesministerium für Bildung und Forschung
+unentgeltlich abgegeben. Sie ist nicht zum gewerblichen
+Vertrieb bestimmt. Sie darf weder von Parteien noch von
+Wahlwerberinnen/Wahlwerbern oder Wahlhelferinnen/
+Wahlhelfern während eines Wahlkampfes zum Zwecke
+der Wahlwerbung verwendet werden. Dies gilt für
+Bundestags-, Landtags- und Kommunalwahlen sowie für
+Wahlen zum Europäischen Parlament. Missbräuchlich sind
+insbesondere die Verteilung auf Wahlveranstaltungen und
+an Informationsständen der Parteien sowie das Einlegen,
+Aufdrucken oder Aufkleben parteipolitischer Informationen
+oder Werbemittel. Untersagt ist gleichfalls die Weitergabe an
+Dritte zum Zwecke der Wahlwerbung. Unabhängig davon,
+wann, auf welchem Weg und in welcher Anzahl diese Schrift
+der Empfängerin/dem Empfänger zugegangen ist, darf sie auch
+ohne zeitlichen Bezug zu einer bevorstehenden Wahl nicht
+in einer Weise verwendet werden, die als Parteinahme der
+Bundesregierung zugunsten einzelner politischer Gruppen
+verstanden werden könnte.
+
+www.bmbf.de
+
+

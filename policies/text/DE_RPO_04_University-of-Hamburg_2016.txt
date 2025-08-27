@@ -1,0 +1,74 @@
+Open-Access-Policy
+Zum Leitbild der Universität Hamburg gehört die Offenheit des Zugangs zu Forschung, Lehre
+und Weiterbildung. Als Unterzeichnerin der „Budapest Open Access Initiative“ und der
+„Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities“
+unterstützt die Universität Hamburg ausdrücklich das Ziel Open Access und Open Archive in
+dem erweiterten Sinne der Berliner Erklärung.
+
+Sichtbarkeit von Forschung und wissenschaftlichen
+Ergebnissen
+Die Universität Hamburg versteht darunter den Nachweis, die Erhaltung sowie die freie und
+dauerhafte Bereitstellung sowohl von wissenschaftlichen Publikationen als auch von
+Forschungsdaten – Primärdaten, Metadaten, Fachinformationen und weiteren Datenbeständen
+– (E-Research), von Lehr- und Lernmaterialien (E-Learning) sowie von digitalen Abbildern
+von Forschungsgegenständen – einschließlich wissenschaftlicher Sammlungen – und
+Fachvorträgen (E-Lecturing), soweit dies in den rechtlichen und weiteren
+Rahmenbedingungen möglich ist.
+Die „Sicherung guter wissenschaftlicher Praxis“ und der „Umgang mit Forschungsdaten“
+gemäß den Empfehlungen bzw. Leitlinien der Deutschen Forschungsgemeinschaft wird damit
+unterstützt, die Sichtbarkeit der Universität Hamburg sowie des breiten Spektrums an
+Forschungsleistungen und wissenschaftlichen Ergebnissen der Universitätsangehörigen wird
+erhöht und der Wissens- und Technologietransfer verbessert.
+Für wissenschaftliche Veröffentlichungen empfiehlt die Universität Hamburg eine
+direkte Open-Access-Publikation („goldener Weg“), entweder durch ein an den Verlag zu
+zahlendes Entgelt oder unentgeltlich auf dem „Institutional Repository“ der Universität
+Hamburg. Zur Deckung der bei kostenpflichtigen Verlagen entstehenden Kosten sollen
+möglichst zweckbestimmte Drittmittel eingeworben werden.
+Bei Publikationen in kostenpflichtigen Verlagen sollte ein nicht-exklusives Nutzungsrecht
+ausgehandelt werden, um eine sofortige Zweitpublikation („grüner Weg“, „Self-archiving“)
+zu ermöglichen. Mindestens sollte auf die Abtretung der exklusiven Nutzungsrechte an den
+Verlag verzichtet werden, um die Zweitpublikation nach Ablauf einer Embargo-Frist zu
+ermöglichen. Die Universität Hamburg betreibt hierzu ein „Institutional Repository“ als
+Komponente ihres zentralen Nachweissystems („Hochschulbibliografie“), in welchem die
+Autorinnen und Autoren verpflichtet sind die Metadaten, die Volltexte und die EmbargoFristen ihrer Publikation zu erfassen.
+
+Open-Access-Infrastruktur der Universität Hamburg
+Die Universität Hamburg bekennt sich zur dauerhaften Erhaltung sowie zur zuverlässigen
+Bereitstellung und Nutzbarmachung von Publikationsdaten („Open Access“ im engeren
+Sinne), Forschungsdaten („Open Data“) sowie von Lehr- und Lerndaten („Open Educational
+Resources“), die im Folgenden zusammenfassend als wissenschaftliche Daten bezeichnet
+werden.
+
+Die Universität Hamburg stellt die zum Umgang mit wissenschaftlichen Daten notwendigen
+Dienstleistungen und Infrastrukturen bereit. Neben einem Open-Access-Portal und dem
+„Institutional Repository“ gehören dazu Fachrepositorien, E-Learning-Repositorien,
+Medienplattformen und ein universelles Langzeitarchivierungssystem („Open Archive“). Ein
+interdisziplinäres Konzept zur Open-Access-/Open-Archive-Unterstützung dient zur
+koordinierten Erfüllung der anwendungsfachlichen, methodischen, rechtlichen und
+technischen Bedarfe. Die Open Access unterstützenden IT-Services – insbesondere zum
+nachhaltigen Betrieb des Open-Access-Portals, der genannten Repositorien, der (Medien)Plattformen, der Schnittstellen (insbesondere Web-Portale und Metadaten-Export, z. B. OAI)
+und der Langzeitspeicherung sowie deren Weiterentwicklung – werden am Regionalen
+Rechenzentrum (RRZ) betrieben.
+Die Angehörigen der Universität Hamburg werden ausdrücklich ermutigt und darin
+unterstützt, ihre Forschungsergebnisse, Forschungsdaten, Repositorien, virtuellen
+wissenschaftlichen Sammlungen sowie E-Learning- und E-Lecturing-Angebote darüber zur
+Verfügung zu stellen.
+
+Open-Access-Beauftragter als Ansprechpartner
+Als zentraler Ansprechpartner und Koordinator für Open Access an der Universität Hamburg
+wird ein Open-Access-Beauftragter bzw. eine Open-Access-Beauftragte benannt.
+Die fachliche Verantwortung für den Umgang mit wissenschaftlichen Daten liegt bei den
+jeweiligen Fachdisziplinen, also in den Fakultäten sowie den Fach- und Forschungszentren.
+Die bibliothekarische Unterstützung und Beratung – zum Urheberrecht, zur
+Qualitätssicherung des bibliothekarischen Nachweises und zu den Schnittstellen der
+übergeordneten bibliothekarischen Prozesse beispielsweise der Deutschen Nationalbibliothek
+– erfolgt durch die Staats- und Universitätsbibliothek Hamburg sowie die Fachbibliotheken
+der Universität Hamburg.
+Die Open-Access-Policy hat empfehlenden Charakter und stellt keine Verpflichtung dar. Die
+Wahl des Publikationsweges liegt ausschließlich in der Entscheidung der Wissenschaftlerin
+bzw. des Wissenschaftlers.
+Weitere Informationen, Hilfestellungen und Beratungsangebote sind im Open-Access-Portal
+der Universität Hamburg unter www.oa.uni-hamburg.de zu finden.
+Beschlossen durch das Präsidium der Universität Hamburg am 29.02.2016.
+
+

@@ -1,0 +1,195 @@
+Open Access in Germany
+Joint Guidelines of the Federal Government and the Länder
+
+OPEN ACCESS IN GERMANY – JOINT GUIDELINES OF THE FEDERAL GOVERNMENT AND THE LÄNDER
+
+1
+
+Introduction
+The following Joint Guidelines on Open Access of the Federal Government and the Länder were adopted in
+March 2023 by Federal Minister Stark-Watzinger and by the Standing Conference of the Ministers of Education
+and Cultural Affairs of the Länder at deputy level on 28 April 2023. It is a reflection of the central importance of
+Open Access in federal and state science policy. The Joint Guidelines will be published in June 2023 and introduced
+by the Federal Government and the Länder at the 16th Berlin Open Access Conference of the Max Planck Society
+on 6 June 2023.
+
+Open Access in Germany – Joint Guidelines
+of the Federal Government and the Länder
+Free science is science which publishes its results. New scientific knowledge depends on openness – the openness
+to discuss research issues, openness to the most promising solution to these issues, and the openness to question,
+reject or elaborate on research outcome, time and again. Free access to the findings of publicly funded research is
+a key element of this openness. The COVID-19 pandemic was a clear reminder of the necessity to make research
+outcome accessible quickly and in digital form to globally connected researchers, policymakers and the general
+public alike. This is in order to respond to the challenges facing society in an adequate, science-led manner. Open
+Access is therefore a priority issue for the Federal Government and the Länder.
+In this paper, Open Access references the 2003 Berlin Declaration on Open Access to Knowledge in the Sciences
+and Humanities1, defining Open Access as free and open user access to digital scientific publications and to their
+reuse, with as few restrictions as possible.
+The Federal Government and the Länder have engaged in regular exchange on Open Access since 2019. In the
+course of this dialogue, the two levels of government reach agreement on current and envisaged strategies,
+measures and initiatives. Current developments and positions with regard to Open Access are discussed and
+acknowledged. The Federal Government-Länder talks involve, among others, the Open4DE project funded by the
+Federal Ministry of Education and Research (BMBF). Open4DE sheds light on the status and outlook for an Open
+Access strategy in Germany. The present guidelines are the outcome of this exchange. They give expression to the
+joint political commitment of the Federal Government and the Länder to firmly establish Open Access in the
+German science system.
+
+1	Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities (2003); openaccess.mpg.de/Berliner-Erklaerung,
+last retrieved on 21.09.2022.
+
+OPEN ACCESS IN GERMANY – JOINT GUIDELINES OF THE FEDERAL GOVERNMENT AND THE LÄNDER
+
+1. Support for transformation from the Federal Government and the Länder;
+­Cooperation
+The aim of the Federal Government and the Länder is to support the transformation to Open Access in a sustain­
+able, reliable and appropriate manner. The continuation of the far-reaching transformation process requires the
+targeted and coordinated support of the government. The two levels of government in Germany therefore aim to
+consolidate the regular exchange on Open Access begun in 2019 and continue the initiated strategic process with
+the involvement of the scientific community.
+All the stakeholders and organizations in the science system are to participate in the transformation process on
+a long-term basis. This applies for higher education institutions, research establishments and for other science-­
+related institutions such as scientific libraries and for researchers themselves. The Federal Government and the
+Länder, in line with the recommendation by the German Science and Humanities Council (WR)2, acknowledge
+the especially important role which higher education and science institution managements play as entities with
+strategic responsibility for the Open Access transformation. The cultural transformation that it entails must be
+encouraged and promoted from within the science community. The Federal Government and the Länder welcome
+the fact that many academic institutions in Germany have signed the Berlin Declaration on Open Access to
+Knowledge in the Sciences and Humanities.
+The Federal Government and the Länder want to provide communicative support to the transition to Open Access
+and to increase the understanding of the transformation among the stakeholders involved. The aim of this
+long-term commitment to the transformation process is also to make a meaningful contribution to ensuring
+a significant increase in the share of freely accessible scientific findings.
+
+2. Shaping the regulatory framework
+The 2013 amendment to the Act on Copyright and Related Rights regulates the use of orphan works and out-­ofprint works. It also regulates the right to secondary publication of scholarly works under specific conditions.
+Furthermore, the BMBF’s own research funding rules have added an Open Access clause making Open Access a
+precondition of funding. Several Länder have also incorporated support for open access to research findings in
+their higher education legislation. Regulatory frameworks are to be reviewed on a continual basis and legal
+hurdles are to be reduced.
+
+2	German Science and Humanities Council/Wissenschaftsrat (2022): Recommendations on the Transformation of Academic Publishing:
+Towards Open Access; doi.org/10.57674/0gtq-b603
+
+2
+
+Open Access in Germany – Joint Guidelines of the Federal Government and the Länder
+
+3
+
+3. Support measures for the Open Access transformation
+Research funders have for many years offered targeted funding to create incentives nationwide for an Open
+Access transformation. For example, funding to cope with the challenges of Open Access is available under the
+Deutsche Forschungsgemeinschaft (DFG) programme “Open Access Publishing” or, since 2021, under the “Open
+Access Publication Funding” programme. Project funding of the BMBF also includes funding for Open Access
+publications.
+The BMBF supports numerous projects to promote networking and competence in the area of Open Access,
+including a national competence and networking platform (open-access.network).
+Many Länder support their own scientific institutions through targeted measures such as an Open Access
+­P ublication Fund or through Open Access networking platforms. There are also many institutions with an
+established Open Access service offering. In terms of funding, many Länder promote the Open Access transfor­
+mation either through programmes, milestone agreements with the higher education institutions or through
+support for individual Länder institutions which in turn provide financial support for collaborations of higher
+education institutions.
+Funding measures to support the transformation to Open Access are to be sustained to the extent possible, also in
+the future. Open Access publication is to be integrated in the existing science system in the long term.
+
+4. Open Access and higher education management
+The Länder governments support Open Access whenever possible through instruments available to higher
+education management, for example in research or university development plans, through their own Open Access
+strategies or as part of comprehensive digital strategies.
+
+5. Quality of Open Access publications and reputation
+The Federal Government and the Länder expressly appreciate the key role that researchers play in the institutional
+quality assurance of scientific publications. They support the efforts to adapt the reputation systems in science
+and to develop further research assessment. In the future, evaluation processes are to prioritize assessment of the
+content of individual articles over the overall qualification of the journals publishing this research. The Federal
+Government and the Länder encourage academic institutions to sign the DORA Declaration3 and take action in
+this vein.
+
+3
+
+San Francisco Declaration on Research Assessment (DORA, 2013); sfdora.org/read/ last retrieved on 21.09.2022
+
+Open Access in Germany – Joint Guidelines of the Federal Government and the Länder
+
+4
+
+6. Services and infrastructure
+In recent years, the libraries at higher education and research institutions have established services and infrastructure to support the transition from a subscription to a publication-based model. Many higher education
+institutions nationwide have set up special publication funds which their staff can utilize to cover the fees for first
+publication in Open Access (“gold OA”). In addition to this type of funding for gold Open Access publication fees,
+national funding programmes are also in place for this purpose. Virtually all the higher education institutions
+and research establishments either have or are in the process of establishing a repository, or share the use of such
+a repository. They also offer secondary publication services (“green OA”).
+The Federal Government and the Länder encourage academic institutions to establish and develop their own
+science-based infrastructure so that authors have the opportunity to publish their findings in science-driven/
+academic publication formats. The Federal Government and the Länder share the view of the German Science and
+Humanities Council that diamond Open Access models contribute to system diversity and can compete with
+fee-based models.
+
+7. Cost transparency
+Along with transformative agreements, a restructuring of the system requires a fundamental change in thinking
+on the part of scientific institutions and research funding organizations. In particular, this involves support for
+the establishment of central publication cost centres at the scientific institutions. A complete accounting of all the
+resources available in the system which are currently used at scientific institutions at various points for information services is crucial for creating cost transparency and thus for the success of the transformation process. The
+Federal Government and the Länder expect the scientific institutions to draw up transparent information budgets
+and refer in this context to the relevant recommendations of the German Science and Humanities Council.
+
+8. Promoting diversity, minimizing market concentration
+Publicly funded scientific findings should be freely accessible. Targeted measures must therefore be taken to
+counter the increasing commercialization of publicly-funded scientific publications. The Federal Government
+and the Länder appreciate the diversity within the scientific publication system in Germany and recognize the
+important role that smaller and medium-sized publishers play.
+
+9. Publications of government actors
+The Federal Government and the Länder pursue the objective of leading by example and will publish their own
+publications in Open Access whenever appropriate and possible. They also aim to ensure the long-term, persistent
+and citable availability of their own publications.
+
+Open Access in Germany – Joint Guidelines of the Federal Government and the Länder
+
+5
+
+10. Overall role of Open Access
+The Federal Government and the Länder view Open Access as an integral element of Open Science concepts.
+Open Access as part of the research process is a source of innovation. Open Access and Open Science require
+a cultural shift and the development of specific competencies among stakeholders.
+
+Summary; objectives
+Open Access is a development which is driven by science and which also involves a (profound) cultural change.
+The twin challenges of shaping the regulatory framework and the financial issues related to the Open Access
+transformation facing the institutions require the joint and lasting support from government actors. The declared
+aim of the Federal Government and the Länder is to promote the diversity and durability of Open Access. The
+Federal Government and the Länder share the view of the German Science and Humanities Council that the
+Open Access transformation of academic publishing is to be achieved within the next few years, and the open
+­publication of publicly funded research results is to become standard practice.
+
+Imprint
+Published by
+Bundesministerium für Bildung und Forschung/
+Federal Ministry of Education and Research (BMBF)
+Division Data Policy Issues; Parameters of Digitalization
+11055 Berlin, Germany
+June 2023
+Edited by
+BMBF and Länder
+Layout
+BMBF
+
+This specialised publication of the Federal Ministry of Education
+and Research is available free of charge. It is not for sale and
+may not be used by political parties or groups for electoral
+campaigning.
+
+This publication is published
+under Creative Commons
+Attribution-ShareAlike 4.0
+International Public License.
+
+@BMBF_Bund
+@bmbf.de
+bmbf.de
+
+@bmbf.bund
+
+

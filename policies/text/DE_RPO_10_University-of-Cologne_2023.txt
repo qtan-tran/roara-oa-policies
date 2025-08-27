@@ -1,0 +1,765 @@
+GRUNDSÄTZE
+OPEN
+SCIENCE
+
+OPEN SCIENCE
+
+INHALT
+
+A
+
+B
+C
+D
+E
+
+Open Science aus Sicht der Universität zu Köln
+
+4
+
+1. Wofür steht Open Science?
+
+4
+
+2. Weshalb ist Open Science von Bedeutung?
+
+4
+
+3. Weshalb benötigt die UzK Open-Science-Grundsätze?
+
+5
+
+4. An wen richten sich die Open-Science-Grundsätze?
+
+5
+
+Handlungsempfehlungen für Universitätsangehörige
+und die Universität
+
+6
+
+1. Offener Forschungsprozess
+
+6
+
+2. Offener Zugang zu Publikationen
+
+6
+
+3. FAIRe und offene Daten
+
+7
+
+4. Offene Computerprogramme
+
+7
+
+5. Offene Lehr- und Lernmaterialien
+
+8
+
+6. Unterstützungsangebote für Open-Science-Praktiken
+
+8
+
+Umsetzung der Open-Science-Grundsätze
+
+9
+
+Kurzfassung
+
+10
+
+Glossar
+
+12
+
+Impressum
+
+14
+
+OPEN SCIENCE AUS SICHT DER UNIVERSITÄT ZU KÖLN
+
+A
+
+4
+
+A
+
+OPEN SCIENCE AUS SICHT
+DER UNIVERSITÄT ZU KÖLN
+
+Die Universität zu Köln (UzK) bekennt sich zu einer
+freien und offenen Wissenschaftskultur, die offenen Austausch, Transparenz und Reproduzierbarkeit
+umfasst. Qualität und Wirksamkeit von Forschung
+und hochschulischer Bildung, der gesellschaftliche
+Nutzen sowie das Vertrauen in die Wissenschaft sollen
+dadurch gesteigert werden. Um diese Kultur der
+Offenheit strategisch zu entwickeln und zu fördern,
+etabliert die UzK Open Science als Leitprinzip.1
+Open Science in Forschung und Lehre erfordert neue
+(digitale) Kompetenzen sowie die Revision tradierter
+Praktiken. Die UzK ist sich bewusst, dass der Transformationsprozess zu Open Science aufgrund der Unterschiede in den Fachdisziplinen sowohl im Zeitverlauf
+als auch im Grad der Offenheit variieren kann.2
+Um die Werte und Praktiken einer offenen Wissenschaftskultur an der UzK zu etablieren, werden:
+• die vorliegenden Open-Science-Grundsätze der
+dynamischen Entwicklung der Transformation entsprechend regelmäßig, spätestens alle drei Jahre,
+angepasst; 3
+• das Beratungs- und Schulungsangebot zu Open
+Science an der UzK kontinuierlich weiterentwickelt;
+• eine Übersicht über Aktivitäten und weiterführende Informationen zum Thema Open Science an der
+UzK gebündelt auf einer Website dargestellt und
+• die Verantwortung für Open Science auf Rektoratsebene dem Prorektorat für Forschung und Innovation zugeordnet.
+
+1
+
+Dieses Dokument orientiert sich im Aufbau und zentralen Formulierungen sehr stark an der Open Science Policy der Universität Zürich, 2021. https://www.openscience.uzh.ch (CC-BY 4.0)
+
+2
+
+Wagner, Nick et al.: Die Öffnung der Wissenschaft. Werkheft
+zur Gestaltung der Transformation. Berlin: innOsci, 2021, S.13.
+https://www.stifterverband.org/download/file/fid/10465 (CC-BY-SA 4.0)
+
+3
+
+Details zur Weiterentwicklung werden im internen Umsetzungsplan festgehalten.
+
+1. WOFÜR STEHT OPEN SCIENCE?
+Open Science ist als umfassendes Konzept zu verstehen, das darauf abzielt, wissenschaftliche Erkenntnisse
+aller Fachdisziplinen inklusive zugrundeliegender Forschungsmaterialien (Daten, Methoden, Software) sowie
+die Prozesse der Erkenntnisgewinnung, -bewertung
+und -vermittlung innerhalb der Fachgemeinschaften
+sowie darüber hinaus für die Öffentlichkeit transparent, verfügbar, zugänglich und wiederverwendbar zu
+machen.4
+
+2. WESHALB IST OPEN SCIENCE VON
+BEDEUTUNG?
+Open Science verfolgt das Ziel, globalen gesellschaftlichen Herausforderungen zu begegnen5, eine transparente Kultur der Zusammenarbeit über Disziplinen
+und Grenzen hinweg zu fördern und durch offene
+Praktiken den Zugang zu Wissen sowie dessen Transfer
+zu steigern.
+Open Science trägt zur wissenschaftlichen Integrität
+bei, da die Transparenz im Forschungsprozess erhöht
+und die Reproduzierbarkeit von Forschungsergebnissen verbessert wird. Die Kommunikation und Verbreitung von Forschungsergebnissen dienen darüber
+hinaus der Stärkung des Vertrauens in die Wissenschaft.
+Die Ergebnisse der ganz oder teilweise mit öffentlichen
+Geldern finanzierten Forschung und Lehre sind ein
+öffentliches Gut und sollten daher – unter Einhaltung
+rechtlicher und ethischer Rahmenbedingungen – im
+
+4
+
+Diese Definition sowie die nachfolgende Darstellung der OS
+Werte und Prinzipien stützen sich im Wesentlichen auf die UNESCO: Recommendation on Open Science, 2021. https://unesdoc.
+unesco.org/ark:/48223/pf0000379949.locale=en
+
+5
+
+Vgl. Wagner, Nick et al., 2021.
+
+OPEN SCIENCE AUS SICHT DER UNIVERSITÄT ZU KÖLN
+
+5
+
+A
+
+Sinne der Nachhaltigkeit für die Wiederverwendung
+durch Dritte zugänglich sein. Die Gesellschaft profitiert
+vom offenen Zugang zu Forschungsergebnissen, weil
+sie ihre Entscheidungen auf aktuelle wissenschaftliche
+Erkenntnisse stützen kann.
+Open Science ermöglicht den Zugang zu wissenschaftlichen Erkenntnissen unabhängig von verfügbaren
+finanziellen Mitteln. So werden Chancengleichheit
+und die Zusammenarbeit zwischen Institutionen
+und Personen gefördert. Weltweit zugängliche Forschungsergebnisse fördern den Wissenstransfer und
+die Sichtbarkeit der Forschung erheblich – nicht
+nur innerhalb der internationalen wissenschaftlichen
+Gemeinschaft, sondern auch in der Wirtschaft und der
+breiten Öffentlichkeit.
+
+3. WESHALB BENÖTIGT DIE UZK OPENSCIENCE-GRUNDSÄTZE?
+Das Potenzial von Open Science lässt sich nur dann
+vollständig ausschöpfen, wenn dieser Ansatz weltweit
+zu einem integralen Bestandteil der Forschungspraxis
+wird. In einem ersten Schritt möchte die Universität zu
+Köln mit der Verabschiedung eigener Open-ScienceGrundsätze Aufmerksamkeit für die Thematik schaffen, wichtige Bestandteile von Open Science sowie
+aktuelle Rahmenbedingungen verständlich erläutern, konkrete Empfehlungen formulieren und
+gleichzeitig Schwerpunkte setzen. Zu diesem Zweck
+geben die vorliegenden Grundsätze Handlungsempfehlungen, wie sich ausgewählte Open-Science-Praktiken in den wissenschaftlichen Betrieb der UzK integrieren lassen. Im Zuge der regelmäßigen Anpassung
+dieser Grundsätze können zukünftige Handlungsempfehlungen auch noch auf weitere Aspekte von Open
+Science (z.B. Open Peer Review, Open Innovation,
+Citizen Science) ausgeweitet werden.
+
+4. AN WEN RICHTEN SICH DIE OPENSCIENCE-GRUNDSÄTZE?
+Diese Open Science Grundsätze richten sich an alle
+Universitätsangehörigen, die Forschung und/oder
+Lehre betreiben beziehungsweise unterstützen. Die
+Universität zu Köln empfiehlt nachdrücklich, die hier
+dargelegten Grundsätze umzusetzen. Dabei werden
+spezifische Anforderungen und einschränkende Rah-
+
+menbedingungen der verschiedenen Wissenschaftsdisziplinen berücksichtigt.
+Abweichungen von den empfohlenen Open-Science-Praktiken können sich unter folgenden Umständen ergeben: rechtliche Beschränkungen (wie
+Datenschutz, Lizenzen, Nutzungs- und Verwertungsrechte), ethische und sicherheitsrelevante Bedenken,
+technische und finanzielle Beschränkungen, sowie
+Verwertungsmöglichkeiten (z.B. Patente, Spin-offs,
+etc.). Es müssen also die Drittrechte am Ergebnis, die
+Bedingungen bevorzugter Publikationsorgane6, die
+erwünschte Nachnutzung und die Vereinbarkeit mit
+der wirtschaftlichen Nutzung bestimmter Forschungsergebnisse frühzeitig in Open-Science Konzepten mitgedacht werden7.
+Die UzK erwartet den verantwortungsvollen Umgang
+mit derartig begründeten Abweichungen und empfiehlt
+eine kritische Auseinandersetzung, unter welchen
+Bedingungen Forschungsergebnisse, Praktiken oder
+Lehrmaterialien zukünftig in Richtung Open Science
+weiterentwickelt werden können.
+
+6
+
+Es empfiehlt sich zum Beispiel, die Policy des jeweiligen Journals
+hinsichtlich der Position zur Vorveröffentlichung (Preprint)
+zu prüfen.
+
+7
+
+Eine Patent- und Verwertungsstrategie der UzK befindet sich
+aktuell in der Entwicklung. Forschenden wird nahegelegt,
+sich bezüglich möglicher Verwertungsoptionen frühzeitig vor
+Veröffentlichungen durch die Abteilung 75 Transfer beraten zu
+lassen.
+
+HANDLUNGSEMPFEHLUNGEN FÜR UNIVERSITÄTSANGEHÖRIGE UND DIE UNIVERSITÄT
+
+B
+
+B
+
+6
+
+HANDLUNGSEMPFEHLUNGEN FÜR
+UNIVERSITÄTSANGEHÖRIGE UND
+DIE UNIVERSITÄT
+
+Die UzK empfiehlt, dass wissenschaftliche Leistungen – beispielsweise Publikationen, Forschungsdaten,
+Codes oder Lehr- und Lernmaterialien – so weit als
+möglich öffentlich zugänglich gemacht werden.
+Die UzK erwartet die Beantragung von Open-Science-Ressourcen, wenn diese von Förderern bereitgestellt werden. Die UzK erwartet außerdem von ihren
+Mitgliedern, sich eine Open Researcher and Contributor Identity (ORCID) anzulegen, diese zu pflegen
+und bei maßgeblichen wissenschaftlichen Aktivitäten
+anzugeben, damit die wissenschaftlichen Leistungen
+der Forschenden der UzK eindeutig zuzuordnen sind8.
+
+1. OFFENER FORSCHUNGSPROZESS
+Der freie und öffentliche Zugang zum Forschungsprozess erhöht dessen Transparenz und Glaubwürdigkeit
+und kann auch die Effektivität und Qualität zukünftiger
+Prozesse bedeutend verbessern.
+Die UzK empfiehlt deshalb Offenheit in allen Phasen
+eines Forschungsprojekts. In einigen Disziplinen haben
+sich hierzu bereits die Praktiken der Vorabregistrierung
+(Präregistrierung), der Vorabpublikation der Methodologie inkl. Peer Review (Registered Reports) und
+der Vorabpublikation (Preprint) etabliert. Die UzK
+ermutigt außerdem zur Veröffentlichung von Nullresultaten und der Anerkennung derartiger Forschungsleistungen, da sie ganz wesentlich zum Forschungsstand beitragen.
+Der Kulturwandel zu Open Science erfordert darüber hinaus einen offenen Umgang mit Fehlern in
+Forschungs- und Lehrprozessen, welche immer Teil
+menschlichen Handelns und Lernens sind. Die UzK
+
+fordert daher ihre Mitglieder zu einer transparenten
+und toleranten Fehlerkultur9 sowie dem Abwenden
+einer Schuldkultur auf.
+
+2. OFFENER ZUGANG ZU PUBLIKATIONEN
+Publikationen gelten als offen (Open Access, OA),
+wenn sie frei – also kostenfrei und unbeschränkt –
+über das Internet zugänglich und nachnutzbar sind.
+Open-Access-Publikationen unterliegen weiterhin dem
+Urheberrecht, die Nachnutzung sollte aber durch klare,
+möglichst offene Lizenzbedingungen (z.B. durch
+Creative-Commons-Lizenzen10) geregelt werden.
+Es gibt unterschiedliche Wege, Open Access zu publizieren: „Der goldene Weg des OA-Publizierens bezeichnet dabei die Erstveröffentlichung über das Internet,
+während der sogenannte grüne Weg die Zweitveröffentlichung von Publikationen im OA bezeichnet, die
+zuvor auf anderem Wege veröffentlicht worden sind.
+Als diamantenes Open Access werden Publikationen
+bezeichnet, die als Erstveröffentlichung frei zugänglich
+sind und zudem von den Autor:innen keinerlei Gebühren für die Veröffentlichung verlangen. Hier werden die
+Kosten von Fachgesellschaften oder anderen wissenschaftlichen Einrichtungen getragen.“11
+Die UzK empfiehlt ihren Angehörigen, sämtliche
+wissenschaftliche Leistungen Open Access zu ver-
+
+9
+
+Ansätze zur Entwicklung einer solchen Fehlerkultur werden
+von einer Arbeitsgruppe der NFDI-Sektion EduTrain adressiert:
+Herres-Pawlis, Sonja et al. (2022). NFDI_Section_EduTrain_Working_
+Group_Charter_Error_Management_and_No_Blame_Culture_V1_0
+(1.0). Zenodo. https://doi.org/10.5281/zenodo.6475492
+
+10 Creative Commons: https://creativecommons.org/ (Letzter Zugriff:
+
+08.07.2022)
+
+8
+
+Weitere Informationen und eine Anleitung finden sich auf den
+Seiten der USB Köln: https://www.ub.uni-koeln.de/forschen_publizieren/publizieren/orcid/index_ger.html
+
+11 Depping, R.: Open Science und Open Access im Aufwind. Arbeitspapier.
+
+Köln: Universitäts und Stadtbibliothek, 2022. http://kups.ub.uni-koeln.
+de/id/eprint/55535 (letzter Zugriff: 08.07.2022)
+
+HANDLUNGSEMPFEHLUNGEN FÜR UNIVERSITÄTSANGEHÖRIGE UND DIE UNIVERSITÄT
+
+öffentlichen, sofern Ihnen und der UzK dadurch
+keine Nachteile entstehen. Bei der Wahl des
+Publikations-organs ist auf dessen Seriosität zu achten,
+um nicht das sog. „Predatory Publishing“, also eine
+betrügerische Verlagspraxis ohne angemessene
+Qualitätsprüfung, zu befördern.12 Die Universitäts- und
+Stadtbibliothek zu Köln (USB) bietet umfangreiche
+Publikationsunterstüt-zung und berät zu Fragen rund
+um wissenschaftliches Publizieren und Open Access.13
+Eine aktuelle Übersicht qualitativ hochwertiger und
+durch Peer-Review geprüf-ter Open Access Journals
+liefert z.B. DOAJ – Directory of Open Access Journals14.
+Die UzK unterstützt Open Access strukturell (z.B.
+durch den Betrieb von Repositorien und Open
+Access Zeitschriften) und mit finanziellen und administrativen Ressourcen. Die elektronische
+Publikation der wissenschaftlichen Veröffentlichungen kann über das Hochschulrepositorium
+erfolgen und soll über die Forschungsbibliografie im
+Forschungsinformationssystem (FIS) nachgewiesen
+werden.
+Die UzK empfiehlt außerdem, dass Forschende
+gemäß disziplinärer Gepflogenheiten ihre
+eingereichten Manuskripte (Preprints) auf
+anerkannten Preprint-Servern zur Verfügung stellen.
+
+B
+
+7
+
+disziplinen15 und dem Vorhandensein geeigneter
+Infrastrukturen ab. Die UzK macht sich den Grundsatz der Europäischen Kommission “as open as
+possible, as closed as necessary“ zu eigen16 und
+orientiert sich dabei an den Leitlinien zur Guten
+Wissenschaftlichen Praxis (GWP) der UzK zur
+Herstellung von öffentlichem Zugang zu
+Forschungsergebnissen17.
+Demzufolge legt die UzK Forschenden nahe, Forschungsdaten, den FAIR-Prinzipien18 - Findable
+(auffindbar), Accessible (zugänglich), Interoperable
+(maschinell austauschbar) und Re-usable (wiederverwendbar) – folgend, fachgerecht aufzubereiten, zu archivieren sowie durch eindeutig zitierbare 
+Metadaten über ein geeignetes (Fach-)Repositorium
+nachzuweisen. Die UzK bietet dafür zentrale
+Unterstützung beim Forschungsdatenmanagement
+(FDM) über den gesamten Datenlebenszyklus durch
+Dienstleistungen des Cologne Competence Center for
+Research Data Management (C³RDM)19 an. Weiterhin
+erwartet die UzK im Sinne der Nachhaltigkeit die
+aktive Nutzung vorhandener, qualitativ hochwertiger
+Forschungsdaten aus vertrauenswürdigen
+Repositorien20.
+
+5. FAIRE UND OFFENE DATEN
+Offene Daten (Open Data) stehen für den Zugang zu
+Forschungsdaten zum Zweck der Überprüfung von
+Forschungsergebnissen und der ressourcenschonenden Nachnutzung existierender Datenbestände. Wie
+Forschungsdaten gehandhabt, dokumentiert und zur
+Verfügung gestellt werden, hängt von der Art der
+Daten, der Kultur innerhalb der einzelnen Fach-
+
+15 Eine regelmäßig aktualisierte Übersicht fachspezifischer Empfe-
+
+hlungen zum Umgang mit Forschungsdaten bietet die Deutsche
+Forschungsgemeinschaft (DFG): https://www.dfg.de/foerderung/
+grundlagen_rahmenbedingungen/forschungsdaten/empfehlungen/
+index.html (Stand 12.05.2022)
+
+16 European Commission: A European strategy for data. Brüssel,
+
+2020. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0066 (letzter Zugriff: 19.07.2022)
+
+17 Leitlinien zur Guten Wissenschaftlichen Praxis der UzK, hier
+
+12 Deutsche Forschungsgemeinschaft: Wissenschaftliches Publizie-
+
+ren als Grundlage und Gestaltungsfeld der Wissenschaftsbewertung. Herausforderungen und Handlungsfelder. Positionspapier.
+Bonn, 2022, S.31. https://www.dfg.de/download/pdf/foerderung/
+grundlagen_dfg_foerderung/publikationswesen/positionspapier_publikationswesen.pdf (letzter Zugriff: 19.07.2022)
+
+13 Siehe USB Köln: Open Access auf einen Blick. https://www.ub.uni-
+
+koeln.de/forschen_publizieren/open_access/index_ger.html (letzter
+Zugriff: 08.07.2022)
+
+14 DOAJ (Directory of Open Access Journals): https://doaj.org/about/
+
+(letzter Zugriff: 29.09.2022)
+
+insbesondere: https://am.uni-koeln.de/e35075/am_mitteilungen/@7/
+AM_2022-08_Leitlinien-guter-wiss-Praxis_ger.pdf. Siehe außerdem:
+Deutsche Forschungsgemeinschaft. (2022). Guidelines for Safeguarding
+Good Research Practice. Code of Conduct. https://doi.org/10.5281/
+zenodo.6472827
+
+18 Siehe GO FAIR: https://www.go-fair.org/fair-principles/ (letzter Zugriff:
+
+07.07.2022)
+
+19 C³RDM ist eine zentrale Betriebseinheit der Universität und
+
+bietet u.a. individuelle FDM-Beratungen, Schulungen, E-Learning, einen Servicekatalog zur technischen Infrastruktur sowie
+Netzwerkaktivitäten. https://fdm.uni-koeln.de/home
+
+20 Bei der Recherche nach geeignete Repositorien hilft das DFG-ge-
+
+förderte Suchportal re3data.org. https://doi.org/10.17616/R3D
+(letzter Zugriff: 07.07.2022)
+
+HANDLUNGSEMPFEHLUNGEN FÜR UNIVERSITÄTSANGEHÖRIGE UND DIE UNIVERSITÄT
+
+6. OFFENE COMPUTERPROGRAMME
+Für den Erhalt von Forschungsergebnissen ist es im
+Sinne der Interoperabilität und langfristigen Verfügbarkeit sinnvoll, proprietäre Datenformate zu vermeiden. Es spricht nichts gegen die Verwendung von
+proprietärer Software, wenn die Ergebnisse in
+offenen Dateiformaten gespeichert oder möglichst
+verlust-frei konvertiert werden können. Die UzK
+empfiehlt die Nutzung von offener Software, wenn
+diese in quali-tativ hochwertiger und sicherer Form zur
+Verfügung steht.
+Bei der Entwicklung von Computercodes bzw. -software ermöglicht Offenheit (Open Code/Open Source)
+die weitergehende Nutzung, wie auch die Mitwirkung
+von und Zusammenarbeit unter den Nutzenden. Wenn
+Codes (z.B. Datenauswertungsskripte, Steuerungsskripte von Experimenten) und/oder Software Teil des
+Forschungsprozesses und der Forschungsleistung sind,
+ist ihre Veröffentlichung einerseits für die Verifizierung
+der Forschungsresultate wichtig, andererseits auch ein
+Anreiz für ihre Wiederverwendung und ggf. kollaborative Weiterentwicklung. Die UzK legt ihren Forschenden nahe, dass von ihnen entwickelte Skripte und
+Programme, wann immer möglich, unter geeigneten Open-Source-Lizenzen zur Verfügung gestellt
+werden. Vorab sollten verfügbare Beratungsangebote21 genutzt und geprüft werden, ob der Nutzung
+bestimmter OSL Lizenzen zukünftigen Nutzungs- und
+Verwertungsmöglichkeiten oder Rechte Dritter entgegenstehen.
+
+7. OFFENE LEHR- UND LERNMATERIALIEN
+Laut UNESCO sind Open Educational Resources
+(OER) Lern-, Lehr- und Forschungsmaterialien, die
+in jedem Format und Medium entweder gemeinfrei
+oder unter einer offenen Lizenz – veröffentlicht sind.
+Dadurch wird kostenloser Zugang, Nachnutzung, Bearbeitung und Weiterverbreitung durch Andere
+erlaubt.
+
+B
+
+und fördern dabei die Möglichkeiten für lebenslanges
+Lernen. Offene Lehr-/Lernmaterialien können schnell
+und effizient an die Bedürfnisse von Lernenden und
+Lernsettings angepasst werden. OERs können genutzt
+werden, um so zu einer kollaborativen Weiterentwicklung der Lehr-Lernmaterialien beizutragen.
+Die UzK befürwortet die Nutzung und Erstellung von
+OER durch ihre Lehrenden und weist darauf hin, dass
+auch bei der Verwendung gemeinfreier oder offener
+Lizenzen nicht die Notwendigkeit entfällt, Rechte der
+an OER Resourcen beteiligten Urheber:innen zu analysieren und passende Vereinbarungen zur weiteren
+Nutzung von Lern-, Lehr- und Forschungsmaterialien
+einzugehen.
+Die Universität ist Mitbetreiberin des vom Land geförderten OER-Portals ORCA.nrw (Open Resources
+Campus NRW) und bietet Beratungsangebote zu OER
+an. Lehrenden wird empfohlen, sich regelmäßig über
+diese Angebote zu informieren.
+
+8. UNTERSTÜTZUNGSANGEBOTE FÜR
+OPEN-SCIENCE-PRAKTIKEN
+Forschende und Mitarbeitende benötigen spezifische
+Kompetenzen, um die oben genannten Praktiken
+anzuwenden. Aus- und Weiterbildungsangebote sind
+daher zentral, um Open Science als Norm etablieren zu
+können.
+Die UzK fördert und finanziert Schulungsangebote22
+im Bereich Open Science für alle akademischen
+Karrierestufen. Diese werden in den nächsten Jahren
+kontinuierlich ausgebaut und weiterentwickelt. Die
+UzK empfiehlt ihren Forschenden, das angebotene
+Schulungsangebot aktiv wahrzunehmen und sich
+regelmäßig fortzubilden.
+
+OER leisten einen wichtigen Beitrag zu einer inklusiven, gleichberechtigten und hochwertigen Bildung
+21 Informationen zu Lizensierungs-, Nachnutzungs- und Verwer-
+
+tungsstrategien werden auf einer zentralen Open-Science@
+UzK-Website gebündelt und auf Beratungsangebote einzelner
+Einrichtungen (Abt. 75 Transfer, C³RDM, OER Beratung) verlinkt.
+
+8
+
+22 Eine Website wird zukünftig bestehende Schulungsangebote
+
+auflisten.
+
+UMSETZUNG DER OPEN-SCIENCE-GRUNDSÄTZE
+
+C
+
+C
+
+UMSETZUNG DER
+OPEN-SCIENCE-GRUNDSÄTZE
+
+Zur Umsetzung der vorgelegten Grundsätze müssen seitens
+der Universität Informations- und Awareness-Maßnahmen
+entwickelt, Fort-und Weiterbildungsmöglichkeiten analysiert
+und zielgruppengerecht ausgebaut, relevante Richtlinien
+aktualisiert sowie die iterative Weiterentwicklung der Open
+Science Grundsätze mit Bedacht und unter Berücksichtigung
+nationaler und internationaler Entwicklungen koordiniert
+werden.
+Dies erfolgt in einem separaten Umsetzungsplan. Fortschritte werden regelmäßig evaluiert und vom Prorektorat für
+Forschung und Innovation koordiniert. Eine Revision
+der Grundsätze erfolgt spätestens alle drei Jahre unter breiter
+Mitwirkung der Universitätsangehörigen.
+
+9
+
+KURZFASSUNG
+
+D
+
+10
+
+D
+
+KURZFASSUNG
+
+Allgemein
+
+Die UzK e mpfie hlt, dass wissenschaftliche Leistungen – be ispie lswe ise Publikationen, Forschungsdaten, Codes oder Lehr- und Lernmaterialien – so weit als
+möglich öffentlich zugänglich gemacht werden.
+Die UzK erwartet die Beantragung von Open Science Ressourcen, wenn diese
+von Förderern bereitgestellt werden.
+Die UzK erwartet außerdem von ihren Mitgliedern, sich eine Open Researcher and
+Contributor Identity (ORCID) anzulegen, diese zu pflegen und bei maßgeblichen
+wissenschaftlichen Aktivitäten anzugeben, damit die wissenschaftlichen Leistungen der Forschenden der UzK eindeutig zuzuordnen sind
+
+Offener Forschungsprozess
+
+Die UzK empfiehlt Offenheit in allen Phasen eines Forschungsprojekts.
+Die UzK ermutigt außerdem zur Veröffentlichung von Nullresultaten und der
+Anerkennung derartiger Forschungsleistungen, da sie ganz wesentlich zum
+Forschungsstand beitragen.
+Die UzK fordert daher ihre Mitglieder zu einer transparenten und toleranten
+Fehlerkultur sowie dem Abwenden einer Schuldkultur auf
+
+Offener Zugang
+
+Die UzK empfiehlt ihren Angehörigen, sämtliche wissenschaftliche Leistungen Open Access zu veröffentlichen, sofern Ihnen und der UzK dadurch keine
+Nachteile entstehen
+Die UzK empfiehlt, dass Forschende gemäß disziplinärer Gepflogenheiten ihre
+eingereichten Manuskripte auf anerkannten Preprint-Servern zur Verfügung
+stellen.
+Die UzK unterstützt Open Access strukturell (z.B. durch den Betrieb von Repositorien und Open Access Zeitschriften) und mit finanziellen und administrativen
+Ressourcen.
+
+KURZFASSUNG
+
+11
+
+D
+
+FAIRe und offene Daten
+
+Die UzK macht sich den Grundsatz der Europäischen Kommission “as open as possible, as closed as necessary“ zu eigen und orientiert sich dabei an den Leitlinien
+zur Guten Wissenschaftlichen Praxis (GWP) der UzK zur Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
+Die UzK empfiehlt im Sinne der Nachhaltigkeit die aktive Nutzung vorhandener,
+qualitativ hochwertiger Forschungsdaten aus vertrauenswürdigen Repositorien.
+
+Offene Computerprogramme
+
+Die UzK empfiehlt die Nutzung von offener Software, wenn diese in qualitativ
+hochwertiger und sicherer Form zur Verfügung steht.
+Proprietäre Datenformate sollen im Sinne der Interoperabilität und langfristigen Verfügbarkeit vermieden werden.
+Die UzK legt ihren Forschenden nahe, dass von ihnen entwickelte Skripte und
+Programme, wann immer möglich, unter geeigneten Open-Source-Lizenzen
+zur Verfügung gestellt werden.
+
+Offene Lehr- und
+Lernmaterialien
+
+Die UzK befürwortet die Nutzung und Erstellung von OER durch ihre Lehrenden und weist darauf hin, dass auch bei der Verwendung gemeinfreier oder
+offener Lizenzen nicht die Notwendigkeit entfällt, Rechte der an OER Resourcen
+beteiligten Urheber:innen zu analysieren und passende Vereinbarungen zur weiteren Nutzung von Lern-, Lehr- und Forschungsmaterialien einzugehen.
+Die Universität ist Mitbetreiberin des vom Land geförderten OER-Portals ORCA.
+nrw (Open Resources Campus NRW) und bietet Beratungsangebote zu OER an.
+Lehrenden wird empfohlen, sich regelmäßig über diese Angebote zu informieren.
+
+Unterstützungsangebote für
+Open-Science-Praktiken
+
+Die UzK fördert und finanziert Schulungsangebote im Bereich Open Science für
+alle akademischen Karrierestufen.
+Die UzK empfiehlt ihren Forschenden, das angebotene Schulungsangebot
+aktiv wahrzunehmen und sich regelmäßig fortzubilden.
+
+GLOSSAR
+
+E
+
+12
+
+E
+
+GLOSSAR
+
+Citizen Science
+
+„Citizen Science beschreibt die Beteiligung von Personen an wissenschaftlichen
+Prozessen, die nicht in diesem Wissenschaftsbereich institutionell gebunden
+sind. Dabei kann die Beteiligung in der kurzzeitigen Erhebung von Daten bis
+hin zu einem intensiven Einsatz von Freizeit bestehen, um sich gemeinsam mit
+Wissenschaftler:innen und/oder anderen Ehrenamtlichen in ein Forschungsthema zu vertiefen. Obwohl viele ehrenamtliche Forscher:innen eine akademische Ausbildung aufweisen, ist dies keine Voraussetzung für die Teilnahme an
+Forschungsprojekten. Wichtig ist allerdings die Einhaltung wissenschaftlicher
+Standards, wozu vor allem Transparenz im Hinblick auf die Methodik der Datenerhebung und die öffentliche Diskussion der Ergebnisse gehören.“23
+
+Forschungsinformationssystem
+
+Das Forschungsinformationssystem (FIS) dient der digitalen Forschungsberichterstattung. Nach bundesweit einheitlichem Datenstandard wird fortlaufend der
+aktuelle Stand der Forschungsaktivitäten und -leistungen sämtlicher Wissenschaftler*innen der UzK permanent gepflegt und sichtbar gemacht. Siehe auch: https://
+ris.uni-koeln.de/
+
+Gemeinfreiheit
+
+Werke, an denen keine Urheberrechte bestehen, gelten als „gemeinfrei“ oder
+„public domain“. Das kann dadurch begründet sein, dass die urheberrechtlichen
+Schutzfristen abgelaufen sind oder die erforderliche Schöpfungshöhe für Urheberschutz nicht erreicht wird. Durch Vergabe einer „Creative Commons Zero“
+– Lizenz (auch CC0 – public domain) kann auch bei urheberrechtlich geschützten
+Werken die Nutzung ohne weitere Bedingungen freigegeben werden. Siehe auch
+https://irights.info/artikel/gemeinfreiheit-wie-frei-ist-frei/29619
+
+FAIR Prinzipien
+
+Leitprinzipien für den nachhaltigen Umgang mit Forschungsdaten, die demnach
+dauerhaft auffindbar, zugänglich, interoperabel und wiederverwendbar sein sollen. Deutschsprachige Erläuterungen der Prinzipien finden Sie hier: https://blogs.
+tib.eu/wp/tib/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/
+
+Metadaten
+
+Strukturierte und idealerweise standardisierte Daten, die Informationen über
+Merkmale anderer Daten enthalten (administrative, beschreibende oder technische Metainformationen).
+
+Offene Lizenzen
+
+Offene Lizenzen erlauben eine weitgehende Nachnutzung von Werken aller Art.
+Beim Modell der Creative Commons sind es die Lizenzen CC0, CC BY und CC BYSA.
+
+23 Grünbuch. Citizen Science Strategie 2020 für Deutschland, S. 13: https://www.buergerschaffenwissen.de/
+
+sites/default/files/grid/2017/11/20/gewiss-gruenbuch_citizen_science_strategie.pdf
+
+GLOSSAR
+
+E
+
+13
+
+E
+
+GLOSSAR
+
+Open Innovation
+
+Open Innovation fördert die strategische Öffnung und Kooperation von Wissenschaft und Wirtschaft durch Wissens- und Technologietransfer basierend auf
+einem Geschäftsmodell unter Implementierung des geistigen Eigentums
+
+Open Peer Review
+
+Um der Kritik am Prozess der Qualitätssicherung wissenschaftlicher Publikationen durch Begutachtung von Expert:innen (Double-blind-Review) zu begegnen
+und das Vorgehen transparenter zu gestalten, wurden Modelle für offene, online
+einsehbare Gutachten und offenen Umgang mit der Identität der Gutachter:innen
+entwickelt.
+
+Präregistrierung
+
+Noch vor Beginn der Datenanalyse wird der Forschungsplan einer wissenschaftlichen Studie (Forschungsfragen, Hypothesen, Forschungsdesign,
+Variablen etc.) verschriftlicht und auf geeigneten Plattformen (z.B. Open
+Science Framework) veröffentlicht.
+
+Preprint
+
+Die Vorveröffentlichung eines Forschungsberichts vor dem Begutachtungsverfahren eines Journals oder Verlags zur Beschleunigung der wissenschaftlichen
+Kommunikation wird inzwischen auch von großen Verlagen befürwortet. Es
+empfiehlt sich aber, die jeweiligen Publisher Policys sorgfältig zu prüfen (siehe
+z.B. nature, science).
+
+Registered Report
+
+Schon vor der Datenerhebung werden Forschungsfrage und geplante Methodologie veröffentlicht und einem Peer Review Prozess unterzogen. Damit werden
+best practices honoriert und fragwürdige Forschungsmethoden ausgeschlossen.24 Datenbank mit Journals, die diese Reports annehmen, siehe: https://www.
+cos.io/initiatives/registered-reports
+
+Repositorium
+
+Digitales Langzeitarchiv und ggf. Open Access Publikationsorgan für Forschungsergebnisse und/oder Forschungsdaten.
+
+24 Siehe: Center for Open Science (COS): Registered Reports. https://www.cos.io/initiatives/registered-reports
+
+(letzter Zugriff 8.07.2022)
+
+14
+
+IMPRESSUM
+
+IMPRESSUM
+Universität zu Köln, 2023
+
+Open Science Grundsätze der Universität zu Köln
+https://oscc.uni-koeln.de/open-science-grundsaetze
+
+Dieses
+
+Werk
+
+ist
+
+unter
+
+einer
+
+Creative
+
+Commons
+
+Lizenz
+
+vom
+
+Typ
+
+Namensnennung 4.0 International zugänglich. Um eine Kopie dieser Lizenz
+einzusehen,
+
+konsultieren
+
+Sie
+
+https://creativecommons.org/licenses/by/4.0/
+
+deed.de
+
+AUTOR*INNEN
+Prof. Dr. Bettina Rockenbach,
+Prorektorin für Forschung und Innovation
+https://orcid.org/0000-0003-2624-1964
+Dr. Oliver Höing
+https://orcid.org/0000-0002-5774-7194
+Claudia Arntz
+Jasmin Schenk
+https://orcid.org/0000-0002-5128-5734
+Teilnehmende an UzK internen Arbeitsgruppen zur Erarbeitung der Grundsätze
+aus den Fakultäten und beteiligten Einrichtungen (C³RDM, DCH, ITCC, USB,
+Prorektorat Lehre u. Studium).
+
+LEKTORAT
+Jasmin Schenk
+Katja Restel
+
+LAYOUT / DESIGN
+Martina Markus
+
+

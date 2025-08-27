@@ -1,0 +1,198 @@
+Guidelines for implementing open science
+at Friedrich-Alexander-Universität
+Erlangen-Nürnberg (FAU)
+Open Science Policy
+
+Agreed by the Executive Board on October 13, 2021.
+
+Guidelines for implementing open science at Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU)
+Open Science Policy
+[Agreed by the Executive Board on October 13, 2021.]
+
+Preamble
+Open science encourages the free exchange, transparency, reusability and reproduction of
+data by opening up access to academic research, communication, teaching and learning
+processes. Open science lays the foundations for trustworthy science based on good
+scientific practice and accelerates the dissemination of research findings.
+The term open science encompasses open access, open education, open data, open
+source and open methodology. Open access1 is part of open science, and is a
+groundbreaking strategy for scientific communication. Free, direct access to scientific
+publications allows research findings to be exploited fully in modern research environments,
+in scientific networks and in research databases, assuming the relevant rights of use are
+provided. Open education stands for open access to educational content and teaching
+materials. Open data and open source support the publication of scientific data and
+software for secondary exploitation and quality assurance purposes. Open methodology
+represents the principle of documenting the methods used clearly and effectively in
+accordance with good scientific practice.
+This Open Science Policy is based on the ‘Regulations for safeguarding good scientific
+practice and dealing with scientific misconduct at Friedrich-Alexander-Universität ErlangenNürnberg (FAU)’, the ‘Guidelines for handling digital research data at Friedrich-AlexanderUniversität Erlangen-Nürnberg. Research Data Policy’, the DFG code ‘Guidelines for
+safeguarding good research practice’, the ‘UNESCO Recommendation on Open Educational
+Resources (OER)’, the ‘Open Research Primers’ of the Reproducibility Network, the ‘San
+Francisco Declaration on Research Assessment (DORA)’ and the paper on ‘Implementing
+Open Science’ from the League of European Research Universities (LERU). In addition, all
+other guidelines at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) such as the
+Intellectual Property Policy (IP Policy) and the FAU quality management procedures must be
+complied with.
+FAU is aware that different subjects have different expectations and requirements for open
+science. It is therefore to be expected that different subjects will set different priorities.
+Nevertheless, it is crucial that we take an interdisciplinary and long-term approach to raise
+awareness and take sustainable action to implement open science. FAU shall support this
+ongoing, subject-specific process with the assistance of the Open Access Officer, the Chief
+Information Officer (CIO) and university services (in particular the University Library, the
+Innovation in Learning Institute (ILI)), the Erlangen Regional Computing Centre (RRZE), FAU
+CRIS, FAU Competence Units) and research support services.
+The intention of this Open Science Policy is to give FAU members guidance and
+recommendations for opening up academic and scientific teaching, learning, communication
+1 As defined in the ‘Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities’
+
+(‘Berliner Erklärung über offenen Zugang zu wissenschaftlichem Wissen’), the ‘Joint Declaration of the
+German Alliance of Science Organisations in Germany on Open Access and Copyright’
+(‘Gemeinsamen Erklärung der Wissenschaftsorganisationen zu Open Access und Urheberrecht’) and
+the ‘Commission Recommendation (EU) 2018/790 of 25 April 2018 on access to and preservation of
+scientific information’.
+
+and research processes and to align the strategic approach of the University with open
+science policies of influential bodies at a national and international level such as UNESCO,
+EU, cOAlition S, BMBF and DFG.
+
+Responsibilities
+This Open Science Policy is aimed at all members of FAU involved in research or teaching
+as well as all visiting scholars or scientists at FAU. If research is financed by third parties, all
+agreements with third parties concerning issues such as rights of access or re-use, archiving,
+and documentation will take precedence over this Open Science Policy.
+The members of FAU and any scholars or scientists working at the university temporarily or
+as a guest shall also comply at all times with valid legal provisions and regulations governing
+ethical research. In case of doubt, the advisory services and supervisory bodies at FAU
+(including the Data Protection Officer, the University Administration, the University Library,
+the Office of Knowledge and Technology Transfer and Continuing Education or the relevant
+Ethics Commission) shall be consulted.
+FAU and, where applicable, its services and research support facilities, are responsible for:
+1. Supporting and facilitating the transition to open science by providing education or
+training to members of FAU and raising awareness among the University community,
+as well as providing the necessary infrastructure for supporting this transition.
+2. Providing technical, organisational and human resources for ensuring the long-term
+availability of research and teaching results; this includes open access and open
+educational resources, research data repositories and, in the case of research,
+teaching and learning material published in monographs, FAU’s own non-commercial
+open access university press (FAU University Press). The repositories, which should
+preferably be certified, must also meet international standards and provide
+progressive tools for searches, navigation and to ensure that their content will remain
+accessible in the long term.
+3. Incorporating open science practices into recruitment, research and evaluation
+criteria. This may cover assessment criteria such as quality and availability of
+research (scientific or academic content including data and software), participation in
+citizen science projects, experimenting with open peer review or using OER, as far as
+appropriate and legally permitted.
+4. Measuring progress in the area of open science, for example by comparing the
+content of repositories with information collected from online citation and literature
+databases or monitoring the annual increase in open access, open data or OER
+content at FAU.
+5. Clearly compiling information about open science, including information on
+publication or archiving costs incurred and financing options.
+6. Providing advice and recommendations on open licences and copyright.
+
+FAU members are encouraged to support the principle of open science by taking the
+following measures:
+1. Dealing with their publications, teaching materials and data in compliance with the
+principles and requirements expressed in this Open Science Policy, unless there are
+any significant reasons to the contrary, for example legal concerns.
+2. Clearly marking research as originating from FAU by following standards for
+indicating affiliation and using unambiguous identifiers (e.g. DOI, ORCID, ROR or the
+like2).
+3. Coordinating new research projects with the advisory bodies responsible from the
+planning and application stage. This helps ensure that projects receive appropriate
+support from the relevant institutions and reminds researchers to apply for adequate
+funding for open science purposes from funding providers.
+4. Applying for resources specifically designated for open science in applications for
+third-party funding, if available from funding providers.
+5. Deciding when and how to licence research findings.
+6. Entering or importing research findings into the research information system FAU
+CRIS and marking them as open access publications where appropriate.
+7. Using the relevant cost types for (open access) publications.
+8. Supporting open science by reviewing or publishing work as far as
+possible/applicable.
+
+Open access to publications
+FAU recommends, if legally possible, filing a digital copy of the full text (published article or
+manuscript after final review) together with the relevant metadata of a publication in the
+University’s repository or other suitable infrastructure (e.g. subject-specific repositories). This
+step should also be taken with original open access publications in order to ensure that the
+publications are archived in the long term.
+FAU encourages its members to retain exclusive rights of use to their publications3 and only
+to transfer the rights required for publication to publishers. Negotiations can be conducted
+before publication to ensure that this is the case or addenda can be added to the publisher’s
+contract (see, for example, the Scholarʼs Copyright Addendum Engine provided by the
+Creative Commons (CC) Corporation or the SPARC Author Addendum from the Scholarly
+Publishing and Academic Resources Coalition).
+The University supports open access publication with a central open access publication fund.
+The University Library also pursues other open access agreements and institutional
+memberships to reduce costs.
+
+Open data
+When it comes to the accessibility of data, FAU follows the principle: ‘as open as possible,
+but as closed as necessary.’ Metadata ensuring that data can be found are provided
+according to the FAIR principles (findable, accessible, interoperable and re-usable).
+
+2 A digital object identifier (DOI) is a unique, persistent identifier for a digital object such as a paper or
+
+research data. The Open Researcher and Contributor ID (ORCID) identifies the author, allowing the
+academic work to be assigned to a particular person. The Research Organisation Registry (ROR)
+provides an identifier for all organisational units involved in the academic publishing process.
+3 Publication also refers in this instance to teaching materials for publication or data to be published in
+data journals, see the following sections.
+
+Further details are stipulated in the ‘Guidelines for handling digital research data at FriedrichAlexander-Universität Erlangen-Nürnberg. Research data policy’.
+
+Open Educational Resources (OER)
+FAU strives at all times to improve and assure the quality of teaching and studying. Whilst
+designing innovative and competitive university-level teaching in a dynamic digital
+environment boosts the reputation of scientists and scholars involved in teaching, it also
+increasingly poses a challenge for teaching staff.
+Using open educational resources offers new, straightforward possibilities for collaboration
+aimed at designing new teaching and learning materials. Teaching staff and students can
+use available materials, adjust them to suit their needs and create valuable synergies with
+the confidence that they are not breaching any legal requirements.
+In addition, open education resources give a global audience an insight into and appreciation
+of the excellent nature of teaching to the extent determined by those publishing the material.
+Teaching staff can control the extent of participation by issuing open licences. This ensures
+that teaching materials are clearly attributed and access provided via the original licence.
+FAU therefore encourages teaching staff to provide suitable material created for teaching
+and tutorials, study or research projects, Bachelor’s, Master’s, doctoral or postdoctoral
+theses as OER on StudOn or the University’s repository (document type: teaching material)
+or on other suitable OER platforms or repositories.
+
+Open source
+FAU uses open source solutions for efficient and future-proof ways to implement IT systems
+and also makes its own solutions available to the wider community. This helps strengthen the
+open source community.
+FAU intends to favour alternative open source systems over proprietary systems and to give
+preference to open source software where solutions are comparable. Whenever FAU has to
+develop software for itself or other clients, an effort shall be made to ensure that the code is
+available on open access software development web platforms in order to encourage
+community building.
+
+Open methodology
+Time pressures or external requirements (e.g. restrictions on the number of pages,
+characters or words) may mean that the description of the planned or used methods has to
+be kept extremely concise, for example in publications, research data management plans or
+documentation (e.g. Readme) relating to research data or software. However, a detailed
+description of the question, methods, how to conduct the experiments or research and the
+hardware and software used for conducting the research or experiments or for collecting,
+analysing or visualising data is crucial in order to ensure that the results can be accurately
+reproduced or re-used (‘rich metadata’).
+FAU encourages its members to document the methods they have used clearly, effectively
+and in accordance with good scientific practice. If there are restrictions to the number of
+pages, characters or words, details of the methods can be provided in a supplement. Another
+method is keeping electronic laboratory notebooks4 in which daily research is publicly
+documented or, for example in the field of digital humanities, using open annotation tools.
+4 Depending on the sensitivity of the data, open laboratory notebooks are also an option (‘open
+
+notebook science’).
+
+Evaluation
+These principles shall be evaluated regularly and adjusted to meet the latest standards at the
+latest every three years.
+This Open Science Policy shall replace the Open Access Policy agreed by the Executive
+Board on 22 March 2011.
+
+

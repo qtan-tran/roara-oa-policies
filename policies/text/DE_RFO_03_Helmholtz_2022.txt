@@ -1,0 +1,413 @@
+Helmholtz Open Science
+Policy
+Version 1.0
+
+Inhalt
+Helmholtz Open Science Policy ....................................................................................................... 2
+A. Strategische Positionierung .................................................................................................... 2
+Auf dem Weg zu Openness by Design ....................................................................................... 4
+B. Monitoring ............................................................................................................................. 4
+Open Access........................................................................................................................... 4
+Open Research Data ................................................................................................................ 5
+Open Research Software ......................................................................................................... 5
+C. Umsetzung und gemeinsame Anforderungen ............................................................................ 5
+1
+Open Access .................................................................................................................... 6
+2 Open Research Data ......................................................................................................... 7
+3 Open Research Software .................................................................................................. 8
+Schlussbestimmung ................................................................................................................... 8
+Impressum .................................................................................................................................... 9
+
+Helmholtz Open Science Policy, Version 1.0
+
+Helmholtz Open Science Policy
+Die vorliegende Helmholtz Open Science Policy gliedert sich in drei Abschnitte. Im Abschnitt „A.
+Strategische Positionierung“ formuliert die Helmholtz-Gemeinschaft ein Bekenntnis zu Open
+Science, entsprechend dem Grundsatz „as open as possible and as closed as necessary“. Im
+Abschnitt „B. Monitoring“ legt Helmholtz eine Selbstverpflichtung zu Open Science anhand der
+drei aktuellen Schwerpunktthemen (Open Access, Open Research Data und Open Research
+Software) durch konkrete und überprüfbare Ziele vor. Im Abschnitt „C. Umsetzung und gemeinsame Anforderungen“ werden im Einklang mit der Förderpolitik der Europäischen Kommission
+Open-Science-Praktiken für die Umsetzung formuliert.
+
+A. Strategische Positionierung
+In Übereinstimmung mit der „UNESCO Recommendation on Open Science“1 und der Verankerung
+von Open Science in der nationalen, europäischen und internationalen Wissenschaftspolitik bekennt sich Helmholtz zu Open Science.
+Wissenschaft lebt vom offenen Austausch von Erkenntnissen. Teilen, Vernetzen und Kooperieren sind zentrale Elemente der Kultur wissenschaftlichen Arbeitens. Die Digitalisierung befördert dynamisch die Möglichkeiten dieser Kultur. Das Paradigma Offenheit eröffnet so im gesamten Zyklus des wissenschaftlichen Arbeitens neue Perspektiven und ermöglicht die Ergebnisse auf nachhaltigen Infrastrukturen offen zugänglich und breit nachnutzbar zu machen.
+Diese offene Kultur des wissenschaftlichen Arbeitens wird durch den Begriff Open Science gefasst und ist für Helmholtz, im Sinne der guten wissenschaftlichen Praxis, leitend.
+In ihrem Streben, die Ergebnisse der eigenen Arbeit der Wissenschaft, der Wirtschaft und der
+Gesellschaft möglichst barrierefrei zur Nachnutzung öffentlich zugänglich zu machen, fordern
+die Helmholtz-Zentren die bei ihnen tätigen Mitarbeiter:innen auf, die von ihnen im Rahmen ihrer
+Tätigkeit für Helmholtz allein oder gemeinsam mit anderen Forschenden gewonnen Ergebnisse
+wann immer möglich nach dem Prinzip der intelligent openness, d. h. „as open as possible and
+as closed as necessary“, offen und nachnutzbar zu machen.2
+Für die Ausgestaltung von Open Science in Helmholtz sind die folgenden Prinzipien leitend:
+§
+
+Offenheit: Ergebnisse werden offen publiziert. Open Access3, unter Anwendung der Creative-Commons-Lizenz CC-BY, ist der Standard der Publikationspraxis wissenschaftlicher
+Ergebnisse, damit die Zugänglichkeit und Nachnutzung von Erkenntnissen sichergestellt
+wird.
+
+§
+
+Transparenz: Ergebnisse werden transparent kommuniziert. Forschungsdaten und Forschungssoftware, die notwendig sind, um Ergebnisse bewerten zu können, werden offen
+
+UNESCO. (2021). UNESCO Recommendation on Open Science. Online unter:
+https://unesdoc.unesco.org/ark:/48223/pf0000379949
+2
+Aktuell besteht Konsens darüber, dass Open Science und Transfer, als zwei zentrale Handlungsstränge in
+Helmholtz, sich in vielerlei Hinsicht gut ergänzen. Gleichzeitig aber besteht ein großer Gesprächsbedarf darüber,
+wie diese Querbeziehungen für Helmholtz besser fruchtbar gemacht werden können.
+3
+Im Sinne der Budapester Erklärung (https://www.budapestopenaccessinitiative.org/) und der Berliner Erklärung
+über den offenen Zugang zu wissenschaftlichem Wissen (https://os.helmholtz.de/open-science-inhelmholtz/berliner-erklaerung/).
+1
+
+2/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+publiziert, damit die Einordnung durch Dritte (z. B. im Rahmen der Reproduzierbarkeit) jederzeit nachvollziehbar ermöglicht wird.
+§
+
+Qualitätssicherung: Digitale Forschungsservices und offene Wissensinfrastrukturen unterstützen die Qualitätssicherung. Die Qualität der Ergebnisse wird in jedem Schritt des
+Forschungsprozesses im Sinne der guten wissenschaftlichen Praxis gesichert.
+
+§
+
+Vernetzung: Die FAIR-Prinzipien sind leitend bei der Aufbereitung von Wissensobjekten und
+-ressourcen. So werden Ergebnisse mit Standards wie Metadaten und persistenten Identifikatoren adressiert, damit Auffindbarkeit, Zugänglichkeit, Interoperabilität und Nachnutzung dauerhaft gewährleistet sind.
+
+§
+
+Nachhaltigkeit: Ergebnisse werden auf langfristig gesicherten und vertrauenswürdigen
+Wissensinfrastrukturen (u. a. wissenschaftsgeleitete Publikationsplattformen, Zeitschriften und Repositorien) publiziert. Evidenzbasiertes Wissen, für das es einen relevanten Bedarf bei verschiedenen gesellschaftlichen Stakeholdern gibt, wird zielgruppengerecht aufbereitet zur Verfügung gestellt, beispielsweise durch spezielle Informations- oder Beratungsdienste für Bürger:innen oder die Politik. Darüber hinaus wird ein breites Portfolio an
+fachspezifischen Forschungsservices (z. B. biomedizinische Technologien, Monitoringnetzwerke und laufende Simulationen) mit langfristigen Betriebskonzepten betrieben, die den
+offenen Zugriff auf digitale Informationsobjekte, wie Forschungsdaten, maschinenlesbar
+ermöglichen.
+
+Zur Gestaltung von Open Science anhand der genannten Prinzipien wird Helmholtz:
+§
+
+Forschende bei der Umsetzung durch Infrastrukturen, Services, Beratungsleistungen und
+Trainings unterstützen,
+
+§
+
+zentrale Open-Science-Infrastrukturen wie Publikationsplattformen, Eigenverlage und
+Repositorien und Beratungsdienste auf- und ausbauen und deren Vernetzung auf internationaler Ebene vorantreiben,
+
+§
+
+die Finanzierung dieser digitalen Informationsinfrastrukturen für die Wissenschaft sicherstellen,
+
+§
+
+Publikationsdienstleistungen von Verlagen und weiteren Dienstleistern, unter der Voraussetzung angemessener und transparenter Preis- und Kostenstrukturen, übernehmen,
+
+§
+
+innovative Verfahren der Qualitätssicherung wie Open Peer Review fördern,
+
+§
+
+Open-Science-Praktiken in ihren Förder- und Mittelverteilungsverfahren verankern,
+
+§
+
+die Anwendung von Open-Science-Praktiken im Rahmen der Bewertung von Forschungsleistungen (Research Assessment) anerkennen, wertschätzen und dazu Anreize für OpenScience-Praktiken (Open Access, Open Research Data, Open Research Software sowie Infrastrukturen und Services) schaffen,
+
+§
+
+die Vernetzung mit anderen Akteur:innen zur Förderung von Open Science auf nationaler
+und internationaler Ebene fördern.
+
+Helmholtz unterstützt und fördert Open Science durch den Unterhalt des Helmholtz Open
+Science Office als Dienstleister der Gemeinschaft.
+
+3/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+Auf dem Weg zu Openness by Design
+In Helmholtz wird die Entwicklung „von closed to open“ mithilfe von konkreten Aktivitäten,
+Services und Angeboten unterstützt und vorangetrieben. Eine zentrale Rolle in dieser Entwicklung nehmen damit auch Infrastrukturen ein. Diese Infrastrukturen sind als sich dynamisch
+entwickelnde, sozio-technische Strukturen zu betrachten.
+Weitere Handlungsfelder, die es in diesem Zusammenhang zu berücksichtigen gilt, sind beispielsweise Open Educational Resources, Open Hardware und Open Services. Mit Blick auf die
+Digitalisierung in den Wissenschaften fügen sich die einzelnen Komponenten zu einem digitalen
+Forschungsökosystem zusammen. „Openness by Design“ sollte hierbei eine grundlegende Maxime darstellen, die leitend auf künftige Entwicklungen wirkt.
+Die vorliegende Helmholtz Open Science Policy stellt einen weiteren Schritt in Richtung mehr
+Offenheit der Wissenschaft dar und befähigt die Gemeinschaft, auf eine aktive und nachhaltige
+Art und Weise, die Zukunft der Wissenschaft zu gestalten.
+
+B. Monitoring
+Helmholtz wird die Fortschritte zur Förderung von Open Science kontinuierlich erheben und
+damit nachprüfbar dokumentieren.
+Ein jährlicher Open Science Report an die Mitgliederversammlung wird über den Stand der Aktivitäten zu Open Science aggregiert berichten. Die Zusammenstellung wird vom Helmholtz Open
+Science Office übernommen.
+Aktuell stehen textuelle Publikationen, Forschungsdaten und Forschungssoftware im Fokus
+des Monitorings. Helmholtz strebt an, zu gegebenem Zeitpunkt weitere Ziele und Schwerpunktsetzungen zur Förderung für Open Science im Monitoring zu ergänzen.
+
+Open Access
+Das 2016 gesetzte Ziel, dass zum Stichtag 31.12.2020 die von dieser Policy betroffenen Publikationen des Vorjahres zu mindestens 60 % Open Access verfügbar sind, wurde erreicht.4
+Messgröße hierfür ist die Anzahl der Eintragungen mit Volltext in den Repositorien der Helmholtz-Zentren oder anderen geeigneten Repositorien in Relation zur Gesamtzahl der Eintragungen in den Repositorien / Veröffentlichungsdatenbanken der Helmholtz-Zentren für das Publikationsjahr. Die Zielquote steigt für jedes spätere Publikationsjahr um weitere 10 %. Ab dem
+Publikationsjahr 2025 wird die vollständige Publikation im Open Access angestrebt.
+Die Integration als Kennzahl für die Programmorientierte Förderung (PoF) wird in PoF IV fortgeführt.
+Die Arbeitskreise Open Science und Bibliotheks- und Informationsmanagement haben die Aufgabe die Empfehlungen für den Betrieb von Repositorien sowie die „Kriterien für den Betrieb
+von
+Open-Access-Publikationsfonds
+und
+die
+Übernahme
+von
+Open-Access-
+
+Hinweis: Für das Publikationsjahr 2019 konnten in der Helmholtz-Gemeinschaft bereits 67 % Open Access der
+Publikationen erreicht werden.
+
+4
+
+4/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+Publikationsgebühren“5 bei Bedarf weiterzuentwickeln. Anliegen ist die Stärkung wissenschaftsgeleiteter Publikationsorgane.
+
+Open Research Data
+Alle Zentren legen Einzelheiten zum Umgang mit Forschungsdaten in öffentlich zugänglichen
+Richtlinien fest6 und werden diese regelmäßig überprüfen und gegebenenfalls anpassen.
+Ein Einstiegsindikator zur Darstellung von zitierbaren Forschungsdaten-Publikationen wird im
+Rahmen der PoF als Incentive in 2023 etabliert.
+Bis 2024 wird ein Helmholtz-Qualitätsindikator für Forschungsdaten-Publikationen entwickelt
+und etabliert, der im Rahmen der PoF eingesetzt wird und den Einstiegsindikator ablösen wird.
+
+Open Research Software
+Alle Zentren streben an, bis 2025 Einzelheiten zum Umgang mit Forschungssoftware in öffentlich zugänglichen Richtlinien festzulegen.7
+Ein Einstiegsindikator zur Darstellung von zitierbaren Forschungssoftware-Publikationen wird
+im Rahmen der PoF zusammen mit Forschungsdaten-Publikationen als Incentive in 2023 etabliert.
+Bis 2024 wird ein Helmholtz-Qualitätsindikator für Forschungssoftware-Publikationen entwickelt und etabliert, der im Rahmen der PoF eingesetzt wird und den Einstiegsindikator ablösen
+wird.
+
+C. Umsetzung und gemeinsame Anforderungen
+Helmholtz legt folgenden Basis-Anforderungen zu Open Access, Open Research Data und Open
+Research Software als Rahmenbedingungen für die gesamte Gemeinschaft fest. Die weitere
+Umsetzung soll in Zentren-internen Regelungen8 integriert und gegebenenfalls spezifiziert werden.
+
+Die jeweils aktuelle Version wird auf der Webseite des Helmholtz Open Science Office veröffentlicht. Siehe:
+https://os.helmholtz.de/open-access/open-access-gold/kriterien-oa/
+6
+Siehe dazu die Empfehlungen für Richtlinien der Helmholtz-Zentren zum Umgang mit Forschungsdaten, 109.
+Mitgliederversammlung der Helmholtz-Gemeinschaft 2017: https://doi.org/10.2312/os.helmholtz.021. Eine Liste
+der Policies findet sich unter: https://os.helmholtz.de/open-research-data/forschungsdaten-policies/
+7
+Der Arbeitskreis Open Science der Helmholtz-Gemeinschaft hat im März 2017 ein Positionspapier zu diesem
+Thema verabschiedet und im November 2017 Empfehlungen zur Implementierung von Leit- und Richtlinien zum
+Umgang mit wissenschaftlicher Software an den Helmholtz-Zentren in einer ersten Version veröffentlicht
+(https://doi.org/10.2312/os.helmholtz.008). Nach weiterer Diskussion dieser Empfehlungen in der HelmholtzGemeinschaft wurde eine Muster-Richtlinie für den nachhaltigen Umgang mit Forschungssoftware an den Zentren
+erarbeitet, die vom Arbeitskreis Open Science im November 2019 gemeinsam mit den überarbeiteten
+Empfehlungen verabschiedet wurde https://doi.org/10.2312/os.helmholtz.007). Eine Checkliste zur
+Unterstützung der Zentren bei der Implementierung von Richtlinien für nachhaltige Forschungssoftware wurde
+2021 als Hilfestellung für die Zentren veröffentlicht (https://doi.org/10.48440/os.helmholtz.031).
+8
+Z. B. Publikationsrichtlinien, Forschungsdatenpolicies. Vgl. auch: „Die Ressource Information besser nutzbar
+machen! Positionspapier zum Umgang mit Forschungsdaten in der Helmholtz-Gemeinschaft“
+(https://doi.org/10.2312/os.helmholtz.021) sowie „Empfehlungen für Richtlinien der Helmholtz-Zentren zum
+Umgang mit Forschungsdaten“ (https://doi.org/10.2312/os.helmholtz.002).
+5
+
+5/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+1
+
+Open Access
+
+1.1 Die Mitarbeiter:innen stellen sicher, dass
+§
+
+spätestens zum Zeitpunkt der Veröffentlichung eine maschinenlesbare elektronische Kopie
+der veröffentlichten Version oder des endgültigen begutachteten Manuskripts, das zur Veröffentlichung angenommen wurde, im Repositorium des Helmholtz-Zentrums für wissenschaftliche Publikationen hinterlegt wird.
+
+§
+
+die hinterlegte Publikation vorzugsweise über das Repositorium sofort frei zugänglich gemacht wird, und zwar unter der neuesten verfügbaren Version der Creative Commons Attribution International Public Licence (CC BY) (bei Monographien und anderen Langtextformaten kann eine alternative Lizenz gewählt werden)
+
+§
+
+spätestens jedoch zwölf Monate nach Erscheinen, gemäß den Vorgaben des Zweitveröffentlichungsrechts (§ 38 (4) Urheberrechtsgesetz (UrhG) frei zugänglich gemacht wird,
+
+§
+
+sie über das Repositorium Informationen über Forschungsergebnisse sowie Werkzeuge und
+Hilfsmittel zur Verfügung stellen, die für eine Validierung der Schlussfolgerungen der wissenschaftlichen Veröffentlichung benötigt werden.
+
+Zur Umsetzung werden die Mitarbeiter:innen ermutigt ausreichende Nachnutzungsrechte einzubehalten, um die Open-Access-Anforderungen zu erfüllen.
+1.2 Zur Umsetzung stellen die Zentren und ihre Einrichtungen der Informationsinfrastruktur sicher, dass
+§
+
+die Metadaten der hinterlegten Publikationen unter einer Creative Commons Public Domain
+Dedication (CC0) oder einer gleichwertigen Lizenz zugänglich sind, den FAIR-Grundsätzen
+entsprechen (d. h. insbesondere maschinell verwertbar sind) und mindestens folgende Informationen enthalten: Veröffentlichung (Autor:inn(en), Titel, Datum der Veröffentlichung,
+Publikationsorgan); Name, Akronym und Nummer des Förderprojekts; Lizenzbedingungen;
+dauerhafte Identifikatoren für die Veröffentlichung und, falls möglich, ihre Organisationen
+und die Förderung. Gegebenenfalls müssen die Metadaten um dauerhafte Identifikatoren
+für alle Forschungsergebnisse oder andere Werkzeuge und Hilfsmittel ergänzt werden, die
+zur Validierung der Schlussfolgerungen der wissenschaftlichen Veröffentlichung benötigt
+werden.
+
+§
+
+die in den Metadaten enthaltenen Informationen durch geeignete persistente Identifikatoren (wie z. B. DOI, ORCID iD, ROR ID, etc.) gekennzeichnet sind.
+
+§
+
+die anfallenden Publikationsgebühren für wissenschaftliche Veröffentlichungen, die ein
+Peer-Review-Verfahren durchlaufen haben und die im genuinen Open Access verfügbar
+sind im Rahmen von zentren-internen Regelungen finanziert werden. Weitere Informationen zur Kostenübernahme finden sich in den „Kriterien für den Betrieb von Open-AccessPublikationsfonds und die Übernahme von Open-Access-Publikationsgebühren9 und in den
+jeweils internen Regelungen der Helmholtz-Zentren.
+
+Die jeweils aktuelle Version wird auf der Webseite des Helmholtz Open Science Office veröffentlicht. Siehe:
+https://os.helmholtz.de/open-access/open-access-gold/kriterien-oa/
+
+9
+
+6/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+2
+
+Open Research Data
+
+Die Empfehlungen für Richtlinien der Helmholtz-Zentren zum Umgang mit Forschungsdaten10
+sowie der DFG-Kodex “Leitlinien zur Sicherung guter wissenschaftlicher Praxis”11 und die entsprechende Rahmenleitlinie für die Helmholtz-Gemeinschaft dienen weiterhin als Orientierung.
+2.1 Die Mitarbeiter:innen stellen zusätzlich sicher, dass folgende Aspekte eingehalten werden:
+§
+
+Mit den jeweils erzeugten digitalen Forschungsdaten wird verantwortungsvoll und im Einklang mit den FAIR-Prinzipien12 umgegangen.
+
+§
+
+Die Mitarbeiter:innen nutzen – insbesondere bei EU-geförderten Forschungsprojekten – das
+Werkzeug Datenmanagementplan (DMP) und berücksichtigen dabei:
+§
+
+dessen regelmäßige Aktualisierung
+
+§
+
+die Hinterlegung der Forschungsdaten, so früh wie möglich und innerhalb der im DMP
+festgelegten Fristen, in einem vertrauenswürdigen Repositorium, welches in re3data13
+indexiert ist;
+
+§
+
+so früh wie möglich und innerhalb der im DMP festgelegten Fristen die Schaffung eines
+offenen Zugangs zu den hinterlegten Daten unter der neuesten verfügbaren Version
+der Creative Commons Attribution International Public License (CC BY) oder Creative
+Commons Public Domain Dedication (CC0) oder einer Lizenz mit gleichwertigen Rechten,
+
+§
+
+das Prinzip ‚so offen wie möglich, so geschlossen wie nötig’, es sei denn die Gewährung des offenen Zugangs würde insbesondere:
+§
+
+den berechtigten Interessen der Mittelempfänger:innen, auch im Hinblick auf
+eine kommerzielle Verwertung, zuwiderlaufen, oder
+
+§
+
+anderen Zwängen zuwiderlaufen.
+
+Hinweis: Wird kein freier Zugang (zu einigen oder zu allen Daten) gewährt, muss
+dies im DMP begründet werden.
+die Bereitstellung von Informationen über Forschungsergebnisse oder andere
+Werkzeuge und Hilfsmittel, die für die Weiterverwendung und/oder die Validierung der
+Daten erforderlich sind, über das Repositorium.
+§
+
+§
+
+2.2 Zur Umsetzung stellen die Zentren und ihre Einrichtungen der Informationsinfrastruktur sicher, dass
+§
+
+die Metadaten der hinterlegten Daten unter einer Creative Commons Public Domain Dedication (CC0) oder einem Äquivalent (soweit berechtigte Interessen oder Zwänge gewahrt
+werden) und im Einklang mit den FAIR-Prinzipien (insbesondere maschinell verwertbar)
+
+Empfehlungen für Richtlinien der Helmholtz-Zentren zum Umgang mit Forschungsdaten.
+https://doi.org/10.2312/os.helmholtz.002
+11
+Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex.
+https://doi.org/10.5281/zenodo.6472827
+12
+Wilkinson et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific
+Data, 3(1), 160018. https://doi.org/10.1038/sdata.2016.18
+13
+https://www.re3data.org/
+10
+
+7/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+veröffentlicht werden und mindestens Informationen über Folgendes enthalten: Datensatz
+(Beschreibung, Datum der Hinterlegung, Autor:inn(en), Publikationsorgan und Embargo);
+Name, Akronym und Nummer des Förderprojekts; Lizenzbedingungen; dauerhafte Identifikatoren für den Datensatz und, falls möglich, Organisationen und Förderung. Gegebenenfalls müssen die Metadaten auch dauerhafte Identifikatoren für zugehörige Veröffentlichungen und andere Forschungsergebnisse enthalten.
+
+3 Open Research Software
+Die Muster-Richtlinie Nachhaltige Forschungssoftware an den Helmholtz-Zentren 14 dient weiterhin als Orientierung.
+3.1 Die Mitarbeiter:innen stellen sicher, dass
+§
+
+wann immer möglich, der Programmcode der für die Weiterverwendung und/oder die Validierung der publizierten Daten erforderlich ist, auf einem Repositorium offen zugänglich
+gemacht wird.
+
+3.2 Zur Umsetzung stellen die Zentren und ihre Einrichtungen der Informationsinfrastruktur
+sicher, dass
+§
+
+Forschende bei der Publikation von Forschungssoftware unterstützt werden.
+
+§
+
+die Metadaten der hinterlegten Software / des hinterlegten Codes unter einer Creative
+Commons Public Domain Dedication (CC0) oder einem Äquivalent (soweit berechtigte Interessen oder Zwänge gewahrt werden) und im Einklang mit den FAIR-Prinzipien (insbesondere maschinell verwertbar) veröffentlicht werden und mindestens Informationen über
+Folgendes enthalten: Programmcode (Beschreibung, Datum der Hinterlegung, Version; Autor:inn(en), Repositorium); Name, Akronym und Nummer des Förderprojekts; Lizenzbedingungen; dauerhafte Identifikatoren und, falls möglich Organisationen und Förderung. Gegebenenfalls müssen die Metadaten auch dauerhafte Identifikatoren für zugehörige Veröffentlichungen und andere Forschungsergebnisse enthalten.
+
+Schlussbestimmung
+Diese Open Science Policy ergänzt die Open-Access-Richtline von 2016 und löst sie ab.
+Es obliegt den einzelnen Zentren, die hier formulierten Anliegen näher zu spezifizieren und diese
+umzusetzen.
+
+Muster-Richtlinie Nachhaltige Forschungssoftware an den Helmholtz-Zentren.
+https://doi.org/10.2312/os.helmholtz.007
+
+14
+
+8/9
+
+Helmholtz Open Science Policy, Version 1.0
+
+Impressum
+Die Onlineversion dieser Publikation finden Sie unter:
+https://doi.org/10.48440/os.helmholtz.055
+
+Kontakt
+Helmholtz-Gemeinschaft
+Helmholtz Open Science Office
+c/o Helmholtz-Zentrum Potsdam
+Deutsches GeoForschungsZentrum GFZ
+Telegrafenberg, 14473 Potsdam
+E-Mail: open-science@helmholtz.de
+
+Stand
+September 2022. Version. 1.0
+
+Lizenz
+Alle Texte dieser Veröffentlichung, ausgenommen Zitate, sind
+unter einem Creative Commons Attribution 4.0 International (CC
+BY 4.0) Lizenzvertrag lizenziert. Siehe: https://creativecommons.org/licenses/by/4.0
+
+9/9
+
+

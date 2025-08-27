@@ -1,0 +1,299 @@
+January 31, 2024
+
+Open Science Policy
+
+of the University of Freiburg
+I. Preamble
+The University of Freiburg recognizes open science as a key element of its own scientific
+­culture and commits to driving the necessary cultural shift. By making the processes of
+­academic production ‚as open as possible and as closed as necessary‘11, open science
+­becomes an ­integral part of good scientific practice. The term open science comprises
+­scientific practices that (i) make scholarly output (such as publications, research data, teaching materials, metadata, workflows, and software codes in their various manifestations)
+findable, accessible, ­interoperable, and reusable for everyone worldwide, that (ii) make use of
+research infrastructures that strengthen cooperation and information exchange for the benefit of science, humanities and society, and that (iii) open up processes of knowledge generation, communication, and assessment beyond the traditional scientific community.
+Open science promotes the exchange of knowledge even beyond traditional scholarly
+­publication formats and at an early stage in the research process. This enhances accessibility, visibility, and transparency, and thus simplifies the reproduction and validation of scientific
+knowledge. Reusability of research findings prevents redundant research, enables new methods (e.g. text and data mining), and promotes innovation through efficient knowledge transfer. Open science will realize its potential as it becomes an integral part of research practice
+in all disciplines, not only at the University of Freiburg but globally. The University of Freiburg
+therefore commits to fostering a culture of open science and challenges its scientific staff
+and students to actively shape the transformation towards open science and act in accordance with its principles. Departments, institutes and central services are asked to implement concrete measures based on the abstract guiding principles of this policy.
+
+II. Basic principles
+Open science builds on essential values and principles, independent of the specific field of activity. Access to the scientific process regardless of origin, age, gender, and socioeconomic status fosters diversity and inclusion. The quality and integrity of sciences and humanities is of crucial importance to all
+researchers and students of the University. The principles of good scientific practice apply to every step
+of the research process.
+The University‘s role is to provide necessary organizational resources, including technical infrastructure,
+and guaranteeing their long-term availability. Any infrastructure must be open to university staff, students, affiliates, and cooperation partners. The University aims to establish non-profit models for the
+operation of critical open science infrastructure.
+
+1
+The EU’s open science policy (2019), https://research-and-innovation.ec.europa.eu/strategy/­strategy-2020-2024/­­
+our-digital-future/open-science_en
+
+1
+
+The choice of publication strategies and infrastructures, including the selection of licenses for reuse of
+texts and data, and the curation of research data and metadata, becomes part of the growing responsibilities of the individual researcher. Reducing dependencies on commercial service providers means
+fostering digital and infrastructural sovereignty. A key measure is support for publication platforms and
+infrastructures operated independently by research organizations or disciplinary communities. Finally,
+open science implies the broad availability of scientific information, and as a consequence increased
+demands on the quality of scholarly communication and collaboration.
+
+III. Open access
+The open access transformation aims to make academic articles and books freely available
+without financial, legal, or technical barriers. Open licenses specify clear legal conditions of
+reusability.
+There are multiple routes for publishing research results open access: the golden route
+­(primary publication of a scholarly article in an open access journal) or the green route
+­(secondary publication of an article already published by a publishing house in the form of
+self-archival on an institutional or disciplinary publication server). The University recommends
+to publish research results preferably in open access journals via the golden route, and to
+make texts available under the creative commons licence CC BY. For legally compliant
+­implementation, only simple rights of use should be assigned to publishers. The University
+particularly endorses non-commercial publication outlets that do not incur costs for access
+or publication (diamond open access) and platforms operated independently by scientific
+­institutions or researchers (scholar-led publishing).
+The University recommends to additionally make publications available via the University‘s
+institutional repository in order to enhance visibility and ensure long-term archival. To this
+end, the right to secondary publication should, if possible, be reserved in publishing contracts.
+If the legal requirements are met, the secondary publication right enshrined in Section 38 (4)
+of the Act on Copyright and Related Rights (Urheberrecht) should also be utilised.
+In accordance with the guidelines of funding bodies, a publication resulting from a third-party funded
+project must include a corresponding funding notice in the research funding acknowledgements of
+the publication.
+
+IV. Open data
+Open data refers to publicly available, curated and reusable scientific datasets. Public data sets
+must be accompanied by licencing terms that specify legally binding conditions under which the
+data can be reused. The publication of the actual data is supplemented by metadata, which, for
+example, describes the context in which the data was created. Findability is aided by adding
+standardized keywords to the metadata.
+University of Freiburg researchers are free to use a data repository of their choice. It is recommended
+to choose discipline-specific or community-specific repositories. The University recommends
+using a CC BY or a CC0 licence.
+Researchers plan and decide as early as possible in the life cycle of their research data how to curate
+interoperable and reusable datasets from raw data. Ideally, this should be recorded in a data
+­management plan that also describes the software and workflows for the processing of the data.
+Researchers should follow established standards of their respective fields. Economic criteria, such as
+costs for storage, costs for operating infrastructure, or costs for personnel acquiring and generating
+2
+
+data, may be taken into account when deciding whether raw, annotated, and curated data are made
+publicly available. Storage costs are thus balanced against costs of generating new data.
+Research data must be retained and kept accessible for as long as required by standards established in the respective discipline or conditions imposed by research funding bodies. Retaining data
+must follow applicable legal and contractual provisions (e.g. EU regulations on the collection of
+­personal data). The minimum retention period for research data and documents is ten years after
+the ­publication of the data, or after other forms of research publication or conclusion of the project.
+
+V. Open educational Resources
+Open educational resources (OER) are educational materials of any kind and medium that
+are available under an open licence. The University of Freiburg aims to develop an open
+­teaching and learning culture with freely available learning materials. University staff is
+­encouraged to publish learning materials that meet academic standards in a fully accessible
+form and under an open licence. Ideally, OERs should be published in a repository that
+­guarantees findability by others.
+The University recommends a CC BY licence. Publication of learning material should be
+­associated with the name of the author and the University of Freiburg. Materials produced by
+students must be checked by lecturers or research assistants with regard to validity.
+
+VI. Open-source software & hardware
+Important products of research at universities are software and hardware. Open-source software and open hardware grant extensive rights to third-parties for use these codes, designs
+or blueprints. The specific licencing terms enable flexible use and continued improvement
+and development of software and hardware. In order to achieve broad reusability, the University recommends giving precedence to open licences (MIT, BSD, Apache) over so-called copyleft
+licences (e.g., LPGL, GPL). Copyleft licences mandate users to republish extensions and modifications to the codes or the hardware under the same licence, thus restricting r­ eusability.
+The CC BY licence is suitable for hardware designs.
+Ideally, publication of software involves the entire context of its development and use and, in
+addition to the source code, also the history of the source code (usually within the context of
+a version control system), automated quality control (usually via test frameworks and so-called
+continuous integration), and, for server architecture, deployment protocols. Wherever possible,
+software should be executable without the use of software packages (e.g. libraries or interpreters) that require a commercial licence.
+
+VII. Research infrastructures
+Advancing scientific knowledge often requires specialized scientific instruments, such as
+­microscopes or supercomputers. Instrumental infrastructures that are in accordance with the
+open science practices described in this policy require interoperable standards, such as generic,
+open, and self-describing file formats, e.g. for the storage of measurement data. If possible, the
+use of open formats should be specified as a criterion in invitations to tender for equipment.
+In addition, the operation of research infrastructures itself should be as open as possible. This
+­applies particularly to virtual research environments, publication platforms, research information
+3
+
+systems, scientometric systems, or computing and data processing services. Such systems
+should be operated in a sustainable manner, meeting the requirements of the respective
+­disciplinary community. The use of interoperable standards ensures the greatest possible
+­digital and infrastructural sovereignty.
+
+VIII. Open science and society
+Open science also aims to open up the research process to a broad public and involve interested citizens. Participation models can range from the outsourcing of research projects (crowdsourcing) and the collaborative involvement of citizens in research projects (citizen science) to
+the financing of projects with a broad impact (crowdfunding). The purpose of involving the
+­public is to achieve a stronger dialogue with social actors outside the scientific community.
+Open science aims to strengthen dialogue and public involvement in order to promote cultural
+diversity through open science practices.
+
+IX. Evaluation and monitoring
+The University aims to retain or regain sovereignty over the evaluation of its researchers. The
+­consideration of data, software, OER, patents, or books in addition to the classic journal article
+­allows a differentiated assessment of scholarly performance beyond performance assessments
+on the basis of commercially driven quantitative indices (journal impact factor, citations, h-index,
+etc.). This establishes a qualitative view of the performance of researchers and allows disciplinary
+and cultural as well as personal characteristics to be taken into account when assessing performance. Open science will only become a living culture if open science practices have a positive
+impact on the career of individual researcher.
+The University aims to document its progress in the implementation of the open science transformation and to aggregate its activities. The assessment procedure and data suitable for publication
+will be made available transparently, in machine-readable form, and under a free licence on the
+website of the University of Freiburg.
+A condition for documenting open science practices and exploiting their potential is the use of
+­persistent identifiers. All members of the University who conduct research are asked to register for
+an ‚open researcher and contributor identity‘ (ORCID). As a research institution, the University of
+Freiburg can be referenced via its unique ‚Research Organization Registry‘ (ROR) identifier. Ideally,
+publications, data, and other products should have a ‚digital object identifier‘ (DOI).
+
+X. ‘As open as possible, as closed as necessary’
+The open science transformation fundamentally changes the entire cycle of scholarly work in areas
+where there are no legal, ethical, or other reasons restricting openness. It is not an end in itself but rather must be measured by its ability to reshape the communication and publication culture as well as
+research infrastructures for the benefit of science, humanities and society. The University recognizes
+that specific requirements of the various academic disciplines may limit implementation of the recommendations set out in this policy. Licence conditions that deviate from the idea of open licences can be
+used if this is necessary or appropriate or if the third-party material used requires this. The less restrictive the licences are, the easier it is to reuse, modify, and distribute research and teaching materials.
+Potentials of commercial exploitation of results by the University and its employees within the
+context of technology transfer must be balanced with ideas of openness before publication. In
+4
+
+particular, employees must report inventions to the University before publication. Even in the
+case of research findings that are worthy of patent protection, there are no barriers towards
+publication in accordance with the principles described in this policy once protection has
+been secured.
+
+XI. Scope
+This policy addresses all University of Freiburg members and affiliates. It was passed by the
+­Senate on 31 January 2024. The principles of this policy also hold for cross-university
+­collaborations.
+
+XII. Validity
+This policy shall become effective upon the passing of the University of Freiburg Senate resolution on 1 February 2024. As of the effective date of this Open Science Policy, the following
+documents shall lose their validity with immediate effect:
+• Open Access Resolution of the University of Freiburg (passed on March 2010)
+It will be reviewed regularly whether this Open Science Policy needs to be updated.
+
+5
+
+Appendix
+Appendix to the Open Science Policy of the University of Freiburg, which became effective on
+1 February 2024.
+
+Further information
+Open access
+Publication Fund
+
+Support financing publication fees for open access books as well
+as articles in exclusively open access journals (gold open access)
+https://www.ub.uni-freiburg.de/unterstuetzung/elektronisch-­
+publizieren/open-access/publikationsfonds/
+
+FreiDok plus
+
+Institutional repository of the University of Freiburg; free publication
+platform (diamond open access); leading system for publication
+(meta)data for the research information system; University bibliography
+https://freidok.uni-freiburg.de
+
+Freiburg University
+Publishing
+
+University publishing house (in the process of being established)
+
+FreiJournals
+
+Infrastructure for the publication and management of journals
+(diamond open access / scholar-led publishing)
+https://freijournals.ub.uni-freiburg.de/en/
+
+Open Encyclopedia
+System
+
+Infrastructure for the publication and management of encyclopedias (diamond open access / scholar-led publishing)
+
+Nationale Fördergeber
+
+As far as they are known, publication costs are eligible for funding
+in all relevant programmes of national funding bodies.
+DFG, Volkswagen Foundation: Open access publication is requested.
+BMBF: Open access publication is standard.
+BW State Ministries: Open access publication is expected.
+
+EU
+
+Obligation to publish in an open access format; (non-hybrid) open
+access publication costs refundable
+
+Open Data
+RDM policy
+
+Policy on the handling of research data at the University of Freiburg
+https://doi.org/10.6094/UNIFR/231612
+
+InvenioRDM
+
+Institutional repository for research data (under development)
+
+FreiDok plus
+
+Institutional repository, also suitable for archiving research data
+https://freidok.uni-freiburg.de
+
+6
+
+Open educational resources
+ZOERR
+
+State service for OER
+https://www.zoerr.de/
+
+University of
+­Freiburg media
+­portal
+
+https://videoportal.uni-freiburg.de/
+
+Persistent identifiers
+Digital object
+­identifier
+
+Persistent identifier for making unique reference to digital objects
+of all kinds
+https://doi.org/
+
+ORCID
+
+Persistent identifier for making unique reference to researchers
+https://orcid.org/
+
+ROR
+
+Persistent identifier for making unique reference to the University
+of Freiburg:
+https://ror.org/0245cg223
+
+Lizenzen
+Text and data
+
+Creative Commons (CC)
+https://creativecommons.org/
+
+Software
+
+Open Source Initiative (OSI)
+https://opensource.org/licenses/
+
+Exploitation and patents
+Centre for
+­Technology Transfer
+
+The Centre for Technology Transfer (ZFT) is available to answer
+questions in the area of technology transfer and protection of
+­intellectual property.
+
+This work is licenced under a Creative Commons Attribution 4.0 International
+­License. https://doi.org/10.6094/UNIFR/245817
+
+7
+
+

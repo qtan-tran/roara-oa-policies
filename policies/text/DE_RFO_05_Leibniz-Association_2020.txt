@@ -1,0 +1,774 @@
+Open-Access-Policy
+der ­Leibniz-Gemeinschaft
+Open Access policy of
+the Leibniz Association
+
+01
+03
+04
+06
+
+Präambel / Preamble
+Rahmenbedingungen / Framework conditions
+Ziele / Aims
+Maßnahmen / Measures
+
+Open-Access-Policy
+
+Präambel
+
+Preamble
+
+In den vergangenen Jahren hat in vielen Bereichen von
+
+A cultural shift has occurred within politics, education,
+
+Politik, Bildung, Gesellschaft und Wissenschaft ein Kul-
+
+society and academia in recent years, one which is
+
+turwandel stattgefunden, der in engem Zusammenhang
+
+closely linked with the omnipresent opportunities for
+
+mit den allgegenwärtig vorhandenen Möglichkeiten zur
+
+utilising the internet and the concomitant process of
+
+Nutzung des Internets sowie der damit einhergehenden
+
+digitalisation. One effect of this change is the increased
+
+Digitalisierung steht. Eine Folge dieses Wandels ist die
+
+expectations in terms of transparency and accessibili-
+
+erhöhte Erwartung von Transparenz und Zugänglichkeit
+
+ty of research results. Due to this change in expecta-
+
+zu wissenschaftlichen Ergebnissen. Aufgrund dieser
+
+tions, but also as a result of the many advantages pro-
+
+veränderten Erwartungshaltung, aber auch aufgrund
+
+vided to researchers‘ own work, academia has
+
+vielfältiger Vorteile für das eigene Tun, hat die Wissen-
+
+developed new forms of academic conduct and pub-
+
+schaft neue Formen des wissenschaftlichen Handelns
+
+lishing. This includes the Open Access paradigm, which
+
+und Publizierens entwickelt. Hierzu zählt das Open-Sci-
+
+is particularly suited to combining tried-and-tested
+
+ence-Paradigma, das in besonderem Maße qualifiziert
+
+aspects of good scientific practice with the opportuni-
+
+ist, bewährte Aspekte guter wissenschaftlicher Praxis
+
+ties which digitalisation affords academia. Alongside
+
+mit den Möglichkeiten der Digitalisierung für die Wissen-
+
+other elements of Open Science (such as Open Data,
+
+schaft zu verbinden. Neben weiteren Elementen von
+
+Open Educational Resources and Open Source Soft-
+
+Open Science (wie Open Data, Open Educational Re-
+
+ware), open access to quality-assured academic publi-
+
+sources, Open Source Software) stellt der offene Zu-
+
+cations in line with the Open Access philosophy repre-
+
+gang zu qualitätsgesicherten wissenschaftlichen Publi-
+
+sents an important component in creating a culture of
+
+kationen im Sinne des Open Access einen wichtigen
+
+academic transparency. The great importance of Open
+
+Baustein zur Gestaltung einer transparenten Wissen-
+
+Access is reflected in numerous framework-creating
+
+schaftskultur dar. Sein hoher Stellenwert spiegelt sich
+
+viewpoints on the topic published recently by the Ger-
+
+in zahlreichen rahmengebenden Open-Access-Positio-
+
+man federal government and federal states.
+
+nen wider, die von Seiten des Bundes und der Länder in
+jüngster Zeit veröffentlicht wurden.
+
+The Leibniz Association was an early proponent of the
+
+Die Leibniz-Gemeinschaft hat sich bereits frühzeitig der
+
+of the Berlin Declaration; it already adopted its own
+
+Open Access philosophy. It is one of the first signatories
+Open-Access-Idee verschrieben. Sie gehört zu den Erst-
+
+Open Access Guidelines in 2007; and together with oth-
+
+unterzeichnern der Berliner Erklärung, hat schon 2007
+
+er academic organisations, it has committed itself to
+
+eine eigene Open-Access-Leitlinie verabschiedet und
+
+transforming the academic publishing market in line
+
+engagiert sich zusammen mit den anderen Wissen-
+
+with Open Access. The Leibniz Association helps shape
+
+schaftsorganisationen für die Transformation des wis-
+
+important aspects of academic policy, such as with the
+
+senschaftlichen Publikationsmarktes hin zu Open Access.
+
+„Open Science Policy Platform“ founded by the Europe-
+
+Die Leibniz-Gemeinschaft gestaltet Wissen­schaftspolitik
+
+an Commission, and related expert groups.
+
+an entscheidenden Stellen mit, beispielsweise durch die
+von der Europäischen Kommission ins Leben gerufene
+
+The increasing dynamism of the topic of Open Access is
+
+„Open Science Policy Platform“ und zugehörige Exper-
+
+reflected in this, the Open Access policy of the Leibniz
+
+tengruppen.
+
+Association. With this Open Access policy, the Association remains in step with current and future develop-
+
+Der zunehmenden Dynamik des Themas Open Access
+
+ments, thereby helping to contribute to the success of
+
+trägt die Leibniz-Gemeinschaft mit der hier vorliegen-
+
+an Open-Access-friendly academic culture.
+
+den Open-Access-Policy Rechnung. Indem die Gemeinschaft mit dieser Open-Access-Policy an aktuelle und
+zukünftige Entwicklungen anschlussfähig bleibt, trägt
+sie zum Gelingen einer Open-Access-freundlichen Wissenschaftskultur bei.
+
+01
+
+Open Access Policy
+
+Rahmenbedingungen
+
+Framework conditions
+
+Die hier vorgelegte Open-Access-Policy berücksichtigt
+
+This Open Access policy pays particular attention to the
+
+insbesondere die folgenden Aspekte, die für die L
+­ eibniz-
+
+following aspects, which are of great importance to
+
+Gemeinschaft von besonderer Bedeutung sind:
+
+the Leibniz Association:
+
+die Wissenschaftsfreiheit / Academic freedom
+die Evaluierungskriterien der Leibniz-Gemeinschaft
+The Leibniz Association‘s evaluation criteria
+die Unabhängigkeit der Leibniz-Einrichtungen
+The independence of the Leibniz Institutes
+die disziplinären Unterschiede im Publikationsverhalten
+The discipline-specific differences in publication activity
+die verschiedenen Karrierestufen der Forschenden
+The different career stages of the respective researchers
+die finanziellen, rechtlichen (wie z.B. Datenschutz und
+Urheberrecht) und wissenschaftspolitischen Rahmenbedingungen (insbesondere auf europäischer und ­
+nationaler Ebene und im Bereich der Forschungsförderung)
+The financial, legal (e.g. data protection and copyright) and
+academic-policy-related framework conditions (especially
+at the European and national level, as well as in the area
+of research funding)
+
+03
+
+Open Access Policy
+
+Ziele
+
+Aims
+
+Die Leibniz-Gemeinschaft als öffentlich finanzierte For-
+
+As a publicly funded research organisation, the Leibniz
+
+schungsorganisation sieht sich in einer besonderen Ver-
+
+Association believes it has a particular responsibility to
+
+antwortung gegenüber der Gesellschaft und bekennt
+
+society, and is committed to academia as a public re-
+
+sich zu Wissenschaft als öffentlicher Ressource. Leib-
+
+source. Leibniz Institutes make their results accessible
+
+niz-Einrichtungen stellen ihre Ergebnisse der Öffentlich-
+
+to the public – including by advising policy-makers, the
+
+keit zur Verfügung – auch durch Beratung von Politik,
+
+commercial sector and the public sector. The combina-
+
+Wirtschaft und Gesellschaft. Die Verbindung von thema-
+
+tion of excellent, thematically broad research and out-
+
+tisch breiter, exzellenter Forschung und hochwertigen
+
+standing research infrastructures enables the insti-
+
+Forschungsinfrastrukturen ermöglicht es den Einrich-
+
+tutes of the Leibniz Association to use academic insights
+
+tungen der Leibniz-Gemeinschaft, mit Erkenntnissen
+
+and developments to directly influence society.
+
+und Entwicklungen direkt in die Gesellschaft hineinzu-
+
+Freely accessible publications offer a special opportu-
+
+wirken. Frei zugängliche Publikationen bieten eine be-
+
+nity to make research-based knowledge available to a
+
+sondere Chance, forschungsbasiertes Wissen für ein
+
+wide audience. To achieve this, the Leibniz Association
+
+breites Publikum zugänglich zu machen. Die Leibniz-Ge-
+
+pursues the following aims:
+
+meinschaft verfolgt hierzu folgende Ziele:
+
+Umfassende Zugänglichkeit von qualitäts­
+geprüften Forschungsergebnissen
+
+Comprehensive accessibility of
+­quality-assured research results
+
+­
+
+Im Open Access veröffentlichte qualitätsgeprüfte For-
+
+Quality-approved research results published in Open
+
+schungsergebnisse sind über das Internet umfassend
+
+Access format are made comprehensively and more
+
+und erleichtert zugänglich.
+
+easily accessible via the internet.
+
+Nachprüfbarkeit von Forschungs­
+ergebnissen
+
+Verifiability of research results
+
+Mit der freien Zugänglichkeit von Fachveröffentlichun-
+
+sults are verifiable in line with a transparent academic
+
+gen wird sichergestellt, dass die Ergebnisse im Sinne
+
+system.
+
+Open access to specialist publications ensures that re-
+
+eines transparenten Wissenschaftssystems nachprüfbar sind.
+
+Beschleunigung von Forschungs­
+innovationen
+
+Acceleration of research innovations
+
+Eine öffentliche Verfügbarkeit von Publikationen stei-
+
+research results, especially in the interdisciplinary and
+
+gert die Sichtbarkeit von Forschungsergebnissen, ins-
+
+international context. This contributes to a speedier re-
+
+besondere auch im interdisziplinären und internationa-
+
+ception of results and shorter innovation cycles.
+
+Open access to publications increases the visibility of
+
+len Kontext. Dies trägt zu einer schnelleren Rezeption
+der Ergebnisse und zu kürzeren Innovationszyklen bei.
+
+Wertschöpfung durch verbesserte
+­ ugänglichkeit­
+Z
+
+Adding value through improved
+­ ccessibility
+a
+
+Frei zugängliche Open-Access-Publikationen sind offen
+
+Freely available Open Access publications are open to
+
+für innovative Auswertungsverfahren. Durch die ver-
+
+innovative evaluation procedures. Through the inte-
+
+netzte und digitalisierte Nachnutzung von wissenschaft-
+
+grated and digitalised subsequent use of academic in-
+
+lichen Erkenntnissen fördert die Leibniz-Gemeinschaft
+
+sights, the Leibniz Association fosters new research
+
+neue Forschungsansätze und Innovationen.
+
+approaches and innovations.
+
+04
+
+Open Access Policy
+
+Kostentransparenz
+
+Cost transparency
+
+Die Leibniz-Gemeinschaft engagiert sich zusammen mit
+
+Together with other academic organisations, the Leib-
+
+den anderen Wissenschaftsorganisationen für die Trans-
+
+niz Association is committed to transforming the pub-
+
+formation des Publikationsmarktes vom Subskriptions-
+
+lishing market from a subscription-dominated model to
+
+hin zu einem Open-Access-dominierten Modell. Diese
+
+an Open-Access-based model. This offers the opportu-
+
+bietet die Chance auf eine optimierte Kostenstruktur
+
+nity of an optimised cost structure for the individual
+
+der einzelnen Publikationsleistungen und zugleich eine
+
+publishing services, as well as increasing cost trans-
+
+zunehmende Kostentransparenz.
+
+parency.
+
+05
+
+Open Access Policy
+
+Maßnahmen
+
+Measures
+
+Diese Open-Access-Policy setzt für die Leibniz-Gemein-
+
+This Open Access policy determines the following spe-
+
+schaft folgende inhaltliche Schwerpunkte:
+
+cific focal points for the Leibniz Association:
+
+Anreize setzen / provision of incentives
+beraten und aufklären / advising and informing
+aktiv umsetzen / active implementation
+weiterentwickeln / continuous development
+
+Während das Setzen von Anreizen sowie die Weiterent-
+
+Whereas the provision of incentives and continuous de-
+
+wicklung primär von der Leibniz-Gemeinschaft vorange-
+
+velopment are primarily driven by the Leibniz Associa-
+
+trieben werden, liegt die Verantwortung für die aktive
+
+tion, the responsibility for active implementation and
+
+Umsetzung sowie die Beratungs- und Aufklärungsarbeit
+
+for advising and informing lies predominantly with the
+
+überwiegend in den Händen der Leibniz-Einrichtungen
+
+Leibniz Institutes and their researchers.
+
+und ihrer Forschenden.
+
+Anreize setzen
+
+Provision of incentives
+
+Die Leibniz-Gemeinschaft erarbeitet Vorschläge, wie
+
+The Leibniz Association develops proposals for im-
+
+die Standards für das Evaluierungsverfahren im Hin-
+
+proving the standards of the evaluation procedure with
+
+blick auf die Würdigung von Open Access ergänzt wer-
+
+regard to the appraisal of Open Access.
+
+den können.
+An Open Access mandate is already in place for
+Für Förderungen im Rahmen des Leibniz-Wettbe-
+
+funding activities as part of the Leibniz Competition.
+
+werbs besteht bereits ein Open-Access-Mandat. Die
+
+The Leibniz Association continuously evaluates and de-
+
+Leibniz-Gemeinschaft evaluiert dieses kontinuierlich
+
+velops this mandate.
+
+und entwickelt es weiter.
+Die Leibniz-Einrichtungen verabschieden eigene
+Open-Access-Policies, die die jeweiligen Besonderheiten
+der Einrichtung und die Anliegen der hier vorgelegten
+Policy widerspiegeln. Die Leibniz-Gemeinschaft stellt
+
+The Leibniz Institutes adopt their own Open Access
+policies which reflect the respective characteristics of
+the institute and the aims of this policy. To this end, the
+Leibniz Association provides formulation templates.
+
+hierzu Formulierungshilfen zur Verfügung.
+
+The Leibniz Institutes offer institutional incentives
+
+Die Leibniz-Einrichtungen setzen institutionelle An-
+
+for Open Access publishing.
+
+reize für das Publizieren im Open Access.
+
+06
+
+Open Access Policy
+
+Beraten und aufklären
+
+Advising and informing
+
+Die Leibniz-Gemeinschaft und ihre Mitgliedseinrich-
+
+The Leibniz Association and its member institutes
+
+tungen bieten Instrumente an, um ihre Wissenschaftle-
+
+provide tools for informing and training their research-
+
+rinnen und Wissenschaftler über Open Access zu infor-
+
+ers with regard to Open Access.
+
+mieren und weiterzubilden.
+The Leibniz Association and its member institutes
+Die Leibniz-Gemeinschaft und ihre Mitgliedseinrich-
+
+individually advise their researchers with regard to ex-
+
+tungen beraten ihre Wissenschaftlerinnen und Wissen-
+
+ercising their secondary publication rights, the use of
+
+schaftler individuell hinsichtlich der Wahrnehmung ihrer
+
+open licences and the acquisition of publication fees as
+
+Zweitverwertungsrechte, der Nutzung offener Lizenzen
+
+part of third-party funding applications.
+
+und der Einwerbung von Publikationsgebühren im RahThe Leibniz Association and its member institutes
+
+men von Drittmittelanträgen.
+
+set up Open Access information desks.
+Die Leibniz-Gemeinschaft und ihre Mitgliedseinrichtungen richten Anlaufstellen für Informationsbedarfe zu
+Open Access ein.
+
+07
+
+Open-Access-Policy
+
+Aktiv umsetzen
+
+Active implementation
+
+Die Wissenschaftlerinnen und Wissenschaftler ver-
+
+The researchers of the Leibniz Association increas-
+
+öffentlichen ihre Forschungsergebnisse in zunehmen-
+
+ingly publish their research results in Open Access
+
+dem Maße im Open Access.
+
+format.
+
+Die Wissenschaftlerinnen und Wissenschaftler neh-
+
+The researchers of the Leibniz Association exercise
+
+men ihr Zweitverwertungsrecht für bereits erschiene-
+
+their secondary publication rights for previously pub­
+
+ne Beiträge wahr.
+
+lished contributions.
+
+Die Wissenschaftlerinnen und Wissenschaftler nut-
+
+The researchers of the Leibniz Association make
+
+zen die Möglichkeiten zur Einwerbung von Publikations-
+
+use of opportunities to acquire publication fees as part
+
+gebühren im Rahmen von Drittmittelanträgen.
+
+of third-party funding applications.
+
+Die Wissenschaftlerinnen und Wissenschaftler enga-
+
+The researchers of the Leibniz Association are ac-
+
+gieren sich aktiv bei Open-Access-Zeitschriften und -Se-
+
+tively involved in Open Access journals and series, e.g.
+
+rien, z.B. als Editor oder Reviewer.
+
+as editors or reviewers.
+
+Die Leibniz-Einrichtungen und ihre Wissenschaftle-
+
+The Leibniz Institutes and their researchers use
+
+rinnen und Wissenschaftler nutzen standardisierte, of-
+
+standardised open licences for their Open Access pub-
+
+fene Lizenzen für ihre Open-Access-Publikationen.
+
+lications.
+
+Die Leibniz-Einrichtungen nutzen ihre Spielräume
+
+The Leibniz Institutes use the leeway afforded them
+
+für mehr Open Access bei den von ihnen selbst heraus-
+
+for more Open Access in their self-published publica-
+
+gegebenen Veröffentlichungen (Zeitschriften, Buchrei-
+
+tions (journals, book series, conference volumes, etc.).
+
+hen, Konferenzbände etc.).
+The Leibniz Institutes participate in LeibnizOpen.
+Die Leibniz-Einrichtungen beteiligen sich an L
+­ eibnizOpen.
+
+08
+
+Weiterentwickeln
+
+Continuous development
+
+Die Leibniz-Gemeinschaft engagiert sich in for-
+
+Through its involvement in research-policy-related
+
+schungspolitischen Zusammenschlüssen auf nationaler
+
+associations, the Leibniz Association is committed to
+
+und internationaler Ebene für die Weiterentwicklung von
+
+the continuous development of Open Access at the na-
+
+Open Access.
+
+tional and international level.
+
+Die Leibniz-Gemeinschaft beteiligt sich aktiv bei
+
+The Leibniz Association is actively involved in nego-
+
+Verhandlungen von Verträgen mit Wissenschaftsverla-
+
+tiating contracts with academic publishers and in the
+
+gen und an der Entwicklung neuer Geschäftsmodelle,
+
+development of new business models for improving its
+
+um die Open-Access-Möglichkeiten ihrer Wissenschaft-
+
+researchers’ Open Access opportunities and fostering
+
+lerinnen und Wissenschaftler zu verbessern und die
+
+the transformation from the subscription-based model
+
+Transformation vom Subskriptions- hin zum Open-Ac-
+
+to the Open Access model.
+
+cess-Modell zu befördern.
+The Leibniz Association is involved in initiatives for
+Die Leibniz-Gemeinschaft beteiligt sich an Initiativen
+
+the disclosure of payments made for Open Access pub-
+
+zur Offenlegung von Zahlungen für Open-Access-Publi-
+
+lications, with the aim of increasing cost transparency
+
+kationen mit dem Ziel einer zunehmenden Kostentrans-
+
+within academic publishing.
+
+parenz des wissenschaftlichen Publikationswesens.
+The Leibniz Association is developing a sustainable
+Die Leibniz-Gemeinschaft erarbeitet eine nachhaltige Lösung zur finanziellen Förderung von Open-Ac-
+
+solution for financially supporting Open Access publications originating from within the Leibniz Institutes.
+
+cess-Publikationen, die aus Leibniz-Einrichtungen komThe Leibniz Association is developing an overarch-
+
+men.
+
+ing position with regard to Open Science, for which this
+Die Leibniz-Gemeinschaft erarbeitet eine übergrei-
+
+Open Access policy represents a first pillar.
+
+fende Position zu Open Science, für die diese Open-AcThe Leibniz Association will ensure that the implemen-
+
+cess-Policy eine erste Säule bildet.
+
+tation of this Open Access policy is regularly evaluated
+Die Leibniz-Gemeinschaft wird dafür Sorge tragen, die
+
+and continuously developed in line with innovations
+
+Umsetzung dieser Open-Access-Policy regelmäßig zu
+
+from the Leibniz Institutes and the academic system.
+
+überprüfen und diese unter Berücksichtigung von Impulsen aus den Leibniz-Einrichtungen und dem Wissenschaftssystem weiterzuentwickeln.
+
+09
+
+Open-Access-Policy
+
+Impressum / imprint
+Herausgeber / editor
+Der Präsident der Leibniz-Gemeinschaft
+Matthias Kleiner
+Chausseestraße 111
+10115 Berlin
+info@leibniz-gemeinschaft.de
+www.leibniz-gemeinschaft.
+Redaktion / Editorial office
+Projektgruppe Open-Access-Policy
+(Klaus ­
+Tochtermann (ZBW), Peter Brandt (DIE),
+Miriam Brandt (IZW), ­
+Christina Schrader (ZMT),
+Olaf Siegert (ZBW), Matthias Beller (LIKAT),
+Elke Bubel (INM), Harry Enke (AIP), Marc
+Herbstritt (LZI)), Anita Eppelin, Leibniz-­
+­
+Geschäftsstelle
+Gestaltung / graphic design
+Natalia Göllner, Leibniz-Geschäftsstelle
+Fotos / photos
+Cover: Francesco Ungaro on Pexels ·
+S.2 Fré Sonneveld on Unsplash · S.5 Anastasiya
+Romanova on Unsplash · S.7 Boba Jaglicic on
+Unsplash · S.8 Saad Chaudhry on Unsplash ·
+S.9 Linus Nylund on Un­
+splash
+Stand / status
+05/2020
+Die Open Access Policy wurde durch die
+Mitglieder­
+versammlung der Leibniz-Gemeinschaft
+am 22. November 2016 beschlossen. Die Leibniz-­
+Gemeinschaft wird diese Policy regelmäßig auf
+ihre Aktualität überprüfen und weiterentwickeln.
+The Open Access policy was adopted by the
+General Assembly of the Leibniz Association on
+­
+22 November 2016. The Leibniz Association will
+review the policy at regular intervals to check
+whether they need updating and develop them
+further.
+
+10
+
+Open-Access-Policy
+
+www.leibniz-gemeinschaft.de
+11
+
+

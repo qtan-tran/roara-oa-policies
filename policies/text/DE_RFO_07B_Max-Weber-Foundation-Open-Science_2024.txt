@@ -1,0 +1,154 @@
+Open Science Policy within the Max Weber
+Foundation
+Adopted by the Board of Trustees on November 22, 2024
+
+Preamble
+
+The Max Weber Foundation - German Humanities Institutes Abroad (Max Weber Stiftung –
+Deutsche Geisteswissenschaftliche Institute im Ausland (MWS)) is a publicly funded organization
+that aims to inform both the scientific community and the general public about its research
+activities. MWS advocates for Open Science which shares all components of the research process in
+an accessible, transparent, and reusable way. The foundation sees its commitment to Open Science
+as a means to address inequalities in the global distribution of scientific resources. Thanks to the
+presence of MWS member institutes across the world the foundation is particularly sensitive to and
+aware of this concern.
+This policy expresses our self-understanding and is addressed to all researchers within the
+foundation. It is based on an ongoing, iterative discussion process. The policy is a work in process
+and, therefore, an offer for the joint development and implementation of the fundamental
+principles and practices of Open Science within the MWS.
+
+Relationship to other documents and guidelines of the
+MWS
+
+This Open Science Policy is derived from the MWS's agreements with the Federal Ministry of
+Education and Research (BMBF) as well as the MWS's sustainability and “Strategy 2030” concept
+documents. 1 It also builds on the efforts of national and international scientific organizations such
+as the German Research Foundation (DFG), 2 the Council for Information Infrastructure (RfII), 3 the
+1 Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2023). Nachhaltigkeitskonzept der Max
+
+Weber Stiftung. Zenodo. https://doi.org/10.5281/zenodo.10220844; the MWS strategy until 2030:
+https://www.maxweberstiftung.de/fileadmin/user_upload/MWS_Strategie2030.pdf (both documents are only available
+in German).
+2 Deutsche Forschungsgemeinschaft. (2022). Open Science als Teil der Wissenschaftskultur. Positionierung der Deutschen
+Forschungsgemeinschaft. Zenodo. https://doi.org/10.5281/zenodo.7193838.
+3 RfII. (2022). Datenpolitik, Open Science und Dateninfrastrukturen: Aktuelle Entwicklungen im europäischen Raum.
+Bericht und Empfehlungen. https://rfii.de/?p=7743. urn:nbn:de:101:1-2021090875.
+
+European Research Council (ERC), 4 and the United Nations Educational, Scientific and Cultural
+Organization (UNESCO) 5 to promote Open Science. This policy integrates two previous MWS papers
+(Open Access Policy and Guidelines for Handling Research Data) 6 into a broader context and
+corresponds directly with the MWS Guidelines for Safeguarding Good Research Practice. 7
+
+Definition of Open Science
+
+The term “Open Science” is widely used and encompasses the use of digital tools for open access,
+transparency, reusability, and reproducibility of scientific research. The goals of Open Science
+include, among others, promoting equal, rapid, and sustainable access to knowledge, increasing the
+visibility and impact of research results, the conservation of resources, promoting trust in science,
+and enabling public participation in research processes. Legal, ethical/moral, and economic
+considerations can limit the openness of science just as much as disciplinary-specific
+characteristics. In response to this potential conflict of goals, the MWS adheres to the principle “as
+open as possible, as closed as necessary.”
+
+Intentions and fields of action for Open Science within the
+MWS
+
+The MWS and its researchers are committed to the principles of Open Science and actively promote
+the introduction and use of Open Science practices. This is facilitated through the foundation's
+existing infrastructure, consulting services in digital publishing, libraries, and research data
+management, as well as the aggregation of expertise from the institutes in working groups such as
+the Digital Humanities working group (AK DH). Out of these activities the MWS’s institutes are able
+to identify concrete action areas and to initiate an inventory of their existing Open Science
+practices. This will be promoted individually and collectively within the foundation over the years
+2025-2028.
+
+Dimensions of Open Science within the MWS
+
+The dimensions of Open Science within the MWS include, among others, the open provision of and
+free access to publications, data, metadata, and software under standardized open licenses (e.g.,
+Creative Commons licences). The MWS supports its researchers in granting unrestricted and free
+access to their scientific output for all people in all locations. It also encourages the testing of open
+procedures, such as Open Peer Review.
+
+Another field of action is the active promotion of open and inclusive science communication. In line
+with its values, the MWS focuses on the use of open, non-commercial platforms. The MWS provides
+its researchers with an open international infrastructure for science communication through
+4 https://erc.europa.eu/about-erc/thematic-working-groups/working-group-open-access .
+5 UNESCO. (2021). UNESCO Recommendation on Open Science. UNESDOC Digital Library.
+
+https://unesdoc.unesco.org/ark:/48223/pf0000379949.
+6 Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2024). Open Access Policy within the
+Max Weber Foundation. Zenodo. https://doi.org/10.5281/zenodo.14282081; Max Weber Stiftung - Deutsche
+Geisteswissenschaftliche Institute im Ausland. (2023). Guidelines for the Handling of Research Data within the Max
+Weber Foundation. Zenodo. https://doi.org/10.5281/zenodo.10225705.
+7 Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2023). MWS Guidelines for Safeguarding
+Good Research Practice. Zenodo. https://doi.org/10.5281/zenodo.10228420.
+
+2
+
+de.hypotheses, 8 the blog portal for the humanities. This also enables the networking and transfer of
+knowledge to the public.
+
+The MWS further supports research processes and instruments that enable dialogue with society
+through citizen science elements. It promotes the use and creation of open educational resources
+(OER).
+
+In the spirit of a sustainable cultural transformation in the humanities and social sciences, the MWS
+aims to create and anchor a consciousness for Open Science among its researchers, inter alia
+through information and training events. In line with the humanities and social sciences orientation
+of the foundation, a critical perspective on these processes is also incorporated. The institutes
+support the engagement of their researchers to participate in national and international forums
+and debates on Open Science.
+
+The MWS promotes the recognition of different career paths in the humanities, including the
+recognition of activities in the field of research infrastructure, which are of fundamental importance
+for Open Science.
+
+As a publicly funded organization with locations distributed worldwide, the MWS sees it as its
+special responsibility to promote multilingualism and the dissemination of scientific knowledge,
+inter alia through translations. Free access to knowledge, debates, and international exchange in
+the field of Open Science are all goals to further promote inclusion, diversity, and global justice.
+
+Scope of application
+
+This policy applies to the entire foundation and all researchers within the MWS.
+
+Validity
+
+This policy was adopted by the MWS Board of Trustees on November 22, 2024 in Berlin. It will be
+reviewed and, if necessary, updated at least every four years by the AK DH in light of new
+developments in the field of Open Science.
+
+Current version of the policy
+Version
+
+Publication
+
+Comments/changes
+
+1.0
+
+28.01.2025
+
+First publication, adopted by the Board of Trustees
+on November 22, 2024.
+Translation of the original text was done with the
+help of AI (https://docs.hpc.gwdg.de/services/chatai/models/index.html#llama-31-8b-instruct) plus
+human manual correction and editing.
+
+8 https://de.hypotheses.org/ .
+
+3
+
+License
+This policy is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
+license.
+
+Citation
+
+Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland. (2024). Open Science
+Policy within the Max Weber Foundation. Zenodo. https://doi.org/10.5281/zenodo.14283651.
+
+4
+
+

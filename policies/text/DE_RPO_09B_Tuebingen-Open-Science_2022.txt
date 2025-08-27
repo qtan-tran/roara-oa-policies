@@ -1,0 +1,141 @@
+Open Science Policy der Universität Tübingen
+Präambel
+Die Einrichtungen der Universität Tübingen unterstützen „Open Science“, um Erkenntnisse
+aus der Forschung offen zugänglich und nachnutzbar zu machen 1. Dies dient der
+Transparenz, ist nötig für die Einhaltung von Rechenschaftspflichten und steigert den Nutzen
+der Forschungsergebnisse für die Gesellschaft.
+Grundlegend sind die Leitlinien der Universität Tübingen zur Sicherung guter wissenschaftlicher Praxis 2. Deren Einhaltung obliegt grundsätzlich dem/der Projektleitenden bzw.
+dem/der Forschenden, wobei unterschiedliche Erfordernisse und Möglichkeiten der
+verschiedenen wissenschaftlichen Disziplinen anerkannt werden. Die Wissenschaftsfreiheit
+gemäß Art. 5 Abs. 3 GG sowie insbesondere die Freiheit des Autors, Form, Ort und Medium
+der Publikation zu wählen, bleibt unberührt.
+Diese Open Science Policy umfasst Handlungsempfehlungen und unterstützende Strukturen
+an der Universität Tübingen zu verschiedenen Aspekten von Open Science:
+Open Access-Publikationen
+Die Universität Tübingen unterstützt das Publizieren in Open Access mit dem Ziel, wissenschaftliche Erkenntnisse weltweit kostenfrei und uneingeschränkt zugänglich und sichtbar zu
+machen. Forschende werden ermutigt, die Nutzungsrechte an ihren Publikationen zu
+behalten und nur die für die Veröffentlichung notwendigen Rechte an Verlage zu übertragen.
+Der Publikationsmarkt wird dominiert von Geschäftsmodellen kommerzieller Verlage, die
+besonders für forschungsstarke Einrichtungen das Open Access-Publizieren zu einem
+unkalkulierbaren Kostenrisiko machen. Um diesem Umstand entgegen zu wirken, bietet die
+Universität zentrale Services an, wie z.B. Open Access-Publikationsfonds, Publish & ReadVerträge und wissenschaftseigene Open Access-Publikationsinfrastrukturen 3.
+Open Educational Resources (OER)
+Die niedrigschwellige Nutzungs- und Einbindungsmöglichkeit digitaler Elemente in Lehrveranstaltungen im Sinne des Combined Learning und des Blended Learning fördert die
+Kommunikation und Interaktion sowie den gesamten Prozess des Lehrens und Lernens. Die
+Einrichtungen der Universität bieten Beratung und Unterstützung bei didaktischen und
+technisch-organisatorischen Fragen an und stellen verschiedene Werkzeuge für die
+Nutzung, Erstellung und Veröffentlichung von offen lizenzierten Lehr-/ Lernmaterialien zur
+Verfügung. Die Universität Tübingen betreibt dafür das Zentrale OER-Repositorium der
+baden-württembergischen Hochschulen (ZOERR) 4.
+
+Dies gilt, sofern keine ethischen Gründe, vertraglichen Verpflichtungen oder rechtlichen Rahmenbedingungen
+entgegenstehen (z.B. Datenschutzrechte, Außenwirtschaftsrecht, Schutz von Personen und
+Persönlichkeitsrechten, Schutz geistigen Eigentums und vermögenswerter Rechte, Exportkontrollrecht mit
+seinen Proliferationsverboten). Zur Exportkontrolle siehe https://uni-tuebingen.de/de/251564; zum Schutz
+geistigen Eigentums/IPR-Policy siehe https://uni-tuebingen.de/de/34756.
+2
+https://uni-tuebingen.de/de/119123.
+3
+https://uni-tuebingen.de/de/83177.
+4
+https://www.oerbw.de/.
+1
+
+Research Assessment
+Die Universität Tübingen setzt sich zum Ziel, die Diskussion um eine wissenschaftsgeleitete
+und verantwortungsvolle Bewertung von Forschungsleistungen in Deutschland mit voran zu
+treiben. Sie unterstützt damit den Aufruf der DFG, einen Kulturwandel bei der Bewertung der
+Forschungsleistungen einzuleiten 5, und begrüßt den Gast-Status der HRK im CoARA
+National Chapter, um diese Diskussionen intensiver zu begleiten. Rein metrikbasierte
+Indikatoren sind zu hinterfragen und wenn möglich zu überwinden, um eine faire Leistungsbeurteilung zu ermöglichen, was besonders im Kontext einer akademischen Karriere wichtig
+ist. Die Universität verfolgt die weitere Diskussion über Reformziele und -maßnahmen der
+europäischen Forschungsbewertung und sucht den inhaltlichen Austausch mit ihren
+Partneruniversitäten, z.B. im Rahmen von CIVIS und The Guild.
+Forschungsdatenmanagement
+Forschungsdatenmanagement (FDM) ist Grundlage der guten wissenschaftlichen Praxis und
+essentielle Voraussetzung für eine sichere Aufbewahrung und Nachnutzbarkeit von wissenschaftlichen Daten. FDM soll unter Beachtung der FAIR und CARE Prinzipien 6 erfolgen und
+einen freien Zugang zu Forschungsdaten unter Berücksichtigung ethischer und rechtlicher
+Rahmenbedingungen ermöglichen. Die Veröffentlichung der Forschungsdaten erfolgt auf
+Basis einer lizenzrechtlichen Regelung, wofür der Einsatz passender Creative Commons
+Lizenzen 7 empfohlen wird.
+Den Forschenden steht ein umfassendes FDM-Angebot aus Services und Anlaufstellen in
+Form von zentraler Infrastruktur, Core Facilities sowie einem fächerübergreifenden
+Datenrepositorium 8 zur Verfügung. Projektspezifische Einrichtungen wie auch die Beteiligung
+an Konsortien der Nationalen Forschungsdateninfrastruktur (NFDI) komplettieren dieses
+Angebot und bilden gleichzeitig Schnittstellen zu nationalen Initiativen. Forschende und
+Studierende werden bereits früh in ihrer akademischen Laufbahn durch Kurse zum
+Datenmanagement für die Bedeutung der Thematik sensibilisiert und durch spezifische
+Schulungsmöglichkeiten und individuelle Beratung durch die im Netzwerk FDM
+versammelten Einrichtungen der Universität unterstützt 9.
+Open Methodology
+Verfahren der Open Methodology können die Transparenz, Integrität und Qualität von
+Forschung maßgeblich erhöhen. Vorgegebene Seiten- oder Zeichenbeschränkungen führen
+in wissenschaftlichen Publikationen häufig zu einer verkürzten Darstellung und Beschreibung
+des methodischen Vorgehens. Indem neben den Forschungsdaten auch die angewendeten
+Methoden und Prozesse, wie Datenaufbereitung und -bereinigung, Analyse- und
+Auswertungsmethoden, transparent und nachvollziehbar ausgewiesen werden, wird die
+Vertrauenswürdigkeit und Reproduzierbarkeit der Forschungsergebnisse erhöht sowie die
+Möglichkeit zur (interdisziplinären) Kollaboration gesteigert.
+https://www.dfg.de/resource/blob/175770/5772e3980d4e81991dc716f94fbc2382/positionspapierpublikationswesen-data.pdf.
+6
+Die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) fokussieren die technische Umsetzung und
+Erleichterung des Datenaustauschs, wohingegen die CARE-Prinzipien (Collective Benefit, Authority to Control,
+Responsibility, Ethics) auf die Wahrung der Interessen indigener Gemeinschaften und einen angemessenen
+Umgang mit entsprechenden Daten abzielen.
+7
+https://de.creativecommons.net/start/.
+8
+https://fdat.uni-tuebingen.de/.
+9
+https://uni-tuebingen.de/de/148761.
+5
+
+Die Universität Tübingen begrüßt die Ansätze der Open Methodology und ermuntert
+Forschende dazu, ihren gesamten Forschungsprozess transparent und nachvollziehbar zu
+gestalten sowie ihre Forschungsvorhaben nach Möglichkeit zu präregistrieren.
+Open Source
+Die Veröffentlichung und kostenlose Bereitstellung von an der Universität entwickelter
+Software unter Open Source-Bedingungen, d.h. mit Veröffentlichung des Quellcodes, der
+von Dritten eingesehen, geändert und genutzt und somit flexibler eingesetzt, verbessert und
+weiterentwickelt werden kann, wird unterstützt. Grundsätzlich sollte die kostenlose
+Bereitstellung von an der Universität entwickelter Software unter einer „GNU Affero General
+Public License“ (AGPL) 10 erfolgen. Falls der Veröffentlichung unter AGPL
+Lizenzkompatibilitäts- oder andere Gründe entgegenstehen, unterstützen die Einrichtungen
+der Universität bei der Auswahl einer anderen Open Source Lizenz. Gemäß Urheberrecht 11
+ist die Universität zur Ausübung aller vermögensrechtlichen Befugnisse an dienstlich
+entwickelter Software 12 berechtigt.
+Open Communication und Public Engagement
+Die Universität Tübingen macht durch eine dialogorientierte und partizipative Wissenschaftskommunikation Methoden, Prozesse und Erkenntnisse ihrer Forschung transparent und
+sichtbar. Im Mittelpunkt aller Aktivitäten auf dem Feld der Wissenschaftskommunikation
+stehen die Forschenden selbst, die dabei durch Beratung, Coaching und Schulung von
+zentralen Einrichtungen der Universität unterstützt werden.
+Im Bewusstsein, dass epistemische Ungerechtigkeit, Zugangsbarrieren und gesellschaftliche
+Ungleichheit gegenseitigen Wissensaustausch erschweren, fördert die Universität in ihrem
+Public Engagement den Dialog mit gesellschaftlichen Interaktionsgruppen besonders aktiv.
+Wo möglich wird die Beteiligung von Bürgerinnen und Bürgern an verschiedenen Phasen im
+Forschungsprozess unterstützt, z.B. im Rahmen von Citizen Science Projekten.
+Mit ihrer herausragenden Public Engagement Infrastruktur bietet die Universität offenen
+Raum, Beratung und Begleitung für die Zusammenarbeit zwischen Forschenden und
+Bürgerinnen und Bürgern, etwa um gemeinsam Lösungsansätze für Herausforderungen zu
+erarbeiten. Die Universität empfiehlt ihren Forschenden, sich in ihren Aktivitäten an den
+Prinzipien des Public Engagement Kodex 13 zu orientieren.
+Schlussbemerkungen
+Die Open Science Policy löst die Open Access Policy vom 21.02.2013 ab. Die Policy wird
+regelmäßig evaluiert und bei Erfordernis an aktuelle Standards angepasst. Es obliegt den
+einzelnen Einrichtungen der Universität, die hier formulierten Aspekte näher zu spezifizieren
+und diese umzusetzen.
+
+AGPL sichert die Benutzung und Weiterentwicklung der Software im Sinne einer offenen und weiterhin
+allgemein zugänglichen Verfügbarkeit bestmöglich.
+11
+Gesetz über Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz) § 69a.
+12
+Software im Sinne dieser Leitlinie sind alle Computerprogramme, inklusive, aber ohne Einschränkung auf
+Microcode-, Subroutine- und Betriebssysteme, unabhängig von der Form der Ausführung oder des
+Gegenstandes, in dem sich das Programm befindet. Hierzu gehören auch Betriebsanleitungen und andere
+begleitende sowie erläuternde Materialien, sowie alle Datenbanken.
+13
+https://cyber-valley.de/uploads/news/attachment/692/2022_pe-kodex.pdf.
+10
+
+

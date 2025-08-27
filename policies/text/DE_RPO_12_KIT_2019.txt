@@ -1,0 +1,151 @@
+Open Access und Open Science am KIT
+Informationen zur Grundsatzposition des KIT zu Open Access und Open Science und der
+Umsetzung am KIT.
+Collage. Grafik: art designer at PLoS, Logo: KIT
+
+Inhalt
+•
+•
+•
+•
+•
+
+Was ist Open Access?
+Was ist Open Science?
+Grundsatzposition des KIT zu Open Access und Open Science
+Umsetzung der Grundsatzpositionen und der Open-Access-Vorgaben am KIT
+Kontakt und weiterführende Informationen
+
+Was ist Open Access?
+Open Access steht für unbeschränkten und kostenlosen Zugang zu wissenschaftlichen
+Publikationen. Dies entspringt der Vorstellung, dass Ergebnisse aus mit öffentlichen Mitteln
+geförderter Forschung weltweit ohne Beschränkungen verfügbar sein sollten. Ausgehend von
+ersten Preprintservern Ende der 90er Jahre an amerikanischen Hochschulen hat sich das
+Open-Access-Publizieren mittlerweile neben dem konventionellen Publizieren (Closed
+Access) etabliert. Open-Access-Publikationen werden in der Regel schneller veröffentlicht
+und erreichen eine größere Sichtbarkeit und häufigere Zitate als konventionelle Publikationen.
+Es werden grundsätzlich drei Wege des Open-Access-Publizierens unterschieden:
+•
+
+•
+
+•
+
+Goldener Weg
+Der goldene Weg bezeichnet Erstveröffentlichungen (Bücher, Zeitschriftenaufsätze,
+Proceedingsbeiträge etc.) in einem Open-Access-Verlag bzw. in einer Open-AccessZeitschrift. Es existiert ein Qualitätssicherungsprozess (z. B. Peer-Review-Verfahren).
+Diamantener Weg
+Der diamantene Weg ist eine Weiterführung des goldenen Weges. Der Schwerpunkt
+liegt auf transparenten und wissenschaftsgeleiteten Publikationsprozessen.
+Grüner Weg
+Der grüne Weg bezeichnet die Zweitveröffentlichung von Publikationen in einem
+institutionellen oder fachspezifischen Repository oder auch die Selbstarchivierung auf
+der Autorenwebseite.
+
+Ausführliche Informationen auf der Informationsplattform Open Access
+
+Was ist Open Science?
+Open Science fordert noch weitere Schritte in Richtung einer offenen Wissenschaft. Darunter
+wird ein ganzes Bündel an Strategien und Aktionen verstanden, die im Kern darauf abzielen,
+möglichst alle Bestandteile des wissenschaftlichen Prozesses offen zugänglich,
+nachvollziehbar und nachnutzbar zu machen. Dieser kulturelle Wandel in der
+wissenschaftlichen Arbeitsweise geht über die Grenzen der Forschung hinaus und bringt
+wissenschaftliche Erkenntnisse aktiv in die Gesellschaft ein.
+
+Durch mehr Transparenz, Reproduzierbarkeit, Wiederverwendbarkeit und offene
+Kommunikation soll die Qualität der Forschung insgesamt verbessert werden. Open Science
+ist somit ein wichtiger Bestandteil der Sicherung guter wissenschaftlicher Praxis.
+Ausführliche Informationen auf der Informationsplattform Open Science AG
+Alle aufklappen | Alle zuklappen
+
+Grundsatzposition des KIT zu Open Access und Open
+Science
+1. Grundsatzposition des KIT zu Open Access
+Das KIT hat das Ziel, die Publikationen der eigenen Forschungseinrichtung vollständig
+nachzuweisen und sie nach den Grundsätzen von Open Access über das Internet zugänglich
+zu machen. In einer Grundsatzposition vom März 2010 ermutigt das Präsidium alle
+Forschenden des KIT, ihre Ergebnisse entsprechend zugänglich zu machen:
+"Publikationen aus dem Karlsruher Institut für Technologie sollen künftig frei zugänglich
+sein, soweit nicht ausdrückliche Vereinbarungen mit Verlagen und anderen dem
+entgegenstehen. Das KIT ermutigt seine Forschenden, ihre Ergebnisse in Open-AccessZeitschriften zu veröffentlichen."
+2. Open Science Policy der Helmholtz-Gemeinschaft
+Die Helmholtz-Gemeinschaft setzt sich über verschiedene Aktivitäten aktiv für Open Access
+und Open Science ein und hat im September 2022 eine Open-Science-Policy verabschiedet.
+Darin werden sowohl strategische Rahmenbedinungen für eine offene Wissenschaft („as open
+as possible and as closed as necessary“) sowie konkrete Ziele für die Schwerpunktthemen
+Open Access, Open Research Data und Open Research Software formuliert.
+3. Open-Access in der Helmholtz-Gemeinschaft
+Die Open Science Policy der Helmholtz-Gemeinschaft löst die bisherige Open-AccessRichtlinie von 2016 ab und regelt die Bestimmungen zu Open Access neu:
+Die Richtlinie sieht u. a. vor, dass sich die Mitarbeiter:innen ausreichende Rechte bei
+Verlagen sichern, um Aufsätze (Verlagsversion oder Postprint/akzeptiertes Manuskript)
+spätestens zum Zeitpunkt der Veröffentlichung kostenfrei im Repository KITopen,
+idealerweise mit einer CC-BY-Lizenz, zugänglich gemacht machen zu können. Es werden
+auch zwölf Monate Embargo gemäßg den Vorgaben des Zweitveröffentlichungsrechts §
+38(4) UrhG akzeptiert. Darüber hinaus sollen die den Publikationen zugrunde liegenden
+Forschungsdaten zugänglich und nachnutzbar gemacht werden.
+4. Leitlinie zum Forschungsdatenmanagement
+Das KIT betrachtet den Aufbau von Strukturen zur dauerhaften Bereitstellung
+qualitätsgesicherter Forschungsdaten als ein wesentliches strategisches Ziel und hat daher im
+Oktober 2016 KIT-Leitlinien für ein verantwortungsvolles und nachhaltiges
+Forschungsdatenmanagement am KIT formuliert.
+5. Meldeverpflichtung von Veröffentlichungen am KIT mit Open-Access-Komponente
+
+Das KIT strebt den zentralen Nachweis des gesamten Forschungsoutputs an und möchte aus
+diesem Grund alle Publikationen seiner Wissenschaftlerinnen und Wissenschaftler zentral
+nachweisen. Seit 2019 gilt dafür am KIT einheitlich eine zentrale Richtlinie . Zusätzlich
+sollen die Forschungsleistungen nach den Prinzipien des Open Access und auf Grundlage der
+Open-Access-Richtlinie der Helmholtz-Gemeinschaft weltweit im Internet frei verfügbar
+sein.
+6. Leitlinien zum Umgang mit Open Educational Resources (OER) am KIT
+Das KIT fördert die Nutzung und Bereitstellung von Open Education Resources (OER) und
+hat dazu 2021 eine OER-Policy verabschiedet. Nach diesem Verständnis sollen im KIT die
+digitale Lehre durch die Nutzung und Bereitstellung digitaler Lehrmaterialien, die unter
+freien Lizenzen stehen, insgesamt gefördert werden. Ausführliche Informationen finden Sie
+hier.
+6. Internationale Deklarationen zu Open Access und Open Science
+Zur weiteren Beförderung von Open Access und Open Science hat das KIT folgende
+internationale Deklarationen unterzeichnet:
+•
+•
+•
+
+•
+
+Oktober 2010: Berliner Erklärung über den offenen Zugang zu wissenschaftlichem
+Wissen
+Oktober 2011: Internationaler Compact for Open Access Publishing Equity (COPE)
+Das KIT unterzeichnet COPE als erste deutsche Forschungseinrichtung.
+Mai 2015: Haager Erklärung zum Text- und Datamining "The Hague Declaration on
+Knowledge Discovery in the Digital Age"
+Das KIT gehört zu den Erstunterzeichnern.
+Dezember 2019: das KIT unterzeichnet die San Francisco Declaration of Research
+Assessment (DORA), die sich für die Verbesserung der Bewertung wissenschaftlicher
+Ergebnisse einsetzt. Neben einer transparenteren Bewertung von Zeitschriftenartikeln
+hat DORA das Ziel, auch der Erhebung und Dokumentation von Forschungsdaten als
+wichtige Forschungsleistungen eine angemessene Anerkennung zu ermöglichen.
+
+Umsetzung der Grundsatzpositionen und der OpenAccess-Vorgaben am KIT
+Die KIT-Bibliothek bietet verschiedene Open-Access-Publikationsservices und
+Infrastrukturen, um die Grundsatzposition zu Open Access sowie die Open-Access-Vorgabe
+der Helmholtz Open Science Policy umzusetzen:
+•
+
+•
+
+Das Repository KITopen ist das zentrale Repository des KIT. Es enthält sowohl
+Erstveröffentlichungen (z. B. Dissertationen, Schriftenreihen eines Instituts) als auch
+Zweitveröffentlichungen sowie Forschungsdaten und digitale Lehrmaterialien (in
+Kooperation mit dem SCC).
+Der Verlag KIT Scientific Publishing ist der Open-Access-Verlag des KIT und bietet
+Ihnen die Möglichkeit, im Sinne des goldenen und diamantenen Weges zu publizieren
+(z. B. Bücher, Zeitschriften, Conference Proceedings).
+
+•
+
+Wenn Sie in einer Open-Access-Zeitschrift publizieren möchten, unterstützt Sie der
+KIT-Publikationsfonds durch die Übernahme der Publikationsgebühren für
+Autorinnen und Autoren.
+
+Ausführliche Informationen zu den Publikationsmöglichkeiten am KIT
+
+
