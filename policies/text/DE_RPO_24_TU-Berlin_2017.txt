@@ -1,0 +1,155 @@
+TU Berlin's Open Access Policy
+Passed unanimously by the Academic Senate on December
+6, 2017
+In its Mission Statement, the Technische Universität Berlin commits to research and teaching
+that is based on social, ethical and humanist grounds. It is against this background that
+research and teaching in the natural, planning and engineering sciences are inextricably linked
+with the humanities and social sciences. It is particularly important to TU Berlin that research
+findings are sustainably disseminated, accessible and visible.
+In order to achieve this, TU Berlin supports the research political request for Open Access to
+scholarly knowledge as laid out in the “Berlin Declaration on Open Access to Knowledge in
+the Sciences and Humanities”.
+TU Berlin's Executive Board and Academic Senate strongly recommend that the university's
+members publish their research results Open Access. In keeping with the Berlin Declaration,
+the following guidelines have been adopted:
+1. TU Berlin recommends that members of the university publish their work Open
+Access and under a free license (preferably a Creative Commons license CC BY). It is
+supporting Open Access in a number of ways, including setting up a publication fund
+to cover Open Access fees.
+2. TU Berlin is calling on members of the university to exercise their secondary
+exploitation right and to self-archive all publications in repositories, either at the same
+time as the publication or after a set period of time. The TU Berlin repository can be
+used for this.
+3. TU Berlin encourages all university members to transfer non-exclusive rights of use
+when signing a copyright transfer agreement. If this is not possible, it is recommended
+to reserve the right to self-archive the publication in the TU Berlin repository.
+4. TU Berlin asks all university members to reevaluate their role as reviewers, editors
+and in other publishing processes with regard to the respective Open Access policy, to
+use their position to influence publishers and learned societies and to preferentially
+favour Open Access publications with their voluntary work where possible. Noncommercial publishing options are particularly encouraged.
+5. TU Berlin supports Open Access to research data.The management of research data is
+governed by the “Guidelines on Research Data Management at TU Berlin”.
+6. Members of TU Berlin can publish their work Open Access in the TU Berlin
+University Press. This applies to monographs, anthologies and Open Access journals.
+7. TU Berlin's own publications should appear under the terms of free licenses
+(preferably the Creative Commons license CC BY).
+8. The university has appointed an Open Access Representative to implement the Open
+Access Policy. The University Library is responsible for coordinating Open Access
+activities and developing Services.
+
+Contact
+Open Access Team University Library
+openaccess@ub.tu-berlin.de
+
+Website Open Access Team University Library
+
+Glossary accompanying TU Berlin's Open Access Policy
+Berlin Declaration
+The 2003 Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities
+is one of the foundation stones of the international Open Access movement. It calls for Open
+Access to scholarly information. This includes written publications as well as research data,
+images and multimedia objects. TU Berlin signed the declaration in August 2016.
+
+CC BY
+CC BY is an open license distributed by the non-profit organization Creative Commons. The
+license permits every person to copy, distribute and adapt a work, provided that the creator is
+appropriately credited and that modifications are indicated. With this license, works can be
+published Open Access in line with the principles of the Berlin Declaration.
+
+Closed Access
+Closed Access means that a work can only be accessed on payment of a fee. In academia
+these fees have traditionally been paid by libraries, for example by signing license
+agreements. Closed Access means that all rights of use are transferred to the publisher. Not
+even authors can re-use their works without obtaining the publisher’s permission. Selfarchiving options are thus limited.
+
+Creative Commons Licenses
+Creative Commons licenses (CC licenses) are open licenses developed by the non-profit
+organization Creative Commons. There are six CC licenses available, providing authors with
+various options depending on the extent to which they want to give the general public the
+right to make use of their work. All CC licenses require attribution, meaning that for each use
+authors must be credited appropriately.
+
+First Publication
+A work is usually published by a publishing house (first publication), e.g in the form of a
+monograph, an article in an anthology or in a journal. If works are published closed access,
+they may under certain conditions be self-archived to ensure Open Access.
+
+Open License
+
+A open license is a standardized license agreement. With an open license creators can grant
+the public certain rights of use that go beyond those provided by copyright law. For software
+open licenses such as the BSD license, the GNU General Public License (GPL) and the
+Apache license are well established. For texts, images, music and videos Creative Commons
+licenses are the most common.
+
+Rights of Use
+Rights of use determine how copyrighted works can be used by authors, publishers and third
+parties. Authors transfer either non-exclusive or exclusive rights of use. A non-exclusive right
+of use entitles you to use the work in accordance with the license agreement. An exclusive
+right of use, on the other hand, entitles only the rightsholder(s) to use the work. No other
+parties are permitted to use the work. For example, for authors who have granted others
+exclusive rights of use in a Copyright Transfer Agreement self-archiving options are limited.
+
+Open Access
+Open Access means that works can be archived reliably, accessed freely and used legally.
+Examples of re-use include storage, digital teaching, publication on social media platforms
+and text and data mining. The term applies to publicly funded scholarly publications, research
+data and digital cultural heritage.
+
+Open Access Representative
+The Open Access Representative advises the TU Executive Board on strategic decisions
+related to Open Access. She works closely with the University Library’s Open Access team,
+which is responsible for implementation.
+
+Article Processing Charges
+Article Processing Charges (APCs, also known as publication fees) are charges made by
+publishers before publishing an author’s article. They are usually paid by the institution on
+behalf of the author. TU Berlin has set up an Open Access Publication Fund, which covers
+APCs under certain conditions.
+
+Open Access Policy
+The TU Berlin Open Access Policy includes recommendations for TU members to publish
+Open Access and commitments by the university to provide corresponding services in terms
+of advice, financing and infrastructure.
+
+Open Access Publication Fund
+An Open Access Publication Fund is an entity set up by an scholarly institution to cover
+article processing charges. Members of the institution are entitled to apply for funds. TU
+Berlin has established a publication fund which is managed by the University Library.
+
+Repository
+
+A repository is a platform for publishing and archiving scholarly publications, research data
+and cultural heritage data. DepositOnce is TU Berlin’s repository for publications and
+research data. Other well-known repositories include arXiv and EconStore.
+
+TU Berlin University Press
+The TU Berlin University Press is the university’s own publishing entity and is run by the
+University Library. As an Open Access publisher, it supports and promotes unrestricted
+access to scholarly works. The University Press publishes monographs and anthologies online
+and, if required, in print.
+
+Copyright Transfer Agreement
+A Copyright Transfer Agreement (CTA) determines the rights and obligations of authors
+and publishers. Agreements on the transfer of rights of use are a key component. In a CTA
+with closed access conditions, authors grant the publisher exclusive rights of use. After
+signing such a CTA they can no longer make use of their work without obtaining the
+publisher's permission. Under Open Access conditions, however, authors transfer nonexclusive rights of use to the publisher. Authors thus retain the right to self-archive.
+
+Self-Archiving
+Through self-archiving works that were published under closed access conditions can be
+made Open Access. Works are self-archived in a repository, either on the same day as the
+publication or after a set period of time (embargo). Uploading work on personal websites or
+similar does not count as self-archiving, as it does not guarantee important features such as
+long-term accessibility and citability.
+
+Secondary Exploitation Right
+The Secondary Exploitation Right outlined in section 38, paragraph 4 of the German
+Copyright Law governs self-archiving. Under certain conditions authors may make their
+works publicly available and thus ensure Open Access. This right applies even if selfarchiving is not permitted in the copyright transfer agreement.
+Open Access Team University Library
+openaccess@ub.tu-berlin.de
+
+Website Open Access Team University Library
+
+

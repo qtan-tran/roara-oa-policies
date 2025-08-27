@@ -1,0 +1,114 @@
+Open-Access-Policy der Friedrich-Schiller-Universität
+Jena
+1. Präambel
+Die Friedrich-Schiller-Universität Jena fördert den offenen Zugang zu den Ergebnissen
+wissenschaftlicher Forschung und befürwortet die Prinzipien des Open Access im Sinne der
+Berliner Erklärung. Im Verbund mit den anderen Thüringer Hochschulen setzt sie die
+Thüringer Strategie zur Digitalisierung im Hochschulbereich um und beteiligt sich aktiv an
+Open-Access-Initiativen. Sie verfolgt das Ziel, die Forschungsergebnisse ihrer
+Wissenschaftlerinnen und Wissenschaftler unter Beachtung der jeweils geltenden fachlichen
+Standards gut sichtbar, breit zugänglich und nachnutzbar zu machen. Sie unterstützt die
+Wissenschaftlerinnen und Wissenschaftler bei der Umsetzung von Open Access entsprechend
+den DFG-Leitlinien zur Sicherung guter wissenschaftlicher Praxis sowie den FAIR-Prinzipien
+für Forschungsdaten. Der Einsatz für den offenen Zugang zu den Forschungsergebnissen steht
+im Einklang mit der Wissenschafts- und Publikationsfreiheit. Die Universität legt großen
+Wert darauf, das Prinzip der freien Wahl des Publikationsweges unangetastet zu lassen: Die
+Wissenschaftlerinnen und Wissenschaftler der Friedrich-Schiller-Universität Jena entscheiden
+selbst, wo und zu welchen Zugangsbedingungen sie ihre Forschungsergebnisse publizieren.
+Der Universität ist bewusst, dass Wissenschaftlerinnen und Wissenschaftler je nach
+Fachdisziplin hier vielfältige und zum Teil neue Wege beschreiten.
+
+2. Was ist Open Access?
+Die Idee von Open Access ist es, wissenschaftliche Literatur und Daten uneingeschränkt und
+in der Nutzung kostenfrei über das World Wide Web zugänglich zu machen sowie Barrieren
+bei ihrer Nutzung abzubauen. Der uneingeschränkte Zugang zu den Ergebnissen
+wissenschaftlicher Forschung fördert deren Sichtbarkeit und Rezeption. Der „goldene Weg“
+des Open-Access-Publizierens steht für die direkte, kostenfreie Verfügbarkeit von
+Publikationen und Daten in anerkannten und begutachteten Open-Access-Medien. Der „grüne
+Weg“ sieht die Möglichkeit der kostenfreien Zweitveröffentlichung im institutionellen
+Repositorium der Friedrich-Schiller-Universität Jena oder einem disziplinspezifischen
+Repositorium vor.
+
+3. Empfehlungen und Grundsätze
+Im Rahmen ihres Engagements für den freien Zugang zu wissenschaftlichen Informationen
+ermutigt die Friedrich-Schiller-Universität Jena Wissenschaftlerinnen und Wissenschaftler,
+die Ergebnisse ihrer Forschungen nach den Prinzipien des Open Access ohne
+Zugriffbeschränkungen digital zu publizieren. Der Senat verabschiedet die folgenden
+Grundsätze und Empfehlungen:
+•
+
+Die Friedrich-Schiller-Universität Jena ermutigt Wissenschaftlerinnen und
+Wissenschaftler, von ihrem durch § 38 Abs. 4 UrhG gewährleisteten Recht auf
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Zweitveröffentlichung Gebrauch zu machen und ihre digitalen Publikationen
+zusätzlich in der Digitalen Bibliothek Thüringen (DBT), dem von der Thüringer
+Universitäts- und Landesbibliothek Jena (ThULB) betriebenen institutionellen
+Repositorium, oder in einem anderen disziplin- bzw. fachspezifischen Repositorium
+zu veröffentlichen.
+Für die Herausgabe eigener Open-Access-Zeitschriften, -Sammelbände, Monographien und sonstiger Medien stellt die ThULB den Wissenschaftlerinnen und
+Wissenschaftlern die Zeitschriftenplattform journals@UrMEL sowie die Digitale
+Bibliothek Thüringen bereit.
+Die ThULB ist die zentrale Anlaufstelle zur Förderung von Open Access an der
+Universität. Sie berät zu Fragen des Open-Access- und des Elektronischen
+Publizierens. Weiterhin bietet sie Unterstützung bei der Finanzierung von OpenAccess-Publikationen und ist bestrebt, die Open-Access-Transformation an der
+Universität voranzutreiben, u.a. durch die vermehrte Integration von Open-AccessLizenzmodellen.
+Die Friedrich-Schiller-Universität Jena empfiehlt Wissenschaftlerinnen und
+Wissenschaftlern, ihre Open-Access-Publikationen in der Hochschulbibliographie zu
+verzeichnen, um deren Sichtbarkeit zu optimieren und ein Monitoring zu
+gewährleisten.
+Die Friedrich-Schiller-Universität Jena ermutigt Wissenschaftlerinnen und
+Wissenschaftler, sich beim Abschluss von Autor/innenverträgen stärker mit dem
+Thema Rechteeinräumung auseinanderzusetzen. Die Einräumung ausschließlicher
+Nutzungsrechte an Verlage ist häufig nicht notwendig und nachteilig für die
+Autorinnen und Autoren sowie die Weiter- und Nachnutzbarkeit der Publikation. Für
+Open-Access-Publikationen sollten lediglich einfache Nutzungsrechte eingeräumt
+werden.
+Die Friedrich-Schiller-Universität Jena empfiehlt, digitale Erstveröffentlichungen
+unter einer Creative Commons-Lizenz zu publizieren (vorzugsweise CC-BY oder CCBY-SA). Damit geben Forschende als Urheber und Urheberinnen allen Interessierten
+die Möglichkeit, die eigenen Werke unter bestimmten Bedingungen weiterzunutzen
+und weiterzuentwickeln, ohne hierfür ausdrücklich um Erlaubnis fragen zu müssen.
+Die CC-BY-Lizenz erlaubt eine umfassende Nachnutzbarkeit durch Dritte, steigert
+hierdurch die Sichtbarkeit der an der Friedrich-Schiller-Universität Jena entstandenen
+Publikationen und stellt dabei gleichzeitig die Zitierung des Urhebers sicher.
+Die Friedrich-Schiller-Universität Jena ermutigt Wissenschaftlerinnen und
+Wissenschaftler, sich bei qualitätsgesicherten Open-Access-Publikationsorganen in
+Herausgabe-, Redaktions- und Gutachterfunktionen zu engagieren.
+Sie unterstützt die Verarbeitung von Forschungsdaten gemäß den FAIR-Prinzipien
+und fördert die freie Zugänglichkeit von Forschungsdaten. Der Umgang mit
+Forschungsdaten und deren Publikation werden von der Kontaktstelle
+Forschungsdatenmanagement koordiniert. Die Kontaktstelle arbeitet eng mit dem
+Universitätsrechenzentrum und der ThULB zusammen.
+Die Friedrich-Schiller-Universität Jena empfiehlt zur Autor/innenidentifikation
+ausdrücklich die Verwendung des Identifikators der „Open Researcher Contributor
+Initiative“ (ORCID). Dieser gewährleistet eine eindeutige Zuordnung zu Publikationen
+und Forschungsdaten. Weiter fordert sie Universitätsmitglieder und -angehörige dazu
+auf, ihre Zugehörigkeit zur Universität in Forschungspublikationen gemäß der
+Affiliationsrichtlinie der Friedrich-Schiller-Universität Jena kenntlich zu machen.
+Die ThULB unterstützt den freien Zugang zu digitalisierten Quellen der kulturellen
+Überlieferung (Open Digitisation Policy). Für den weltweit freien Zugang zu
+digitalisierten Kulturgütern aus Thüringer Archiven, Bibliotheken, Museen und
+
+weiteren Kultur- und Wissenschaftseinrichtungen steht das digitale Kultur- und
+Wissensportal Thüringens kulthura zur Verfügung.
+
+ThULB Jena, 26.01.2022
+
+

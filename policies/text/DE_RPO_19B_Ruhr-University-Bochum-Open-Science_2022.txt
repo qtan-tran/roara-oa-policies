@@ -1,0 +1,239 @@
+NR. 1469 | 03.06.2022
+
+AMTLICHE
+BEKANNTMACHUNG
+Open Science-Policy der Ruhr-Universität
+Bochum
+vom 01.06.2022
+
+Amtliche Bekanntmachung der Ruhr-Universität Bochum Nr. 1469
+
+Open Science-Policy der Ruhr-Universität Bochum
+vom 01.06.2022
+Einleitung: Open Science
+Open Science steht für einen Wandel im Wissenschaftskontext und eine sich neu etablierende
+Praxis in der wissenschaftlichen Arbeit und in deren Institutionen. Forschungsdaten,
+Publikationen und wissenschaftliche Bildungsmaterialien sollen zugänglich, verständlich,
+reproduzierbar und dauerhaft nachnutzbar werden. Open Science zielt auf Öffnung, Austausch
+und größere Transparenz des wissenschaftlichen Prozesses innerhalb wie außerhalb von
+Hochschulen und wissenschaftlichen Einrichtungen. Open Science fördert auf diese Weise den
+Wissenstransfer in alle gesellschaftlichen Bereiche. Der durch möglichst wenige finanzielle,
+technische oder rechtliche Hindernisse eingeschränkte Zugang zu Forschungsdaten,
+Publikationen und Bildungsmaterialien trägt zur Qualitätssicherung bei, steigert die
+Sichtbarkeit, führt zu einer besseren Informationsversorgung und damit auch zu einer größeren
+Leistungsfähigkeit der Wissenschaft.
+Die Ruhr-Universität Bochum (RUB) bekennt sich dazu, Open Science im Rahmen der
+Institution zu fördern und zu unterstützen. Sie folgt den grundlegenden Aussagen der „Berliner
+Erklärung über offenen Zugang zu wissenschaftlichem Wissen“ zu Open Access, der UNESCOEmpfehlung zu Open Education Resources (OER) sowie den FAIR-Prinzipien zu
+Forschungsdaten (FAIR = Findable, Accessible, Interoperable and Re-Usable). In der
+Umsetzung gilt es, den Grad der Offenheit abzuwägen und fallbezogen anzuerkennen, dass es
+legitime Gründe zur Einschränkung von Zugänglichkeit und Öffentlichkeit geben kann. Die
+RUB setzt sich zudem dafür ein, dass im Bereich Open Access wichtige Aspekte wie
+ausreichende Finanzierung, angemessene Umsetzungsmöglichkeiten für Forscher*innen
+früher Karrierestufen sowie das Publizieren von Monographien berücksichtigt werden.
+
+Open Science eröffnet ein weites Feld unterschiedlicher Themen und Handlungsstränge, die
+sowohl seitens der zentralen Einrichtungen als auch innerhalb der Wissenschaftsgemeinschaft
+der RUB voranzutreiben sind. Im Rahmen der Open Science Policy der RUB stehen die
+folgenden Handlungsfelder im Vordergrund: Open Educational Resources, das heißt, offener
+Zugang zu Bildungsmaterialien; Open Access, das heißt unbeschränkter Zugang zu
+wissenschaftlicher Literatur; und Open Research Data, das heißt Offenlegung wissenschaftlicher
+Daten und Materialien zum Nachvollzug, zur Zweitverwertung und Qualitätssicherung. Die
+Maßnahmen und Empfehlungen der RUB zur Förderung von Open Science in diesen Bereichen
+werden im Folgenden näher ausgeführt.
+
+1
+
+1. Open Educational Resources
+1.1
+
+Begriffsbestimmung
+
+Open Educational Resources sind mit einer freien Lizenz gekennzeichnete Bildungsmaterialien, die
+von ihren Urheberinnen und Urhebern zur kostenlosen Vervielfältigung, Weiterverbreitung und
+Weiterverwendung durch andere Nutzerinnen und Nutzer freigegeben sind. Mit der Erstellung und
+Nutzung von OER sollen Bildungsmaterialien einfacher zugänglich und verwendbar gemacht
+werden. Zudem kann OER die hochschulübergreifende Zusammenarbeit in der Lehre erleichtern.
+Die Förderung von OER wird durch unterschiedliche internationale, nationale und
+bundeslandspezifische Vereinbarungen und Dokumente als bildungspolitisches Ziel formuliert.1
+
+1.2
+
+Bedeutung für die RUB
+
+Die RUB engagiert sich seit dem Jahr 2014 für die Nutzung und Erstellung von OER, u. a. durch die
+Bereitstellung von Beratungs- und Fortbildungsangeboten sowie die Einrichtung der Plattform
+OpenRUB. Damit unterstützt die RUB eine leichtere Verbreitung und Nutzung von
+Bildungsmaterialien für alle Interessierten. Sie versteht OER aber auch als ein strategisches
+Instrument zur Förderung von hochschulübergreifenden Kooperationen wie z.B. in der Digitalen
+Hochschule NRW und in internationalen Verbünden wie der Europäischen Hochschule UNIC.
+
+1.3
+
+Empfehlungen und Maßnahmen der RUB
+
+•
+
+Die Ruhr-Universität Bochum empfiehlt, Bildungsmaterialien unter den Creative
+Commons-Lizenztypen CC BY-SA, CC BY oder CC 0 zu veröffentlichen, da diese
+Lizenztypen eine unkomplizierte Weiterverwendung erlauben.
+
+•
+
+Die Ruhr-Universität Bochum empfiehlt, OER auf dem nordrhein-westfälischen OnlineLandesportal ORCA.nrw zu veröffentlichen. Auf diesem können OER-Materialien von
+Lehrenden aller Statusgruppen sowie aus allen Universitäten und Hochschulen in NRW
+abgelegt und öffentlich zugänglich gemacht werden.
+
+•
+
+Die Ruhr-Universität Bochum empfiehlt, Bildungsmaterialien vor der Veröffentlichung
+einer strukturierten Qualitätssicherung zu unterziehen, da die Urheberinnen und Urheber
+für die fachliche, technische und rechtliche Güte ihres Materials selbst verantwortlich sind.
+ORCA.nrw bietet beispielsweise einen differenzierten Qualitätssicherungsprozess.
+
+•
+
+Die Ruhr-Universität Bochum unterstützt Hochschulangehörige durch Beratungs- und
+Schulungsangebote des Zentrums für Wissenschaftsdidaktik (ZfW) bei der Nutzung,
+Produktion und Bereitstellung von OER. Durch das ZfW werden zudem Informationen und
+Orientierungshilfen zu OER zur Verfügung gestellt.
+
+1 Erklärungen und Empfehlungen der UNESCO (https://www.unesco.de/bildung/open-educational-
+
+resources); Strategiepapier der Kultusministerkonferenz „Bildung in der digitalen Welt“ von 2016
+(https://www.kmk.org/themen/bildung-in-der-digitalen-welt/strategie-bildung-in-der-digitalen-welt.html);
+nordrhein- westfälische Vereinbarung zur Digitalisierung in den Hochschulen (2020)
+(https://www.dh.nrw/fileadmin/user_upload/dhnrw/pdf_word_Dokumente/Vereinbarung_zur_Digitalisierung_.pdf).
+
+2
+
+2. Open Access
+
+2.1
+
+Begriffsbestimmung
+
+Unter Open Access wird der kostenfreie und unbeschränkte Zugang zu wissenschaftlichen
+Veröffentlichungen im Internet verstanden. Nach der Definition der „Berliner Erklärung über den
+offenen Zugang zu wissenschaftlichem Wissen“2 gewähren Urheberinnen und Urheber sowie
+Rechteinhaberinnen und Rechteinhaber durch das Publizieren im Open Access allen Nutzerinnen
+und Nutzern das unwiderrufliche Recht, wissenschaftliche Dokumente zu lesen, herunterzuladen
+und zu nutzen. Um eine rechtssichere Nachnutzung zu gewährleisten, müssen die Dokumente mit
+Lizenzen (z. B. Creative Commons-Lizenzen) versehen werden, die eine Vervielfältigung,
+Weiterverbreitung und Weiterverwendung regeln.
+
+2.2
+
+Bedeutung für die RUB
+
+Mit der Unterzeichnung der „Berliner Erklärung" und der Veröffentlichung einer „Open AccessResolution“3 im Jahr 2013 bekannte sich die RUB erstmals zur wissenschaftspolitischen Forderung
+nach offenem Zugang zu wissenschaftlichen Publikationen (Open Access). Die Sichtbarkeit von
+Wissenschaftlerinnen und Wissenschaftlern bzw. ihrer jeweiligen Institution wird dadurch national
+und international gesteigert. Durch den partizipativen Umgang mit Forschungsergebnissen wird die
+interdisziplinäre Zusammenarbeit und der Forschungsfortschritt weltweit gefördert. Darüber
+hinaus erleichtert Open Access den Wissenstransfer in die Gesellschaft.
+
+2.3
+
+Empfehlungen und Maßnahmen der RUB
+
+•
+
+Die Ruhr-Universität Bochum empfiehlt ihren Wissenschaftlerinnen und Wissenschaftlern,
+ihre Forschungsergebnisse im Open Access zu publizieren; das gewählte Medium sollte ein
+anerkanntes Qualitätssicherungsverfahren anwenden. Zur finanziellen Unterstützung
+wurde ein Publikationsfonds eingerichtet.
+
+•
+
+Die Ruhr-Universität Bochum fordert ihre Hochschulangehörigen auf, alle veröffentlichten,
+wissenschaftlich referierten Artikel auf einem frei zugänglichen Dokumentenserver
+abzulegen (sog. Grüner Weg), sofern rechtlich nichts dagegensteht.
+
+•
+
+Die Ruhr-Universität Bochum tritt dafür ein, dass Open Access-Veröffentlichungen bei der
+Beurteilung wissenschaftlicher Leistungen, z. B. bei Berufungs- und Bleibeverhandlungen,
+anerkannt werden. Die Universitätsbibliothek unterstützt die Hochschulangehörigen in
+allen organisatorischen Fragen zum Open Access-Publizieren. Sie verwaltet den
+Publikationsfonds, stellt Publikationsplattformen für Open Access-Publikationen zur
+Verfügung und betreibt das Dokumentenrepositorium der RUB.
+
+2 Vgl. https://openaccess.mpg.de/Berliner-Erklaerung
+3 Vgl. https://www.ruhr-uni-bochum.de/oa/mam/content/rub_ub_openaccess-resolution.pdf. Diese
+Resolution aus dem Jahr 2013 geht in der vorliegenden Open Science-Policy auf.
+
+3
+
+3. Open Research Data
+3.1
+
+Begriffsbestimmung
+
+Forschungsdaten sind die Grundlage für Forschung, sie sind in den Leitlinien zum
+Forschungsdatenmanagement der Ruhr-Universität definiert4. Forschungsdaten sollen
+entsprechend der FAIR-Prinzipien (Wilkinson, M.D. et al. (2016), DOI: 10.1038/sdata.2016.18)
+auffindbar, zugänglich, interoperabel und wiederverwendbar sein. Wenn der Forschung
+zugrundeliegende Daten und Prozesse darüber hinaus offen zur Verfügung gestellt werden, fördert
+dies den wissenschaftlichen Diskurs und die Partizipation an Forschung. Die Veröffentlichung von
+Forschungsdaten steht jedoch oftmals in einem Spannungsverhältnis zum Schutz geistigen
+Eigentums im laufenden Forschungsprozess, zum Datenschutz und zu Persönlichkeitsrechten
+sowie zu vertraglichen Vereinbarungen mit Dritten, wie z. B. Kooperationspartnern.
+
+3.2
+
+Bedeutung für die RUB
+
+Die RUB ist sich ihrer gesellschaftlichen Verantwortung bewusst, die Ergebnisse ihrer Forschung
+für die weitere wissenschaftliche Nutzung zur Verfügung zu stellen. Forschende sollten dazu
+geeignete Forschungsdaten frühestmöglich in angemessenem Umfang öffentlich zugänglich
+machen. Dabei sind alle Randbedingungen unter Berücksichtigung fachspezifischer Leitlinien und
+Konventionen sowie die Form der Veröffentlichung sorgfältig abzuwägen. Um die Dokumentation
+und die Prozesse zur Veröffentlichung von Forschungsdaten zu fördern und zu unterstützen, stellt
+die RUB Beratungsdienstleitungen für ein nachhaltiges Forschungsdatenmanagement und
+entsprechende Informationsinfrastrukturen bereit.
+
+3.3
+
+Empfehlungen und Maßnahmen der RUB
+
+•
+
+Die RUB berät ihre Forschenden bei der Erstellung und Pflege von
+Datenmanagementplänen, in denen der nachhaltige Zugang zu Forschungsdaten und –
+nach Möglichkeit – deren Veröffentlichung bereits zu Beginn eines Forschungsvorhabens
+geplant werden.
+
+•
+
+Die RUB empfiehlt ihren Forschenden, – in Abstimmung mit Kooperationspartnerinnen und
+Kooperationspartnern und unter Einhaltung vertraglicher, datenschutzrechtlicher und
+weiterer Richtlinien – Prozesse zur Auswahl und Qualitätssicherung von Forschungsdaten
+zu definieren, die öffentlich zur Verfügung gestellt werden können.
+
+•
+
+Die RUB empfiehlt, die Bedingungen zur Nachnutzung veröffentlichter Forschungsdaten
+durch die Vergabe entsprechender Lizenzen (z. B. Creative Commons-Lizenzen) zu
+dokumentieren.
+
+•
+
+Die RUB berät ihre Forschenden zur Veröffentlichung von Forschungsdaten in geeigneten
+disziplinspezifischen Repositorien. Darüber hinaus baut die RUB eine Infrastruktur auf, in
+der Forschungsdaten gespeichert und öffentlich zugänglich gemacht werden können.
+
+4 https://www.ruhr-uni-bochum.de/researchdata/de/rub_guidelines.html
+
+4
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Ruhr-Universität Bochum vom 28.04.2022.
+Bochum, den 01. Juni 2022
+
+Der Rektor
+der Ruhr-Universität Bochum
+Universitätsprofessor Dr. Dr. h.c. Martin Paul
+
+5
+
+
