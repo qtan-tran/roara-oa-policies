@@ -1,0 +1,13 @@
+policy_id: DE_RPO_36_Leibniz-University-Hannover_2025
+institution: Leibniz University Hannover
+title: Open Access Policy at Leibniz University Hannover
+year: 2025
+language: en
+source_url: ""
+date_accessed: 2025-08-27
+document_type: policy
+notes: RPO policy
+checks:
+  text_extracted: true
+  pagination_verified: false
+  checksum_pdf: 7893f3542f57e962cb3a09de82fa7e80dfbcff9c1ebf802f210d63fd47e13bbc
