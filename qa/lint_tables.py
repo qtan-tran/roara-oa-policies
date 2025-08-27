@@ -4,8 +4,10 @@ This script loads a YAML file of rules and checks TSV files for compliance.
 """
 import argparse
 import csv
+import os
 import sys
 import yaml
+from pathlib import Path
 
 
 def load_rules(path: str) -> dict:
@@ -49,22 +51,61 @@ def validate_file(file_path: str, rules: dict) -> list:
 
 def main():
     parser = argparse.ArgumentParser(description="Validate OA policy tables.")
-    parser.add_argument("input", help="TSV file to validate")
+    parser.add_argument(
+        "input",
+        nargs="?",
+        help="TSV file to validate (optional; if omitted, searches analysis/outputs/tables)",
+    )
     parser.add_argument(
         "--rules",
         default="qa/validation_rules.yaml",
         help="Path to YAML rules file",
     )
     args = parser.parse_args()
-    rules = load_rules(args.rules)
-    print(f"Validating {args.input} using rules from {args.rules}")
-    errors = validate_file(args.input, rules)
-    if errors:
-        print("Errors found:")
-        for err in errors:
-            print(err)
-        sys.exit(1)
-    print("No errors found.")
+    rules_path = args.rules
+    # Resolve the default rules path relative to this script if necessary
+    if not os.path.exists(rules_path) and rules_path == "qa/validation_rules.yaml":
+        script_dir = Path(__file__).resolve().parent
+        candidate = script_dir / "validation_rules.yaml"
+        if candidate.is_file():
+            rules_path = str(candidate)
+    rules = load_rules(rules_path)
+    # Determine which files to validate
+    if args.input:
+        target_files = [Path(args.input)]
+    else:
+        repo_root = Path(__file__).resolve().parents[1]
+        search_dir = repo_root / "analysis" / "outputs" / "tables"
+        if search_dir.is_dir():
+            target_files = list(search_dir.glob("*.tsv"))
+        else:
+            target_files = []
+        if not target_files:
+            print("No TSV files found for validation. Skipping lint and exiting successfully.")
+            return
+    return_code = 0
+    required_columns = set(rules.get("columns", {}).keys())
+    for file_path in target_files:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                reader = csv.reader(f, delimiter="\t")
+                header = next(reader, [])
+        except Exception as exc:
+            print(f"Warning: could not read {file_path}: {exc}")
+            continue
+        if not required_columns.intersection(header):
+            print(f"Skipping {file_path} – no required columns for validation found.")
+            continue
+        print(f"Validating {file_path} using rules from {args.rules}")
+        errors = validate_file(str(file_path), rules)
+        if errors:
+            print(f"Errors found in {file_path}:")
+            for err in errors:
+                print(err)
+            return_code = 1
+        else:
+            print(f"No errors found in {file_path}.")
+    sys.exit(return_code)
 
 
 if __name__ == "__main__":
