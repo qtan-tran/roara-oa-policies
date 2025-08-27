@@ -1,0 +1,13 @@
+policy_id: DE_RPO_33_Forschungszentrum-Juelich_2023
+institution: Forschungszentrum Jülich
+title: Open Access Strategy of Forschungszentrum Jülich
+year: 2023
+language: en
+source_url: ""
+date_accessed: 2025-08-27
+document_type: policy
+notes: RPO policy
+checks:
+  text_extracted: true
+  pagination_verified: false
+  checksum_pdf: 56a426e428921248c3d880aa2e33cfe5efcfa32df5f38f901e2bedfc7e82beba
