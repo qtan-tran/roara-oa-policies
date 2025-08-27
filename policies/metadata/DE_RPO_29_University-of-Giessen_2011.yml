@@ -1,0 +1,13 @@
+policy_id: DE_RPO_29_University-of-Giessen_2011
+institution: Justus-Liebig-University Giessen
+title: Open Access Resolution der Justus-Liebig-Universität Gießen
+year: 2011
+language: de
+source_url: ""
+date_accessed: 2025-08-27
+document_type: policy
+notes: RPO policy
+checks:
+  text_extracted: true
+  pagination_verified: false
+  checksum_pdf: ae61aa7be9772d35c7bdb154228e736bf4d00e30f8ec6f1087f08e714870beb3
