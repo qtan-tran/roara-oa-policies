@@ -1,27 +1,23 @@
-# Naming Conventions
+# Naming Conventions for Policy Files
 
-This repository uses consistent naming patterns to ensure clarity and traceability across files and directories.
+This repository stores policy documents from both research performing organisations (RPOs) and research funding organisations (RFOs). File names follow a structured pattern to allow easy identification and sorting. The general format is:
 
-## Policy files
+`<COUNTRY>_<SECTOR>_<ID>_<INSTITUTION>_<YEAR>.pdf`
 
-- **PDFs**: Name as `<COUNTRY>_<SECTOR>_<ID>_<ORG>_<YEAR>_<lang>.pdf`. Example: `DE_RPO_01_TUM_2014_en.pdf`.
-- **Extracted text**: Same stem with `.txt` extension. Example: `DE_RPO_01_TUM_2014_en.txt`.
-- **Metadata**: YAML files use the same stem with `.yml` extension.
-- Use uppercase for country/sector prefixes and underscores between fields. Do not include spaces or special characters.
+Where:
 
-## Data files
+- **COUNTRY** is the ISO-3166 alpha-2 code (e.g., `DE` for Germany).
+- **SECTOR** indicates whether the policy comes from a research performing organisation (`RPO`) or a research funding organisation (`RFO`).
+- **ID** is a unique numeric identifier for the institution, optionally followed by a letter when multiple policies exist for the same institution (e.g., `01A`, `01B`).
+- **INSTITUTION** is an abbreviated or hyphenated version of the organisation’s name, using hyphens instead of spaces. Use camel-case or hyphenated segments to preserve readability (e.g., `Max-Planck-Society`, `Fraunhofer`, `Max-Weber-Foundation`).
+- **YEAR** is the year the policy was adopted. If unknown, use the document’s publication year or creation date.
 
-- Raw and processed tables in `/data` should use lowercase names with underscores, and include a date stamp if applicable, e.g., `oa_policy_attributes_raw_2025-08-26.csv`.
-- Processed tables use `.tsv` or `.csv` as appropriate, with names like `oa_policy_attributes_normalized.tsv`.
-- Controlled vocabularies are stored in YAML files under `data/lookups/`.
+The language suffix is omitted for these RFO policies because they are provided in the language distributed by the funder. When multiple language versions are available, append `_de` or `_en` as appropriate.
 
-## Scripts and notebooks
+## Examples
 
-- Python scripts under `analysis/scripts/` are named with verbs and nouns separated by underscores, e.g., `extract_text.py`.
-- Jupyter notebooks under `analysis/notebooks/` use a prefixed number to indicate order, e.g., `01_build_normalized_table.ipynb`.
+- `DE_RFO_01A_BMBF_2016.pdf` – 2016 open access policy from the German Federal Ministry of Education and Research (BMBF).
+- `DE_RFO_04_Max-Planck-Society_2025.pdf` – Max Planck Society open access policy (approximate year 2025).
+- `DE_RPO_01_TUM_2014.pdf` – 2014 open access policy from TU München (example for an RPO).
 
-## Templates
-
-- Templates under `/templates` are named to reflect their purpose, such as `policy_metadata_template.yml`, `snippet_schema.json`, and `data_release_checklist.md`.
-
-Adhering to these conventions simplifies automated processing and ensures that filenames convey their contents and provenance.
+Files should be stored under `policies/pdf/`. Corresponding plain-text extractions are saved under `policies/text/` with the same stem and `.txt` extension.
