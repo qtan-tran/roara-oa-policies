@@ -56,5 +56,3 @@ This roadmap describes how quality assurance (QA) will be developed and extended
 - **M2**: CI workflow and pytest suite (month 6).
 - **M3**: First cross-country QA comparison (month 12).
 - **M4**: Public QA reports auto-generated (month 18).
-
-This roadmap should be reviewed quarterly and updated as new needs or collaborations arise.
