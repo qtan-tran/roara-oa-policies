@@ -4,8 +4,7 @@ title: "ROARA OA Policies"
 version: "0.1.0"
 authors:
   - family-names: "Tran"
-    given-names: "Q."
-  - name: "ROARA Project Team"
+    given-names: "Quoc-Tan"
 type: dataset
 date-released: 2025-08-22
 repository: "https://github.com/qtan-tran/roara-oa-policies"
