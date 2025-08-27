@@ -10,6 +10,7 @@ This roadmap describes how quality assurance (QA) will be developed and extended
   - Ensure all policy PDFs in `/policies/` have SHA256 checksums listed in `checksums.sha256`.
   - Validate that filenames follow the naming convention (`DE_RPO_XX_[Institution]_[Year].pdf`).
 - **Metadata validation**
+  - Automatic discovery of tables: The linter inspects each table’s header and only validates files containing the expected columns. Unrelated TSV files (e.g., analysis outputs) are skipped to prevent false positives.
   - Define required fields in `/data/lookups/controlled_vocab.yaml`.
   - Extend `qa/lint_tables.py` to check:
     - Harmonized vocabularies (mandate strength, OA type, etc.).
